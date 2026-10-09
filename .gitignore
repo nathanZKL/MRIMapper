@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- MRIMapper project ---
+# Datasets (original downloads and extracted files) never go into Git.
+data/
+*.mat
+*.zip
+# Generated reports and figures (re-create with the scripts in src/)
+reports/

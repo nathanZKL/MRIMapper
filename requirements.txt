@@ -1,0 +1,5 @@
+# Milestone 1: data inspection and visualization only (no deep learning yet).
+# Versions are the exact ones tested on 2026-10-09 with Python 3.13.7.
+numpy==2.5.3        # arrays (images and masks)
+h5py==3.16.0        # reads MATLAB v7.3 .mat files (they are HDF5 inside)
+matplotlib==3.11.2  # preview figures
