@@ -8,7 +8,7 @@ healthy-vs-tumor detection or early detection.
 ## Status
 
 - [x] **Milestone 1:** environment, dataset verification and extraction, `.mat` loader, inventory report, preview figure
-- [ ] Milestone 2: patient-grouped train/validation/test split
+- [x] **Milestone 2:** patient-grouped train/validation/test split (70/15/15, saved in `splits/`), with automated tests
 - [ ] Later: training a segmentation model
 
 ## Quick start (Windows PowerShell)
@@ -20,6 +20,8 @@ py -3.13 -m venv .venv
 .\.venv\Scripts\python.exe src\prepare_data.py
 .\.venv\Scripts\python.exe src\inventory.py
 .\.venv\Scripts\python.exe src\preview.py
+.\.venv\Scripts\python.exe src\make_split.py     # reuses the saved split in splits/
+.\.venv\Scripts\python.exe -m pytest -v          # automated tests
 ```
 
 Full step-by-step instructions: [docs/SETUP_WINDOWS.md](docs/SETUP_WINDOWS.md).

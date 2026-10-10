@@ -1,0 +1,74 @@
+{
+  "split_file": "split_v1.csv",
+  "algorithm_version": 1,
+  "seed": 42,
+  "fractions": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "grouping": "mat_loader.pid_base (trailing letters removed from patient IDs)",
+  "stratified_by": "label",
+  "source": {
+    "title": "brain tumor dataset",
+    "author": "Jun Cheng",
+    "doi": "10.6084/m9.figshare.1512427.v8",
+    "url": "https://doi.org/10.6084/m9.figshare.1512427",
+    "figshare_version": 8,
+    "published": "2024-12-21",
+    "license": "CC BY 4.0"
+  },
+  "created_utc": "2026-10-10T08:09:22+00:00",
+  "input_fingerprint": "1d4a0e92d9478cfc8f7891de791f08797eb2dd985c5077cc0650c527943d9bc7",
+  "assignment_fingerprint": "b0e6f8b363b8ec1e0a68ecf744b639e62a3dd292937b5a2d779eb90732e24d17",
+  "counts": {
+    "images": 3064,
+    "patient_ids": 233,
+    "patient_groups": 209,
+    "patient_groups_in_multiple_splits": 0,
+    "per_split": {
+      "train": {
+        "meningioma": {
+          "images": 495,
+          "groups": 56
+        },
+        "glioma": {
+          "images": 1004,
+          "groups": 52
+        },
+        "pituitary tumor": {
+          "images": 652,
+          "groups": 43
+        }
+      },
+      "val": {
+        "meningioma": {
+          "images": 105,
+          "groups": 10
+        },
+        "glioma": {
+          "images": 216,
+          "groups": 8
+        },
+        "pituitary tumor": {
+          "images": 147,
+          "groups": 10
+        }
+      },
+      "test": {
+        "meningioma": {
+          "images": 108,
+          "groups": 16
+        },
+        "glioma": {
+          "images": 206,
+          "groups": 5
+        },
+        "pituitary tumor": {
+          "images": 131,
+          "groups": 9
+        }
+      }
+    }
+  }
+}

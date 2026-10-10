@@ -17,6 +17,13 @@ EXTRACTED_DIR = PROJECT_ROOT / "data" / "extracted" / DATASET_ID
 MAT_DIR = EXTRACTED_DIR / "mat"
 # Generated reports and figures.
 REPORTS_DIR = PROJECT_ROOT / "reports"
+# Saved train/val/test assignments (milestone 2). Kept in Git so every future
+# run, on any computer, uses exactly the same split.
+SPLITS_DIR = PROJECT_ROOT / "splits"
+SPLIT_CSV = SPLITS_DIR / "split_v1.csv"
+SPLIT_JSON = SPLITS_DIR / "split_v1.json"
+SPLIT_SEED = 42
+SPLIT_FRACTIONS = {"train": 0.70, "val": 0.15, "test": 0.15}
 
 CVIND_PATH = RAW_DIR / "cvind.mat"
 README_PATH = RAW_DIR / "README 2024.txt"

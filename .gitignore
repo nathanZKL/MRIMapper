@@ -226,3 +226,5 @@ data/
 *.zip
 # Generated reports and figures (re-create with the scripts in src/)
 reports/
+# Local Claude Code checkpoint log
+.claude/checkpoints.log

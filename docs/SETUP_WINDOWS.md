@@ -76,6 +76,27 @@ Then open `reports\preview_tumor_types.png`. To see different examples:
 .\.venv\Scripts\python.exe src\preview.py --per-type 4 --seed 7
 ```
 
+## 6. The train / validation / test split (milestone 2)
+
+```powershell
+.\.venv\Scripts\python.exe src\make_split.py
+```
+
+The split is already saved in `splits\split_v1.csv` (one row per image) and
+`splits\split_v1.json` (seed, settings, counts and fingerprints). These files are
+in Git, so this command **reuses** them: it checks they are intact and still match
+the dataset, then rewrites `reports\split_report.md`. It never reshuffles. To make
+a brand-new split you would have to delete both files yourself.
+
+## 7. Run the automated tests
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest -v
+```
+
+All tests should say `PASSED` (about 7 seconds). They check, among other things,
+that no patient is in two splits and that every image is assigned exactly once.
+
 ## Folder layout
 
 ```
@@ -85,7 +106,11 @@ MRIMapper/
 │   ├── mat_loader.py        reads one .mat file -> image, mask, label, patient ID
 │   ├── prepare_data.py      verify downloads + safe extraction
 │   ├── inventory.py         dataset statistics and sanity checks
-│   └── preview.py           image / mask / overlay figure
+│   ├── preview.py           image / mask / overlay figure
+│   ├── splitting.py         split logic: group, assign, validate, save, load
+│   └── make_split.py        create once / reuse the train-val-test split
+├── tests/                   automated tests, run with pytest (in Git)
+├── splits/                  saved split assignments (in Git, on purpose)
 ├── docs/                    documentation (in Git)
 ├── data/                    NOT in Git
 │   ├── raw/figshare_1512427_v8/        original downloads, never modified

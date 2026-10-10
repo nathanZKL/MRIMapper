@@ -1,0 +1,3065 @@
+file,number,pid,patient_group,label,label_name,split
+1.mat,1,100360,100360,1,meningioma,val
+2.mat,2,100360,100360,1,meningioma,val
+3.mat,3,100360,100360,1,meningioma,val
+4.mat,4,100360,100360,1,meningioma,val
+5.mat,5,100360,100360,1,meningioma,val
+6.mat,6,100572,100572,1,meningioma,train
+7.mat,7,100572,100572,1,meningioma,train
+8.mat,8,100572,100572,1,meningioma,train
+9.mat,9,101016,101016,1,meningioma,test
+10.mat,10,101016,101016,1,meningioma,test
+11.mat,11,101016,101016,1,meningioma,test
+12.mat,12,101016,101016,1,meningioma,test
+13.mat,13,101016,101016,1,meningioma,test
+14.mat,14,101016,101016,1,meningioma,test
+15.mat,15,101016,101016,1,meningioma,test
+16.mat,16,101127,101127,1,meningioma,train
+17.mat,17,101127,101127,1,meningioma,train
+18.mat,18,101127,101127,1,meningioma,train
+19.mat,19,101127,101127,1,meningioma,train
+20.mat,20,101797,101797,1,meningioma,train
+21.mat,21,101797,101797,1,meningioma,train
+22.mat,22,101797,101797,1,meningioma,train
+23.mat,23,101797,101797,1,meningioma,train
+24.mat,24,102420,102420,1,meningioma,train
+25.mat,25,102420,102420,1,meningioma,train
+26.mat,26,102446,102446,1,meningioma,val
+27.mat,27,102675,102675,1,meningioma,val
+28.mat,28,102714,102714,1,meningioma,train
+29.mat,29,102714,102714,1,meningioma,train
+30.mat,30,102714,102714,1,meningioma,train
+31.mat,31,102714,102714,1,meningioma,train
+32.mat,32,102929,102929,1,meningioma,test
+33.mat,33,102929,102929,1,meningioma,test
+34.mat,34,102935,102935,1,meningioma,train
+35.mat,35,102985,102985,1,meningioma,val
+36.mat,36,103673,103673,1,meningioma,train
+37.mat,37,103673,103673,1,meningioma,train
+38.mat,38,103673,103673,1,meningioma,train
+39.mat,39,103673,103673,1,meningioma,train
+40.mat,40,103673,103673,1,meningioma,train
+41.mat,41,103673,103673,1,meningioma,train
+42.mat,42,103925,103925,1,meningioma,train
+43.mat,43,103925,103925,1,meningioma,train
+44.mat,44,103925,103925,1,meningioma,train
+45.mat,45,104167,104167,1,meningioma,train
+46.mat,46,104167,104167,1,meningioma,train
+47.mat,47,104167,104167,1,meningioma,train
+48.mat,48,104167,104167,1,meningioma,train
+49.mat,49,104281,104281,1,meningioma,train
+50.mat,50,104281,104281,1,meningioma,train
+51.mat,51,104281,104281,1,meningioma,train
+52.mat,52,104281,104281,1,meningioma,train
+53.mat,53,104281,104281,1,meningioma,train
+54.mat,54,104281,104281,1,meningioma,train
+55.mat,55,104281,104281,1,meningioma,train
+56.mat,56,105374,105374,1,meningioma,train
+57.mat,57,105374,105374,1,meningioma,train
+58.mat,58,105555,105555,1,meningioma,train
+59.mat,59,58392,58392,3,pituitary tumor,train
+60.mat,60,105937,105937,1,meningioma,train
+61.mat,61,105937,105937,1,meningioma,train
+62.mat,62,106284,106284,1,meningioma,test
+63.mat,63,106284,106284,1,meningioma,test
+64.mat,64,106284,106284,1,meningioma,test
+65.mat,65,106284,106284,1,meningioma,test
+66.mat,66,106284,106284,1,meningioma,test
+67.mat,67,106442,106442,1,meningioma,train
+68.mat,68,106442,106442,1,meningioma,train
+69.mat,69,106442,106442,1,meningioma,train
+70.mat,70,106442,106442,1,meningioma,train
+71.mat,71,106534,106534,1,meningioma,test
+72.mat,72,106534,106534,1,meningioma,test
+73.mat,73,106665,106665,1,meningioma,train
+74.mat,74,106665,106665,1,meningioma,train
+75.mat,75,106665,106665,1,meningioma,train
+76.mat,76,106665,106665,1,meningioma,train
+77.mat,77,106665,106665,1,meningioma,train
+78.mat,78,106665,106665,1,meningioma,train
+79.mat,79,106665,106665,1,meningioma,train
+80.mat,80,106720,106720,1,meningioma,val
+81.mat,81,106720,106720,1,meningioma,val
+82.mat,82,106720,106720,1,meningioma,val
+83.mat,83,106720,106720,1,meningioma,val
+84.mat,84,106720,106720,1,meningioma,val
+85.mat,85,106720,106720,1,meningioma,val
+86.mat,86,106720,106720,1,meningioma,val
+87.mat,87,106914,106914,1,meningioma,train
+88.mat,88,106914,106914,1,meningioma,train
+89.mat,89,106914,106914,1,meningioma,train
+90.mat,90,106914,106914,1,meningioma,train
+91.mat,91,107190,107190,1,meningioma,train
+92.mat,92,107190,107190,1,meningioma,train
+93.mat,93,107248,107248,1,meningioma,val
+94.mat,94,107248,107248,1,meningioma,val
+95.mat,95,107248,107248,1,meningioma,val
+96.mat,96,107248,107248,1,meningioma,val
+97.mat,97,107248,107248,1,meningioma,val
+98.mat,98,107248,107248,1,meningioma,val
+99.mat,99,107494,107494,1,meningioma,train
+100.mat,100,107494,107494,1,meningioma,train
+101.mat,101,107494,107494,1,meningioma,train
+102.mat,102,107494,107494,1,meningioma,train
+103.mat,103,107494,107494,1,meningioma,train
+104.mat,104,108514,108514,1,meningioma,val
+105.mat,105,108514,108514,1,meningioma,val
+106.mat,106,108514,108514,1,meningioma,val
+107.mat,107,108514,108514,1,meningioma,val
+108.mat,108,108514,108514,1,meningioma,val
+109.mat,109,108514,108514,1,meningioma,val
+110.mat,110,108514,108514,1,meningioma,val
+111.mat,111,108550,108550,1,meningioma,train
+112.mat,112,108550,108550,1,meningioma,train
+113.mat,113,108590,108590,1,meningioma,train
+114.mat,114,108590,108590,1,meningioma,train
+115.mat,115,108945,108945,1,meningioma,train
+116.mat,116,108945,108945,1,meningioma,train
+117.mat,117,108945,108945,1,meningioma,train
+118.mat,118,108945,108945,1,meningioma,train
+119.mat,119,109411,109411,1,meningioma,train
+120.mat,120,109968,109968,1,meningioma,train
+121.mat,121,109968,109968,1,meningioma,train
+122.mat,122,109968,109968,1,meningioma,train
+123.mat,123,109968,109968,1,meningioma,train
+124.mat,124,110116,110116,1,meningioma,train
+125.mat,125,111077,111077,1,meningioma,train
+126.mat,126,111077,111077,1,meningioma,train
+127.mat,127,111077,111077,1,meningioma,train
+128.mat,128,111366,111366,1,meningioma,train
+129.mat,129,111366,111366,1,meningioma,train
+130.mat,130,111366,111366,1,meningioma,train
+131.mat,131,111366,111366,1,meningioma,train
+132.mat,132,111532,111532,1,meningioma,test
+133.mat,133,111532,111532,1,meningioma,test
+134.mat,134,111532,111532,1,meningioma,test
+135.mat,135,112002,112002,1,meningioma,train
+136.mat,136,112002,112002,1,meningioma,train
+137.mat,137,112002,112002,1,meningioma,train
+138.mat,138,112002,112002,1,meningioma,train
+139.mat,139,112062,112062,1,meningioma,train
+140.mat,140,112062,112062,1,meningioma,train
+141.mat,141,112062,112062,1,meningioma,train
+142.mat,142,112252,112252,1,meningioma,train
+143.mat,143,112252,112252,1,meningioma,train
+144.mat,144,112552,112552,1,meningioma,train
+145.mat,145,112552,112552,1,meningioma,train
+146.mat,146,112552,112552,1,meningioma,train
+147.mat,147,112552,112552,1,meningioma,train
+148.mat,148,112552,112552,1,meningioma,train
+149.mat,149,112552,112552,1,meningioma,train
+150.mat,150,112552,112552,1,meningioma,train
+151.mat,151,112648,112648,1,meningioma,train
+152.mat,152,112648,112648,1,meningioma,train
+153.mat,153,112648,112648,1,meningioma,train
+154.mat,154,113435,113435,1,meningioma,train
+155.mat,155,113435,113435,1,meningioma,train
+156.mat,156,113435,113435,1,meningioma,train
+157.mat,157,113435,113435,1,meningioma,train
+158.mat,158,113435,113435,1,meningioma,train
+159.mat,159,113435,113435,1,meningioma,train
+160.mat,160,113554,113554,1,meningioma,train
+161.mat,161,113554,113554,1,meningioma,train
+162.mat,162,113554,113554,1,meningioma,train
+163.mat,163,113805,113805,1,meningioma,train
+164.mat,164,114018,114018,1,meningioma,train
+165.mat,165,114018,114018,1,meningioma,train
+166.mat,166,114018,114018,1,meningioma,train
+167.mat,167,114018,114018,1,meningioma,train
+168.mat,168,114018,114018,1,meningioma,train
+169.mat,169,114359,114359,1,meningioma,val
+170.mat,170,114359,114359,1,meningioma,val
+171.mat,171,114359,114359,1,meningioma,val
+172.mat,172,114359,114359,1,meningioma,val
+173.mat,173,114359,114359,1,meningioma,val
+174.mat,174,114359,114359,1,meningioma,val
+175.mat,175,97607,97607,1,meningioma,train
+176.mat,176,97607,97607,1,meningioma,train
+177.mat,177,97607,97607,1,meningioma,train
+178.mat,178,97607,97607,1,meningioma,train
+179.mat,179,97607,97607,1,meningioma,train
+180.mat,180,97737,97737,1,meningioma,train
+181.mat,181,97737,97737,1,meningioma,train
+182.mat,182,97737,97737,1,meningioma,train
+183.mat,183,97737,97737,1,meningioma,train
+184.mat,184,97875,97875,1,meningioma,test
+185.mat,185,97875,97875,1,meningioma,test
+186.mat,186,97875,97875,1,meningioma,test
+187.mat,187,97943,97943,1,meningioma,train
+188.mat,188,97943,97943,1,meningioma,train
+189.mat,189,97943,97943,1,meningioma,train
+190.mat,190,97943,97943,1,meningioma,train
+191.mat,191,97943,97943,1,meningioma,train
+192.mat,192,98241,98241,1,meningioma,test
+193.mat,193,98241,98241,1,meningioma,test
+194.mat,194,98241,98241,1,meningioma,test
+195.mat,195,98241,98241,1,meningioma,test
+196.mat,196,98241,98241,1,meningioma,test
+197.mat,197,98241,98241,1,meningioma,test
+198.mat,198,99017,99017,1,meningioma,train
+199.mat,199,99017,99017,1,meningioma,train
+200.mat,200,99089,99089,1,meningioma,train
+201.mat,201,99089,99089,1,meningioma,train
+202.mat,202,99089,99089,1,meningioma,train
+203.mat,203,99288,99288,1,meningioma,test
+204.mat,204,99308,99308,1,meningioma,train
+205.mat,205,99308,99308,1,meningioma,train
+206.mat,206,99308,99308,1,meningioma,train
+207.mat,207,99308,99308,1,meningioma,train
+208.mat,208,99308,99308,1,meningioma,train
+209.mat,209,100820,100820,2,glioma,train
+210.mat,210,100820,100820,2,glioma,train
+211.mat,211,100360,100360,1,meningioma,val
+212.mat,212,100360,100360,1,meningioma,val
+213.mat,213,100360,100360,1,meningioma,val
+214.mat,214,100360,100360,1,meningioma,val
+215.mat,215,100360,100360,1,meningioma,val
+216.mat,216,100360,100360,1,meningioma,val
+217.mat,217,100360,100360,1,meningioma,val
+218.mat,218,100572,100572,1,meningioma,train
+219.mat,219,100572,100572,1,meningioma,train
+220.mat,220,100572,100572,1,meningioma,train
+221.mat,221,101016,101016,1,meningioma,test
+222.mat,222,101016,101016,1,meningioma,test
+223.mat,223,101016,101016,1,meningioma,test
+224.mat,224,101016,101016,1,meningioma,test
+225.mat,225,101016,101016,1,meningioma,test
+226.mat,226,101016,101016,1,meningioma,test
+227.mat,227,101127,101127,1,meningioma,train
+228.mat,228,101127,101127,1,meningioma,train
+229.mat,229,101127,101127,1,meningioma,train
+230.mat,230,101127,101127,1,meningioma,train
+231.mat,231,101797,101797,1,meningioma,train
+232.mat,232,101797,101797,1,meningioma,train
+233.mat,233,101797,101797,1,meningioma,train
+234.mat,234,101797,101797,1,meningioma,train
+235.mat,235,101797,101797,1,meningioma,train
+236.mat,236,102420,102420,1,meningioma,train
+237.mat,237,102420,102420,1,meningioma,train
+238.mat,238,102420,102420,1,meningioma,train
+239.mat,239,102446,102446,1,meningioma,val
+240.mat,240,102675,102675,1,meningioma,val
+241.mat,241,102675,102675,1,meningioma,val
+242.mat,242,102714,102714,1,meningioma,train
+243.mat,243,102714,102714,1,meningioma,train
+244.mat,244,102714,102714,1,meningioma,train
+245.mat,245,102714,102714,1,meningioma,train
+246.mat,246,102929,102929,1,meningioma,test
+247.mat,247,102929,102929,1,meningioma,test
+248.mat,248,102929,102929,1,meningioma,test
+249.mat,249,102929,102929,1,meningioma,test
+250.mat,250,102929,102929,1,meningioma,test
+251.mat,251,102929,102929,1,meningioma,test
+252.mat,252,102935,102935,1,meningioma,train
+253.mat,253,102985,102985,1,meningioma,val
+254.mat,254,103673,103673,1,meningioma,train
+255.mat,255,103673,103673,1,meningioma,train
+256.mat,256,103673,103673,1,meningioma,train
+257.mat,257,103673,103673,1,meningioma,train
+258.mat,258,103673,103673,1,meningioma,train
+259.mat,259,103673,103673,1,meningioma,train
+260.mat,260,103673,103673,1,meningioma,train
+261.mat,261,103925,103925,1,meningioma,train
+262.mat,262,103925,103925,1,meningioma,train
+263.mat,263,103925,103925,1,meningioma,train
+264.mat,264,103925,103925,1,meningioma,train
+265.mat,265,103925,103925,1,meningioma,train
+266.mat,266,103925,103925,1,meningioma,train
+267.mat,267,103925,103925,1,meningioma,train
+268.mat,268,103925,103925,1,meningioma,train
+269.mat,269,104167,104167,1,meningioma,train
+270.mat,270,104167,104167,1,meningioma,train
+271.mat,271,104167,104167,1,meningioma,train
+272.mat,272,104167,104167,1,meningioma,train
+273.mat,273,104167,104167,1,meningioma,train
+274.mat,274,104167,104167,1,meningioma,train
+275.mat,275,104281,104281,1,meningioma,train
+276.mat,276,104281,104281,1,meningioma,train
+277.mat,277,104281,104281,1,meningioma,train
+278.mat,278,104281,104281,1,meningioma,train
+279.mat,279,104281,104281,1,meningioma,train
+280.mat,280,104281,104281,1,meningioma,train
+281.mat,281,105374,105374,1,meningioma,train
+282.mat,282,105374,105374,1,meningioma,train
+283.mat,283,105555,105555,1,meningioma,train
+284.mat,284,105555,105555,1,meningioma,train
+285.mat,285,105555,105555,1,meningioma,train
+286.mat,286,105937,105937,1,meningioma,train
+287.mat,287,105937,105937,1,meningioma,train
+288.mat,288,105937,105937,1,meningioma,train
+289.mat,289,105937,105937,1,meningioma,train
+290.mat,290,106284,106284,1,meningioma,test
+291.mat,291,106284,106284,1,meningioma,test
+292.mat,292,106284,106284,1,meningioma,test
+293.mat,293,106284,106284,1,meningioma,test
+294.mat,294,106442,106442,1,meningioma,train
+295.mat,295,106442,106442,1,meningioma,train
+296.mat,296,106442,106442,1,meningioma,train
+297.mat,297,106534,106534,1,meningioma,test
+298.mat,298,106534,106534,1,meningioma,test
+299.mat,299,106665,106665,1,meningioma,train
+300.mat,300,106665,106665,1,meningioma,train
+301.mat,301,106665,106665,1,meningioma,train
+302.mat,302,106665,106665,1,meningioma,train
+303.mat,303,106665,106665,1,meningioma,train
+304.mat,304,106720,106720,1,meningioma,val
+305.mat,305,106720,106720,1,meningioma,val
+306.mat,306,106720,106720,1,meningioma,val
+307.mat,307,106720,106720,1,meningioma,val
+308.mat,308,106720,106720,1,meningioma,val
+309.mat,309,106720,106720,1,meningioma,val
+310.mat,310,106720,106720,1,meningioma,val
+311.mat,311,106914,106914,1,meningioma,train
+312.mat,312,106914,106914,1,meningioma,train
+313.mat,313,106914,106914,1,meningioma,train
+314.mat,314,106914,106914,1,meningioma,train
+315.mat,315,107190,107190,1,meningioma,train
+316.mat,316,107248,107248,1,meningioma,val
+317.mat,317,107248,107248,1,meningioma,val
+318.mat,318,107248,107248,1,meningioma,val
+319.mat,319,107248,107248,1,meningioma,val
+320.mat,320,107494,107494,1,meningioma,train
+321.mat,321,107494,107494,1,meningioma,train
+322.mat,322,107494,107494,1,meningioma,train
+323.mat,323,107494,107494,1,meningioma,train
+324.mat,324,107494,107494,1,meningioma,train
+325.mat,325,107494,107494,1,meningioma,train
+326.mat,326,108514,108514,1,meningioma,val
+327.mat,327,108514,108514,1,meningioma,val
+328.mat,328,108514,108514,1,meningioma,val
+329.mat,329,108514,108514,1,meningioma,val
+330.mat,330,108514,108514,1,meningioma,val
+331.mat,331,108514,108514,1,meningioma,val
+332.mat,332,108550,108550,1,meningioma,train
+333.mat,333,108550,108550,1,meningioma,train
+334.mat,334,108590,108590,1,meningioma,train
+335.mat,335,108590,108590,1,meningioma,train
+336.mat,336,108945,108945,1,meningioma,train
+337.mat,337,108945,108945,1,meningioma,train
+338.mat,338,108945,108945,1,meningioma,train
+339.mat,339,108945,108945,1,meningioma,train
+340.mat,340,109411,109411,1,meningioma,train
+341.mat,341,109968,109968,1,meningioma,train
+342.mat,342,109968,109968,1,meningioma,train
+343.mat,343,109968,109968,1,meningioma,train
+344.mat,344,109968,109968,1,meningioma,train
+345.mat,345,110116,110116,1,meningioma,train
+346.mat,346,110116,110116,1,meningioma,train
+347.mat,347,110116,110116,1,meningioma,train
+348.mat,348,110116,110116,1,meningioma,train
+349.mat,349,111077,111077,1,meningioma,train
+350.mat,350,111077,111077,1,meningioma,train
+351.mat,351,111077,111077,1,meningioma,train
+352.mat,352,111077,111077,1,meningioma,train
+353.mat,353,111366,111366,1,meningioma,train
+354.mat,354,111366,111366,1,meningioma,train
+355.mat,355,111366,111366,1,meningioma,train
+356.mat,356,111366,111366,1,meningioma,train
+357.mat,357,111532,111532,1,meningioma,test
+358.mat,358,111532,111532,1,meningioma,test
+359.mat,359,111532,111532,1,meningioma,test
+360.mat,360,111532,111532,1,meningioma,test
+361.mat,361,111532,111532,1,meningioma,test
+362.mat,362,112002,112002,1,meningioma,train
+363.mat,363,112002,112002,1,meningioma,train
+364.mat,364,112002,112002,1,meningioma,train
+365.mat,365,112002,112002,1,meningioma,train
+366.mat,366,112062,112062,1,meningioma,train
+367.mat,367,112062,112062,1,meningioma,train
+368.mat,368,112062,112062,1,meningioma,train
+369.mat,369,112062,112062,1,meningioma,train
+370.mat,370,112252,112252,1,meningioma,train
+371.mat,371,112252,112252,1,meningioma,train
+372.mat,372,112552,112552,1,meningioma,train
+373.mat,373,112552,112552,1,meningioma,train
+374.mat,374,112552,112552,1,meningioma,train
+375.mat,375,112552,112552,1,meningioma,train
+376.mat,376,112552,112552,1,meningioma,train
+377.mat,377,112552,112552,1,meningioma,train
+378.mat,378,112552,112552,1,meningioma,train
+379.mat,379,112648,112648,1,meningioma,train
+380.mat,380,112648,112648,1,meningioma,train
+381.mat,381,112648,112648,1,meningioma,train
+382.mat,382,113435,113435,1,meningioma,train
+383.mat,383,113435,113435,1,meningioma,train
+384.mat,384,113435,113435,1,meningioma,train
+385.mat,385,113435,113435,1,meningioma,train
+386.mat,386,113435,113435,1,meningioma,train
+387.mat,387,113435,113435,1,meningioma,train
+388.mat,388,113435,113435,1,meningioma,train
+389.mat,389,113435,113435,1,meningioma,train
+390.mat,390,113554,113554,1,meningioma,train
+391.mat,391,113554,113554,1,meningioma,train
+392.mat,392,113554,113554,1,meningioma,train
+393.mat,393,113805,113805,1,meningioma,train
+394.mat,394,113805,113805,1,meningioma,train
+395.mat,395,114018,114018,1,meningioma,train
+396.mat,396,114018,114018,1,meningioma,train
+397.mat,397,114018,114018,1,meningioma,train
+398.mat,398,114018,114018,1,meningioma,train
+399.mat,399,114359,114359,1,meningioma,val
+400.mat,400,114359,114359,1,meningioma,val
+401.mat,401,114359,114359,1,meningioma,val
+402.mat,402,114359,114359,1,meningioma,val
+403.mat,403,114359,114359,1,meningioma,val
+404.mat,404,114359,114359,1,meningioma,val
+405.mat,405,97607,97607,1,meningioma,train
+406.mat,406,97607,97607,1,meningioma,train
+407.mat,407,97607,97607,1,meningioma,train
+408.mat,408,97737,97737,1,meningioma,train
+409.mat,409,97737,97737,1,meningioma,train
+410.mat,410,97737,97737,1,meningioma,train
+411.mat,411,97737,97737,1,meningioma,train
+412.mat,412,97737,97737,1,meningioma,train
+413.mat,413,97737,97737,1,meningioma,train
+414.mat,414,97875,97875,1,meningioma,test
+415.mat,415,97875,97875,1,meningioma,test
+416.mat,416,97875,97875,1,meningioma,test
+417.mat,417,97875,97875,1,meningioma,test
+418.mat,418,97943,97943,1,meningioma,train
+419.mat,419,97943,97943,1,meningioma,train
+420.mat,420,97943,97943,1,meningioma,train
+421.mat,421,97943,97943,1,meningioma,train
+422.mat,422,97943,97943,1,meningioma,train
+423.mat,423,98241,98241,1,meningioma,test
+424.mat,424,98241,98241,1,meningioma,test
+425.mat,425,98241,98241,1,meningioma,test
+426.mat,426,98241,98241,1,meningioma,test
+427.mat,427,98241,98241,1,meningioma,test
+428.mat,428,98241,98241,1,meningioma,test
+429.mat,429,98241,98241,1,meningioma,test
+430.mat,430,99017,99017,1,meningioma,train
+431.mat,431,99017,99017,1,meningioma,train
+432.mat,432,99089,99089,1,meningioma,train
+433.mat,433,99089,99089,1,meningioma,train
+434.mat,434,99089,99089,1,meningioma,train
+435.mat,435,99089,99089,1,meningioma,train
+436.mat,436,99089,99089,1,meningioma,train
+437.mat,437,99288,99288,1,meningioma,test
+438.mat,438,99308,99308,1,meningioma,train
+439.mat,439,99308,99308,1,meningioma,train
+440.mat,440,99308,99308,1,meningioma,train
+441.mat,441,99308,99308,1,meningioma,train
+442.mat,442,100360,100360,1,meningioma,val
+443.mat,443,100360,100360,1,meningioma,val
+444.mat,444,100360,100360,1,meningioma,val
+445.mat,445,100360,100360,1,meningioma,val
+446.mat,446,100360,100360,1,meningioma,val
+447.mat,447,100360,100360,1,meningioma,val
+448.mat,448,100572,100572,1,meningioma,train
+449.mat,449,100572,100572,1,meningioma,train
+450.mat,450,100639,100639,1,meningioma,train
+451.mat,451,100639,100639,1,meningioma,train
+452.mat,452,100920,100920,1,meningioma,test
+453.mat,453,100920,100920,1,meningioma,test
+454.mat,454,100920,100920,1,meningioma,test
+455.mat,455,101016,101016,1,meningioma,test
+456.mat,456,101016,101016,1,meningioma,test
+457.mat,457,101016,101016,1,meningioma,test
+458.mat,458,101016,101016,1,meningioma,test
+459.mat,459,101082,101082,1,meningioma,train
+460.mat,460,101082,101082,1,meningioma,train
+461.mat,461,101127,101127,1,meningioma,train
+462.mat,462,101127,101127,1,meningioma,train
+463.mat,463,101127,101127,1,meningioma,train
+464.mat,464,101127,101127,1,meningioma,train
+465.mat,465,101797,101797,1,meningioma,train
+466.mat,466,101797,101797,1,meningioma,train
+467.mat,467,101797,101797,1,meningioma,train
+468.mat,468,101797,101797,1,meningioma,train
+469.mat,469,101797,101797,1,meningioma,train
+470.mat,470,101797,101797,1,meningioma,train
+471.mat,471,101801,101801,1,meningioma,train
+472.mat,472,101801,101801,1,meningioma,train
+473.mat,473,101801,101801,1,meningioma,train
+474.mat,474,102420,102420,1,meningioma,train
+475.mat,475,102420,102420,1,meningioma,train
+476.mat,476,102446,102446,1,meningioma,val
+477.mat,477,102446,102446,1,meningioma,val
+478.mat,478,102675,102675,1,meningioma,val
+479.mat,479,102675,102675,1,meningioma,val
+480.mat,480,102714,102714,1,meningioma,train
+481.mat,481,102714,102714,1,meningioma,train
+482.mat,482,102714,102714,1,meningioma,train
+483.mat,483,102714,102714,1,meningioma,train
+484.mat,484,102714,102714,1,meningioma,train
+485.mat,485,102818,102818,1,meningioma,test
+486.mat,486,102818,102818,1,meningioma,test
+487.mat,487,102818,102818,1,meningioma,test
+488.mat,488,102818,102818,1,meningioma,test
+489.mat,489,102935,102935,1,meningioma,train
+490.mat,490,102960,102960,1,meningioma,train
+491.mat,491,102960,102960,1,meningioma,train
+492.mat,492,102960,102960,1,meningioma,train
+493.mat,493,102960,102960,1,meningioma,train
+494.mat,494,102960,102960,1,meningioma,train
+495.mat,495,102985,102985,1,meningioma,val
+496.mat,496,103673,103673,1,meningioma,train
+497.mat,497,103673,103673,1,meningioma,train
+498.mat,498,103673,103673,1,meningioma,train
+499.mat,499,103673,103673,1,meningioma,train
+500.mat,500,103673,103673,1,meningioma,train
+501.mat,501,103925,103925,1,meningioma,train
+502.mat,502,103925,103925,1,meningioma,train
+503.mat,503,103925,103925,1,meningioma,train
+504.mat,504,103925,103925,1,meningioma,train
+505.mat,505,104167,104167,1,meningioma,train
+506.mat,506,104167,104167,1,meningioma,train
+507.mat,507,104167,104167,1,meningioma,train
+508.mat,508,104167,104167,1,meningioma,train
+509.mat,509,104167,104167,1,meningioma,train
+510.mat,510,104281,104281,1,meningioma,train
+511.mat,511,104281,104281,1,meningioma,train
+512.mat,512,104281,104281,1,meningioma,train
+513.mat,513,104281,104281,1,meningioma,train
+514.mat,514,104695,104695,1,meningioma,train
+515.mat,515,104695,104695,1,meningioma,train
+516.mat,516,104695,104695,1,meningioma,train
+517.mat,517,105374,105374,1,meningioma,train
+518.mat,518,105555,105555,1,meningioma,train
+519.mat,519,105555,105555,1,meningioma,train
+520.mat,520,105937,105937,1,meningioma,train
+521.mat,521,105937,105937,1,meningioma,train
+522.mat,522,105937,105937,1,meningioma,train
+523.mat,523,106284,106284,1,meningioma,test
+524.mat,524,106284,106284,1,meningioma,test
+525.mat,525,106284,106284,1,meningioma,test
+526.mat,526,106284,106284,1,meningioma,test
+527.mat,527,106442,106442,1,meningioma,train
+528.mat,528,106442,106442,1,meningioma,train
+529.mat,529,106442,106442,1,meningioma,train
+530.mat,530,106534,106534,1,meningioma,test
+531.mat,531,106534,106534,1,meningioma,test
+532.mat,532,106592,106592,1,meningioma,test
+533.mat,533,106665,106665,1,meningioma,train
+534.mat,534,106665,106665,1,meningioma,train
+535.mat,535,106665,106665,1,meningioma,train
+536.mat,536,106665,106665,1,meningioma,train
+537.mat,537,106665,106665,1,meningioma,train
+538.mat,538,106665,106665,1,meningioma,train
+539.mat,539,106665,106665,1,meningioma,train
+540.mat,540,106720,106720,1,meningioma,val
+541.mat,541,106720,106720,1,meningioma,val
+542.mat,542,106720,106720,1,meningioma,val
+543.mat,543,106914,106914,1,meningioma,train
+544.mat,544,106914,106914,1,meningioma,train
+545.mat,545,106914,106914,1,meningioma,train
+546.mat,546,106914,106914,1,meningioma,train
+547.mat,547,106914,106914,1,meningioma,train
+548.mat,548,106914,106914,1,meningioma,train
+549.mat,549,106914,106914,1,meningioma,train
+550.mat,550,107190,107190,1,meningioma,train
+551.mat,551,107248,107248,1,meningioma,val
+552.mat,552,107248,107248,1,meningioma,val
+553.mat,553,107248,107248,1,meningioma,val
+554.mat,554,107248,107248,1,meningioma,val
+555.mat,555,107248,107248,1,meningioma,val
+556.mat,556,107494,107494,1,meningioma,train
+557.mat,557,107494,107494,1,meningioma,train
+558.mat,558,107494,107494,1,meningioma,train
+559.mat,559,107494,107494,1,meningioma,train
+560.mat,560,107946,107946,1,meningioma,train
+561.mat,561,107946,107946,1,meningioma,train
+562.mat,562,107946,107946,1,meningioma,train
+563.mat,563,107946,107946,1,meningioma,train
+564.mat,564,108514,108514,1,meningioma,val
+565.mat,565,108514,108514,1,meningioma,val
+566.mat,566,108514,108514,1,meningioma,val
+567.mat,567,108514,108514,1,meningioma,val
+568.mat,568,108514,108514,1,meningioma,val
+569.mat,569,108550,108550,1,meningioma,train
+570.mat,570,108550,108550,1,meningioma,train
+571.mat,571,108590,108590,1,meningioma,train
+572.mat,572,108590,108590,1,meningioma,train
+573.mat,573,108945,108945,1,meningioma,train
+574.mat,574,108945,108945,1,meningioma,train
+575.mat,575,108945,108945,1,meningioma,train
+576.mat,576,108945,108945,1,meningioma,train
+577.mat,577,109350,109350,1,meningioma,test
+578.mat,578,109350,109350,1,meningioma,test
+579.mat,579,109411,109411,1,meningioma,train
+580.mat,580,109968,109968,1,meningioma,train
+581.mat,581,109968,109968,1,meningioma,train
+582.mat,582,109968,109968,1,meningioma,train
+583.mat,583,109968,109968,1,meningioma,train
+584.mat,584,110808,110808,1,meningioma,test
+585.mat,585,110808,110808,1,meningioma,test
+586.mat,586,111077,111077,1,meningioma,train
+587.mat,587,111077,111077,1,meningioma,train
+588.mat,588,111077,111077,1,meningioma,train
+589.mat,589,111366,111366,1,meningioma,train
+590.mat,590,111366,111366,1,meningioma,train
+591.mat,591,111366,111366,1,meningioma,train
+592.mat,592,111366,111366,1,meningioma,train
+593.mat,593,111532,111532,1,meningioma,test
+594.mat,594,111532,111532,1,meningioma,test
+595.mat,595,111532,111532,1,meningioma,test
+596.mat,596,111696,111696,1,meningioma,train
+597.mat,597,111710,111710,1,meningioma,train
+598.mat,598,111710,111710,1,meningioma,train
+599.mat,599,112002,112002,1,meningioma,train
+600.mat,600,112002,112002,1,meningioma,train
+601.mat,601,112002,112002,1,meningioma,train
+602.mat,602,112002,112002,1,meningioma,train
+603.mat,603,112062,112062,1,meningioma,train
+604.mat,604,112062,112062,1,meningioma,train
+605.mat,605,112062,112062,1,meningioma,train
+606.mat,606,112252,112252,1,meningioma,train
+607.mat,607,112252,112252,1,meningioma,train
+608.mat,608,112552,112552,1,meningioma,train
+609.mat,609,112552,112552,1,meningioma,train
+610.mat,610,112552,112552,1,meningioma,train
+611.mat,611,112552,112552,1,meningioma,train
+612.mat,612,112552,112552,1,meningioma,train
+613.mat,613,112552,112552,1,meningioma,train
+614.mat,614,112552,112552,1,meningioma,train
+615.mat,615,112648,112648,1,meningioma,train
+616.mat,616,112648,112648,1,meningioma,train
+617.mat,617,112648,112648,1,meningioma,train
+618.mat,618,112648,112648,1,meningioma,train
+619.mat,619,112650,112650,1,meningioma,train
+620.mat,620,112650,112650,1,meningioma,train
+621.mat,621,113098,113098,1,meningioma,train
+622.mat,622,113098,113098,1,meningioma,train
+623.mat,623,113098,113098,1,meningioma,train
+624.mat,624,113098,113098,1,meningioma,train
+625.mat,625,113435,113435,1,meningioma,train
+626.mat,626,113435,113435,1,meningioma,train
+627.mat,627,113435,113435,1,meningioma,train
+628.mat,628,113435,113435,1,meningioma,train
+629.mat,629,113435,113435,1,meningioma,train
+630.mat,630,113435,113435,1,meningioma,train
+631.mat,631,113554,113554,1,meningioma,train
+632.mat,632,113554,113554,1,meningioma,train
+633.mat,633,113554,113554,1,meningioma,train
+634.mat,634,113554,113554,1,meningioma,train
+635.mat,635,113614,113614,1,meningioma,test
+636.mat,636,113614,113614,1,meningioma,test
+637.mat,637,113614,113614,1,meningioma,test
+638.mat,638,113614,113614,1,meningioma,test
+639.mat,639,113805,113805,1,meningioma,train
+640.mat,640,113971,113971,1,meningioma,train
+641.mat,641,113971,113971,1,meningioma,train
+642.mat,642,114018,114018,1,meningioma,train
+643.mat,643,114018,114018,1,meningioma,train
+644.mat,644,114018,114018,1,meningioma,train
+645.mat,645,114018,114018,1,meningioma,train
+646.mat,646,114018,114018,1,meningioma,train
+647.mat,647,114018,114018,1,meningioma,train
+648.mat,648,114359,114359,1,meningioma,val
+649.mat,649,114359,114359,1,meningioma,val
+650.mat,650,114359,114359,1,meningioma,val
+651.mat,651,114359,114359,1,meningioma,val
+652.mat,652,114359,114359,1,meningioma,val
+653.mat,653,114359,114359,1,meningioma,val
+654.mat,654,114359,114359,1,meningioma,val
+655.mat,655,114417,114417,1,meningioma,train
+656.mat,656,114417,114417,1,meningioma,train
+657.mat,657,114417,114417,1,meningioma,train
+658.mat,658,114417,114417,1,meningioma,train
+659.mat,659,97374,97374,1,meningioma,val
+660.mat,660,97374,97374,1,meningioma,val
+661.mat,661,97374,97374,1,meningioma,val
+662.mat,662,97374,97374,1,meningioma,val
+663.mat,663,97374,97374,1,meningioma,val
+664.mat,664,97607,97607,1,meningioma,train
+665.mat,665,97607,97607,1,meningioma,train
+666.mat,666,97607,97607,1,meningioma,train
+667.mat,667,97607,97607,1,meningioma,train
+668.mat,668,97737,97737,1,meningioma,train
+669.mat,669,97737,97737,1,meningioma,train
+670.mat,670,97737,97737,1,meningioma,train
+671.mat,671,97737,97737,1,meningioma,train
+672.mat,672,97737,97737,1,meningioma,train
+673.mat,673,97793,97793,1,meningioma,test
+674.mat,674,97875,97875,1,meningioma,test
+675.mat,675,97943,97943,1,meningioma,train
+676.mat,676,97943,97943,1,meningioma,train
+677.mat,677,97943,97943,1,meningioma,train
+678.mat,678,97943,97943,1,meningioma,train
+679.mat,679,97943,97943,1,meningioma,train
+680.mat,680,98241,98241,1,meningioma,test
+681.mat,681,98241,98241,1,meningioma,test
+682.mat,682,98241,98241,1,meningioma,test
+683.mat,683,98241,98241,1,meningioma,test
+684.mat,684,98241,98241,1,meningioma,test
+685.mat,685,98241,98241,1,meningioma,test
+686.mat,686,99017,99017,1,meningioma,train
+687.mat,687,99017,99017,1,meningioma,train
+688.mat,688,99089,99089,1,meningioma,train
+689.mat,689,99089,99089,1,meningioma,train
+690.mat,690,99089,99089,1,meningioma,train
+691.mat,691,99089,99089,1,meningioma,train
+692.mat,692,99089,99089,1,meningioma,train
+693.mat,693,99162,99162,1,meningioma,train
+694.mat,694,99162,99162,1,meningioma,train
+695.mat,695,99162,99162,1,meningioma,train
+696.mat,696,99288,99288,1,meningioma,test
+697.mat,697,99308,99308,1,meningioma,train
+698.mat,698,99308,99308,1,meningioma,train
+699.mat,699,99308,99308,1,meningioma,train
+700.mat,700,99308,99308,1,meningioma,train
+701.mat,701,99308,99308,1,meningioma,train
+702.mat,702,99308,99308,1,meningioma,train
+703.mat,703,99815,99815,1,meningioma,test
+704.mat,704,99815,99815,1,meningioma,test
+705.mat,705,99815,99815,1,meningioma,test
+706.mat,706,99815,99815,1,meningioma,test
+707.mat,707,99815,99815,1,meningioma,test
+708.mat,708,99815,99815,1,meningioma,test
+709.mat,709,105936,105936,3,pituitary tumor,test
+710.mat,710,105936,105936,3,pituitary tumor,test
+711.mat,711,105936,105936,3,pituitary tumor,test
+712.mat,712,106062,106062,3,pituitary tumor,train
+713.mat,713,106062,106062,3,pituitary tumor,train
+714.mat,714,106062,106062,3,pituitary tumor,train
+715.mat,715,100820,100820,2,glioma,train
+716.mat,716,100820,100820,2,glioma,train
+717.mat,717,100820,100820,2,glioma,train
+718.mat,718,101020,101020,2,glioma,train
+719.mat,719,101020,101020,2,glioma,train
+720.mat,720,101020,101020,2,glioma,train
+721.mat,721,101020,101020,2,glioma,train
+722.mat,722,102075,102075,2,glioma,train
+723.mat,723,102075,102075,2,glioma,train
+724.mat,724,102075,102075,2,glioma,train
+725.mat,725,103148,103148,2,glioma,train
+726.mat,726,103148,103148,2,glioma,train
+727.mat,727,103148,103148,2,glioma,train
+728.mat,728,103148,103148,2,glioma,train
+729.mat,729,106494,106494,2,glioma,train
+730.mat,730,106494,106494,2,glioma,train
+731.mat,731,106494,106494,2,glioma,train
+732.mat,732,106494,106494,2,glioma,train
+733.mat,733,106494,106494,2,glioma,train
+734.mat,734,106494,106494,2,glioma,train
+735.mat,735,107747,107747,2,glioma,train
+736.mat,736,107747,107747,2,glioma,train
+737.mat,737,107747,107747,2,glioma,train
+738.mat,738,107747,107747,2,glioma,train
+739.mat,739,107747,107747,2,glioma,train
+740.mat,740,112105,112105,2,glioma,train
+741.mat,741,112105,112105,2,glioma,train
+742.mat,742,112105,112105,2,glioma,train
+743.mat,743,112105,112105,2,glioma,train
+744.mat,744,112105,112105,2,glioma,train
+745.mat,745,112105,112105,2,glioma,train
+746.mat,746,112105,112105,2,glioma,train
+747.mat,747,100820,100820,2,glioma,train
+748.mat,748,100820,100820,2,glioma,train
+749.mat,749,100820,100820,2,glioma,train
+750.mat,750,100820,100820,2,glioma,train
+751.mat,751,100820,100820,2,glioma,train
+752.mat,752,100820,100820,2,glioma,train
+753.mat,753,101020,101020,2,glioma,train
+754.mat,754,101020,101020,2,glioma,train
+755.mat,755,101020,101020,2,glioma,train
+756.mat,756,101020,101020,2,glioma,train
+757.mat,757,101020,101020,2,glioma,train
+758.mat,758,101020,101020,2,glioma,train
+759.mat,759,101020,101020,2,glioma,train
+760.mat,760,101020,101020,2,glioma,train
+761.mat,761,102075,102075,2,glioma,train
+762.mat,762,102075,102075,2,glioma,train
+763.mat,763,102075,102075,2,glioma,train
+764.mat,764,103148,103148,2,glioma,train
+765.mat,765,103148,103148,2,glioma,train
+766.mat,766,103148,103148,2,glioma,train
+767.mat,767,103148,103148,2,glioma,train
+768.mat,768,106494,106494,2,glioma,train
+769.mat,769,106494,106494,2,glioma,train
+770.mat,770,106494,106494,2,glioma,train
+771.mat,771,106494,106494,2,glioma,train
+772.mat,772,106494,106494,2,glioma,train
+773.mat,773,107747,107747,2,glioma,train
+774.mat,774,107747,107747,2,glioma,train
+775.mat,775,107747,107747,2,glioma,train
+776.mat,776,107747,107747,2,glioma,train
+777.mat,777,107747,107747,2,glioma,train
+778.mat,778,107747,107747,2,glioma,train
+779.mat,779,112027,112027,2,glioma,train
+780.mat,780,112027,112027,2,glioma,train
+781.mat,781,112105,112105,2,glioma,train
+782.mat,782,112105,112105,2,glioma,train
+783.mat,783,112105,112105,2,glioma,train
+784.mat,784,112105,112105,2,glioma,train
+785.mat,785,112105,112105,2,glioma,train
+786.mat,786,112105,112105,2,glioma,train
+787.mat,787,112105,112105,2,glioma,train
+788.mat,788,112105,112105,2,glioma,train
+789.mat,789,112105,112105,2,glioma,train
+790.mat,790,112105,112105,2,glioma,train
+791.mat,791,112105,112105,2,glioma,train
+792.mat,792,88670,88670,2,glioma,train
+793.mat,793,88670,88670,2,glioma,train
+794.mat,794,88670,88670,2,glioma,train
+795.mat,795,88670,88670,2,glioma,train
+796.mat,796,88670,88670,2,glioma,train
+797.mat,797,88670,88670,2,glioma,train
+798.mat,798,88670,88670,2,glioma,train
+799.mat,799,90284,90284,2,glioma,test
+800.mat,800,90284,90284,2,glioma,test
+801.mat,801,90284,90284,2,glioma,test
+802.mat,802,90284,90284,2,glioma,test
+803.mat,803,90284,90284,2,glioma,test
+804.mat,804,90284,90284,2,glioma,test
+805.mat,805,90284,90284,2,glioma,test
+806.mat,806,90284,90284,2,glioma,test
+807.mat,807,92897,92897,2,glioma,train
+808.mat,808,92897,92897,2,glioma,train
+809.mat,809,93825,93825,2,glioma,train
+810.mat,810,93825,93825,2,glioma,train
+811.mat,811,93825,93825,2,glioma,train
+812.mat,812,97609,97609,2,glioma,val
+813.mat,813,97609,97609,2,glioma,val
+814.mat,814,97609,97609,2,glioma,val
+815.mat,815,97609,97609,2,glioma,val
+816.mat,816,97609,97609,2,glioma,val
+817.mat,817,97609,97609,2,glioma,val
+818.mat,818,100416,100416,2,glioma,train
+819.mat,819,100416,100416,2,glioma,train
+820.mat,820,100416,100416,2,glioma,train
+821.mat,821,100416,100416,2,glioma,train
+822.mat,822,100820,100820,2,glioma,train
+823.mat,823,100820,100820,2,glioma,train
+824.mat,824,100820,100820,2,glioma,train
+825.mat,825,100820,100820,2,glioma,train
+826.mat,826,100820,100820,2,glioma,train
+827.mat,827,100820,100820,2,glioma,train
+828.mat,828,101020,101020,2,glioma,train
+829.mat,829,101020,101020,2,glioma,train
+830.mat,830,101020,101020,2,glioma,train
+831.mat,831,101020,101020,2,glioma,train
+832.mat,832,101020,101020,2,glioma,train
+833.mat,833,101020,101020,2,glioma,train
+834.mat,834,101384,101384,2,glioma,val
+835.mat,835,101384,101384,2,glioma,val
+836.mat,836,101384,101384,2,glioma,val
+837.mat,837,102075,102075,2,glioma,train
+838.mat,838,102075,102075,2,glioma,train
+839.mat,839,102075,102075,2,glioma,train
+840.mat,840,103148,103148,2,glioma,train
+841.mat,841,103148,103148,2,glioma,train
+842.mat,842,103148,103148,2,glioma,train
+843.mat,843,103148,103148,2,glioma,train
+844.mat,844,105653,105653,2,glioma,train
+845.mat,845,105653,105653,2,glioma,train
+846.mat,846,106494,106494,2,glioma,train
+847.mat,847,106494,106494,2,glioma,train
+848.mat,848,106494,106494,2,glioma,train
+849.mat,849,106494,106494,2,glioma,train
+850.mat,850,106494,106494,2,glioma,train
+851.mat,851,106494,106494,2,glioma,train
+852.mat,852,106494,106494,2,glioma,train
+853.mat,853,107747,107747,2,glioma,train
+854.mat,854,107747,107747,2,glioma,train
+855.mat,855,107747,107747,2,glioma,train
+856.mat,856,107747,107747,2,glioma,train
+857.mat,857,108479,108479,2,glioma,train
+858.mat,858,108479,108479,2,glioma,train
+859.mat,859,112105,112105,2,glioma,train
+860.mat,860,112105,112105,2,glioma,train
+861.mat,861,112105,112105,2,glioma,train
+862.mat,862,112105,112105,2,glioma,train
+863.mat,863,112105,112105,2,glioma,train
+864.mat,864,112105,112105,2,glioma,train
+865.mat,865,88670,88670,2,glioma,train
+866.mat,866,88670,88670,2,glioma,train
+867.mat,867,88670,88670,2,glioma,train
+868.mat,868,88670,88670,2,glioma,train
+869.mat,869,88670,88670,2,glioma,train
+870.mat,870,90284,90284,2,glioma,test
+871.mat,871,90284,90284,2,glioma,test
+872.mat,872,90284,90284,2,glioma,test
+873.mat,873,90284,90284,2,glioma,test
+874.mat,874,90284,90284,2,glioma,test
+875.mat,875,90284,90284,2,glioma,test
+876.mat,876,90284,90284,2,glioma,test
+877.mat,877,90284,90284,2,glioma,test
+878.mat,878,90284,90284,2,glioma,test
+879.mat,879,90284,90284,2,glioma,test
+880.mat,880,90284,90284,2,glioma,test
+881.mat,881,92897,92897,2,glioma,train
+882.mat,882,92897,92897,2,glioma,train
+883.mat,883,93329,93329,2,glioma,train
+884.mat,884,93329,93329,2,glioma,train
+885.mat,885,93329,93329,2,glioma,train
+886.mat,886,93329,93329,2,glioma,train
+887.mat,887,93329,93329,2,glioma,train
+888.mat,888,93825,93825,2,glioma,train
+889.mat,889,93825,93825,2,glioma,train
+890.mat,890,93825,93825,2,glioma,train
+891.mat,891,93825,93825,2,glioma,train
+892.mat,892,94731,94731,2,glioma,train
+893.mat,893,94731,94731,2,glioma,train
+894.mat,894,94731,94731,2,glioma,train
+895.mat,895,95142,95142,2,glioma,train
+896.mat,896,95142,95142,2,glioma,train
+897.mat,897,95142,95142,2,glioma,train
+898.mat,898,95142,95142,2,glioma,train
+899.mat,899,95142,95142,2,glioma,train
+900.mat,900,95142,95142,2,glioma,train
+901.mat,901,95142,95142,2,glioma,train
+902.mat,902,95142,95142,2,glioma,train
+903.mat,903,95142,95142,2,glioma,train
+904.mat,904,96587,96587,2,glioma,train
+905.mat,905,96587,96587,2,glioma,train
+906.mat,906,96587,96587,2,glioma,train
+907.mat,907,96587,96587,2,glioma,train
+908.mat,908,97609,97609,2,glioma,val
+909.mat,909,97609,97609,2,glioma,val
+910.mat,910,97609,97609,2,glioma,val
+911.mat,911,97609,97609,2,glioma,val
+912.mat,912,98889,98889,2,glioma,train
+913.mat,913,98889,98889,2,glioma,train
+914.mat,914,98889,98889,2,glioma,train
+915.mat,915,98889,98889,2,glioma,train
+916.mat,916,98889,98889,2,glioma,train
+917.mat,917,98889,98889,2,glioma,train
+918.mat,918,105936,105936,3,pituitary tumor,test
+919.mat,919,105936,105936,3,pituitary tumor,test
+920.mat,920,105936,105936,3,pituitary tumor,test
+921.mat,921,105936,105936,3,pituitary tumor,test
+922.mat,922,106062,106062,3,pituitary tumor,train
+923.mat,923,106062,106062,3,pituitary tumor,train
+924.mat,924,106062,106062,3,pituitary tumor,train
+925.mat,925,106062,106062,3,pituitary tumor,train
+926.mat,926,107495,107495,3,pituitary tumor,train
+927.mat,927,107495,107495,3,pituitary tumor,train
+928.mat,928,107495,107495,3,pituitary tumor,train
+929.mat,929,107495,107495,3,pituitary tumor,train
+930.mat,930,107495,107495,3,pituitary tumor,train
+931.mat,931,107495,107495,3,pituitary tumor,train
+932.mat,932,107495,107495,3,pituitary tumor,train
+933.mat,933,107429,107429,3,pituitary tumor,train
+934.mat,934,107429,107429,3,pituitary tumor,train
+935.mat,935,107429,107429,3,pituitary tumor,train
+936.mat,936,107429,107429,3,pituitary tumor,train
+937.mat,937,107429,107429,3,pituitary tumor,train
+938.mat,938,107429,107429,3,pituitary tumor,train
+939.mat,939,107505,107505,3,pituitary tumor,val
+940.mat,940,107505,107505,3,pituitary tumor,val
+941.mat,941,107505,107505,3,pituitary tumor,val
+942.mat,942,107505,107505,3,pituitary tumor,val
+943.mat,943,107505,107505,3,pituitary tumor,val
+944.mat,944,107505,107505,3,pituitary tumor,val
+945.mat,945,107505,107505,3,pituitary tumor,val
+946.mat,946,107743,107743,3,pituitary tumor,train
+947.mat,947,107743,107743,3,pituitary tumor,train
+948.mat,948,107743,107743,3,pituitary tumor,train
+949.mat,949,107743,107743,3,pituitary tumor,train
+950.mat,950,108858,108858,3,pituitary tumor,test
+951.mat,951,108858,108858,3,pituitary tumor,test
+952.mat,952,108858,108858,3,pituitary tumor,test
+953.mat,953,108858,108858,3,pituitary tumor,test
+954.mat,954,108858,108858,3,pituitary tumor,test
+955.mat,955,108931,108931,3,pituitary tumor,train
+956.mat,956,108931,108931,3,pituitary tumor,train
+957.mat,957,108931,108931,3,pituitary tumor,train
+958.mat,958,109471,109471,3,pituitary tumor,test
+959.mat,959,109471,109471,3,pituitary tumor,test
+960.mat,960,109471,109471,3,pituitary tumor,test
+961.mat,961,109471,109471,3,pituitary tumor,test
+962.mat,962,109769,109769,3,pituitary tumor,train
+963.mat,963,109769,109769,3,pituitary tumor,train
+964.mat,964,109769,109769,3,pituitary tumor,train
+965.mat,965,109769,109769,3,pituitary tumor,train
+966.mat,966,109898,109898,3,pituitary tumor,train
+967.mat,967,109898,109898,3,pituitary tumor,train
+968.mat,968,109898,109898,3,pituitary tumor,train
+969.mat,969,109898,109898,3,pituitary tumor,train
+970.mat,970,109898,109898,3,pituitary tumor,train
+971.mat,971,109898,109898,3,pituitary tumor,train
+972.mat,972,110518,110518,3,pituitary tumor,val
+973.mat,973,110518,110518,3,pituitary tumor,val
+974.mat,974,110537,110537,3,pituitary tumor,train
+975.mat,975,110537,110537,3,pituitary tumor,train
+976.mat,976,110993,110993,3,pituitary tumor,train
+977.mat,977,110993,110993,3,pituitary tumor,train
+978.mat,978,110993,110993,3,pituitary tumor,train
+979.mat,979,110993,110993,3,pituitary tumor,train
+980.mat,980,111075,111075,3,pituitary tumor,train
+981.mat,981,111075,111075,3,pituitary tumor,train
+982.mat,982,111075,111075,3,pituitary tumor,train
+983.mat,983,111075,111075,3,pituitary tumor,train
+984.mat,984,111075,111075,3,pituitary tumor,train
+985.mat,985,111075,111075,3,pituitary tumor,train
+986.mat,986,111125,111125,3,pituitary tumor,val
+987.mat,987,111125,111125,3,pituitary tumor,val
+988.mat,988,111125,111125,3,pituitary tumor,val
+989.mat,989,111125,111125,3,pituitary tumor,val
+990.mat,990,111785,111785,3,pituitary tumor,train
+991.mat,991,111785,111785,3,pituitary tumor,train
+992.mat,992,111785,111785,3,pituitary tumor,train
+993.mat,993,111785,111785,3,pituitary tumor,train
+994.mat,994,112074,112074,3,pituitary tumor,test
+995.mat,995,112074,112074,3,pituitary tumor,test
+996.mat,996,112074,112074,3,pituitary tumor,test
+997.mat,997,112074,112074,3,pituitary tumor,test
+998.mat,998,112649,112649,3,pituitary tumor,train
+999.mat,999,112649,112649,3,pituitary tumor,train
+1000.mat,1000,112649,112649,3,pituitary tumor,train
+1001.mat,1001,112649,112649,3,pituitary tumor,train
+1002.mat,1002,112649,112649,3,pituitary tumor,train
+1003.mat,1003,112746,112746,3,pituitary tumor,train
+1004.mat,1004,112746,112746,3,pituitary tumor,train
+1005.mat,1005,112746,112746,3,pituitary tumor,train
+1006.mat,1006,112847,112847,3,pituitary tumor,train
+1007.mat,1007,112847,112847,3,pituitary tumor,train
+1008.mat,1008,112847,112847,3,pituitary tumor,train
+1009.mat,1009,112847,112847,3,pituitary tumor,train
+1010.mat,1010,113274,113274,3,pituitary tumor,train
+1011.mat,1011,113274,113274,3,pituitary tumor,train
+1012.mat,1012,113274,113274,3,pituitary tumor,train
+1013.mat,1013,113741,113741,3,pituitary tumor,train
+1014.mat,1014,113741,113741,3,pituitary tumor,train
+1015.mat,1015,114040,114040,3,pituitary tumor,train
+1016.mat,1016,114040,114040,3,pituitary tumor,train
+1017.mat,1017,114040,114040,3,pituitary tumor,train
+1018.mat,1018,114361,114361,3,pituitary tumor,test
+1019.mat,1019,114361,114361,3,pituitary tumor,test
+1020.mat,1020,114361,114361,3,pituitary tumor,test
+1021.mat,1021,114094,114094,3,pituitary tumor,train
+1022.mat,1022,114094,114094,3,pituitary tumor,train
+1023.mat,1023,114094,114094,3,pituitary tumor,train
+1024.mat,1024,114094,114094,3,pituitary tumor,train
+1025.mat,1025,101017,101017,3,pituitary tumor,val
+1026.mat,1026,101017,101017,3,pituitary tumor,val
+1027.mat,1027,101017,101017,3,pituitary tumor,val
+1028.mat,1028,101017,101017,3,pituitary tumor,val
+1029.mat,1029,101017,101017,3,pituitary tumor,val
+1030.mat,1030,101029,101029,3,pituitary tumor,val
+1031.mat,1031,101029,101029,3,pituitary tumor,val
+1032.mat,1032,101029,101029,3,pituitary tumor,val
+1033.mat,1033,101029,101029,3,pituitary tumor,val
+1034.mat,1034,105936,105936,3,pituitary tumor,test
+1035.mat,1035,106062,106062,3,pituitary tumor,train
+1036.mat,1036,106062,106062,3,pituitary tumor,train
+1037.mat,1037,106062,106062,3,pituitary tumor,train
+1038.mat,1038,106062,106062,3,pituitary tumor,train
+1039.mat,1039,106062,106062,3,pituitary tumor,train
+1040.mat,1040,106062,106062,3,pituitary tumor,train
+1041.mat,1041,106062,106062,3,pituitary tumor,train
+1042.mat,1042,107495,107495,3,pituitary tumor,train
+1043.mat,1043,107495,107495,3,pituitary tumor,train
+1044.mat,1044,107495,107495,3,pituitary tumor,train
+1045.mat,1045,107495,107495,3,pituitary tumor,train
+1046.mat,1046,107495,107495,3,pituitary tumor,train
+1047.mat,1047,107429,107429,3,pituitary tumor,train
+1048.mat,1048,107429,107429,3,pituitary tumor,train
+1049.mat,1049,107429,107429,3,pituitary tumor,train
+1050.mat,1050,107429,107429,3,pituitary tumor,train
+1051.mat,1051,107429,107429,3,pituitary tumor,train
+1052.mat,1052,107429,107429,3,pituitary tumor,train
+1053.mat,1053,107429,107429,3,pituitary tumor,train
+1054.mat,1054,107505,107505,3,pituitary tumor,val
+1055.mat,1055,107505,107505,3,pituitary tumor,val
+1056.mat,1056,107505,107505,3,pituitary tumor,val
+1057.mat,1057,107505,107505,3,pituitary tumor,val
+1058.mat,1058,107505,107505,3,pituitary tumor,val
+1059.mat,1059,107743,107743,3,pituitary tumor,train
+1060.mat,1060,107743,107743,3,pituitary tumor,train
+1061.mat,1061,107743,107743,3,pituitary tumor,train
+1062.mat,1062,107743,107743,3,pituitary tumor,train
+1063.mat,1063,107743,107743,3,pituitary tumor,train
+1064.mat,1064,107743,107743,3,pituitary tumor,train
+1065.mat,1065,108858,108858,3,pituitary tumor,test
+1066.mat,1066,108858,108858,3,pituitary tumor,test
+1067.mat,1067,108858,108858,3,pituitary tumor,test
+1068.mat,1068,108858,108858,3,pituitary tumor,test
+1069.mat,1069,108858,108858,3,pituitary tumor,test
+1070.mat,1070,108931,108931,3,pituitary tumor,train
+1071.mat,1071,108931,108931,3,pituitary tumor,train
+1072.mat,1072,108931,108931,3,pituitary tumor,train
+1073.mat,1073,108931,108931,3,pituitary tumor,train
+1074.mat,1074,108931,108931,3,pituitary tumor,train
+1075.mat,1075,108931,108931,3,pituitary tumor,train
+1076.mat,1076,108931,108931,3,pituitary tumor,train
+1077.mat,1077,109471,109471,3,pituitary tumor,test
+1078.mat,1078,109471,109471,3,pituitary tumor,test
+1079.mat,1079,109471,109471,3,pituitary tumor,test
+1080.mat,1080,109471,109471,3,pituitary tumor,test
+1081.mat,1081,109471,109471,3,pituitary tumor,test
+1082.mat,1082,109471,109471,3,pituitary tumor,test
+1083.mat,1083,109769,109769,3,pituitary tumor,train
+1084.mat,1084,109769,109769,3,pituitary tumor,train
+1085.mat,1085,109769,109769,3,pituitary tumor,train
+1086.mat,1086,109769,109769,3,pituitary tumor,train
+1087.mat,1087,109769,109769,3,pituitary tumor,train
+1088.mat,1088,109898,109898,3,pituitary tumor,train
+1089.mat,1089,109898,109898,3,pituitary tumor,train
+1090.mat,1090,109898,109898,3,pituitary tumor,train
+1091.mat,1091,109898,109898,3,pituitary tumor,train
+1092.mat,1092,109898,109898,3,pituitary tumor,train
+1093.mat,1093,109898,109898,3,pituitary tumor,train
+1094.mat,1094,110518,110518,3,pituitary tumor,val
+1095.mat,1095,110518,110518,3,pituitary tumor,val
+1096.mat,1096,110518,110518,3,pituitary tumor,val
+1097.mat,1097,110518,110518,3,pituitary tumor,val
+1098.mat,1098,110518,110518,3,pituitary tumor,val
+1099.mat,1099,110518,110518,3,pituitary tumor,val
+1100.mat,1100,110537,110537,3,pituitary tumor,train
+1101.mat,1101,110537,110537,3,pituitary tumor,train
+1102.mat,1102,110537,110537,3,pituitary tumor,train
+1103.mat,1103,110537,110537,3,pituitary tumor,train
+1104.mat,1104,110537,110537,3,pituitary tumor,train
+1105.mat,1105,110537,110537,3,pituitary tumor,train
+1106.mat,1106,110537,110537,3,pituitary tumor,train
+1107.mat,1107,110993,110993,3,pituitary tumor,train
+1108.mat,1108,110993,110993,3,pituitary tumor,train
+1109.mat,1109,110993,110993,3,pituitary tumor,train
+1110.mat,1110,110993,110993,3,pituitary tumor,train
+1111.mat,1111,110993,110993,3,pituitary tumor,train
+1112.mat,1112,111075,111075,3,pituitary tumor,train
+1113.mat,1113,111075,111075,3,pituitary tumor,train
+1114.mat,1114,111075,111075,3,pituitary tumor,train
+1115.mat,1115,111075,111075,3,pituitary tumor,train
+1116.mat,1116,111075,111075,3,pituitary tumor,train
+1117.mat,1117,111075,111075,3,pituitary tumor,train
+1118.mat,1118,111125,111125,3,pituitary tumor,val
+1119.mat,1119,111125,111125,3,pituitary tumor,val
+1120.mat,1120,111125,111125,3,pituitary tumor,val
+1121.mat,1121,111125,111125,3,pituitary tumor,val
+1122.mat,1122,111125,111125,3,pituitary tumor,val
+1123.mat,1123,111125,111125,3,pituitary tumor,val
+1124.mat,1124,111785,111785,3,pituitary tumor,train
+1125.mat,1125,111785,111785,3,pituitary tumor,train
+1126.mat,1126,111785,111785,3,pituitary tumor,train
+1127.mat,1127,111785,111785,3,pituitary tumor,train
+1128.mat,1128,111785,111785,3,pituitary tumor,train
+1129.mat,1129,112074,112074,3,pituitary tumor,test
+1130.mat,1130,112074,112074,3,pituitary tumor,test
+1131.mat,1131,112074,112074,3,pituitary tumor,test
+1132.mat,1132,112074,112074,3,pituitary tumor,test
+1133.mat,1133,112074,112074,3,pituitary tumor,test
+1134.mat,1134,112649,112649,3,pituitary tumor,train
+1135.mat,1135,112649,112649,3,pituitary tumor,train
+1136.mat,1136,112649,112649,3,pituitary tumor,train
+1137.mat,1137,112649,112649,3,pituitary tumor,train
+1138.mat,1138,112649,112649,3,pituitary tumor,train
+1139.mat,1139,112649,112649,3,pituitary tumor,train
+1140.mat,1140,112746,112746,3,pituitary tumor,train
+1141.mat,1141,112746,112746,3,pituitary tumor,train
+1142.mat,1142,112746,112746,3,pituitary tumor,train
+1143.mat,1143,112746,112746,3,pituitary tumor,train
+1144.mat,1144,112847,112847,3,pituitary tumor,train
+1145.mat,1145,112847,112847,3,pituitary tumor,train
+1146.mat,1146,112847,112847,3,pituitary tumor,train
+1147.mat,1147,112847,112847,3,pituitary tumor,train
+1148.mat,1148,113274,113274,3,pituitary tumor,train
+1149.mat,1149,113274,113274,3,pituitary tumor,train
+1150.mat,1150,113274,113274,3,pituitary tumor,train
+1151.mat,1151,113741,113741,3,pituitary tumor,train
+1152.mat,1152,113741,113741,3,pituitary tumor,train
+1153.mat,1153,113741,113741,3,pituitary tumor,train
+1154.mat,1154,114040,114040,3,pituitary tumor,train
+1155.mat,1155,114040,114040,3,pituitary tumor,train
+1156.mat,1156,114040,114040,3,pituitary tumor,train
+1157.mat,1157,114361,114361,3,pituitary tumor,test
+1158.mat,1158,114361,114361,3,pituitary tumor,test
+1159.mat,1159,114361,114361,3,pituitary tumor,test
+1160.mat,1160,114361,114361,3,pituitary tumor,test
+1161.mat,1161,114094,114094,3,pituitary tumor,train
+1162.mat,1162,114094,114094,3,pituitary tumor,train
+1163.mat,1163,114094,114094,3,pituitary tumor,train
+1164.mat,1164,114094,114094,3,pituitary tumor,train
+1165.mat,1165,114094,114094,3,pituitary tumor,train
+1166.mat,1166,105936,105936,3,pituitary tumor,test
+1167.mat,1167,105936,105936,3,pituitary tumor,test
+1168.mat,1168,105936,105936,3,pituitary tumor,test
+1169.mat,1169,106062,106062,3,pituitary tumor,train
+1170.mat,1170,106062,106062,3,pituitary tumor,train
+1171.mat,1171,106062,106062,3,pituitary tumor,train
+1172.mat,1172,106062,106062,3,pituitary tumor,train
+1173.mat,1173,106062,106062,3,pituitary tumor,train
+1174.mat,1174,106062,106062,3,pituitary tumor,train
+1175.mat,1175,106062,106062,3,pituitary tumor,train
+1176.mat,1176,107495,107495,3,pituitary tumor,train
+1177.mat,1177,107495,107495,3,pituitary tumor,train
+1178.mat,1178,107495,107495,3,pituitary tumor,train
+1179.mat,1179,107495,107495,3,pituitary tumor,train
+1180.mat,1180,107495,107495,3,pituitary tumor,train
+1181.mat,1181,107495,107495,3,pituitary tumor,train
+1182.mat,1182,107429,107429,3,pituitary tumor,train
+1183.mat,1183,107429,107429,3,pituitary tumor,train
+1184.mat,1184,107429,107429,3,pituitary tumor,train
+1185.mat,1185,107429,107429,3,pituitary tumor,train
+1186.mat,1186,107429,107429,3,pituitary tumor,train
+1187.mat,1187,107429,107429,3,pituitary tumor,train
+1188.mat,1188,107429,107429,3,pituitary tumor,train
+1189.mat,1189,107505,107505,3,pituitary tumor,val
+1190.mat,1190,107505,107505,3,pituitary tumor,val
+1191.mat,1191,107505,107505,3,pituitary tumor,val
+1192.mat,1192,107505,107505,3,pituitary tumor,val
+1193.mat,1193,107505,107505,3,pituitary tumor,val
+1194.mat,1194,107743,107743,3,pituitary tumor,train
+1195.mat,1195,107743,107743,3,pituitary tumor,train
+1196.mat,1196,107743,107743,3,pituitary tumor,train
+1197.mat,1197,107743,107743,3,pituitary tumor,train
+1198.mat,1198,108858,108858,3,pituitary tumor,test
+1199.mat,1199,108858,108858,3,pituitary tumor,test
+1200.mat,1200,108858,108858,3,pituitary tumor,test
+1201.mat,1201,108858,108858,3,pituitary tumor,test
+1202.mat,1202,108858,108858,3,pituitary tumor,test
+1203.mat,1203,108931,108931,3,pituitary tumor,train
+1204.mat,1204,108931,108931,3,pituitary tumor,train
+1205.mat,1205,108931,108931,3,pituitary tumor,train
+1206.mat,1206,108931,108931,3,pituitary tumor,train
+1207.mat,1207,108931,108931,3,pituitary tumor,train
+1208.mat,1208,109471,109471,3,pituitary tumor,test
+1209.mat,1209,109471,109471,3,pituitary tumor,test
+1210.mat,1210,109471,109471,3,pituitary tumor,test
+1211.mat,1211,109471,109471,3,pituitary tumor,test
+1212.mat,1212,109471,109471,3,pituitary tumor,test
+1213.mat,1213,109471,109471,3,pituitary tumor,test
+1214.mat,1214,109769,109769,3,pituitary tumor,train
+1215.mat,1215,109769,109769,3,pituitary tumor,train
+1216.mat,1216,109769,109769,3,pituitary tumor,train
+1217.mat,1217,109769,109769,3,pituitary tumor,train
+1218.mat,1218,109769,109769,3,pituitary tumor,train
+1219.mat,1219,109898,109898,3,pituitary tumor,train
+1220.mat,1220,109898,109898,3,pituitary tumor,train
+1221.mat,1221,109898,109898,3,pituitary tumor,train
+1222.mat,1222,110518,110518,3,pituitary tumor,val
+1223.mat,1223,110518,110518,3,pituitary tumor,val
+1224.mat,1224,110518,110518,3,pituitary tumor,val
+1225.mat,1225,110518,110518,3,pituitary tumor,val
+1226.mat,1226,110537,110537,3,pituitary tumor,train
+1227.mat,1227,110537,110537,3,pituitary tumor,train
+1228.mat,1228,110537,110537,3,pituitary tumor,train
+1229.mat,1229,110537,110537,3,pituitary tumor,train
+1230.mat,1230,110993,110993,3,pituitary tumor,train
+1231.mat,1231,110993,110993,3,pituitary tumor,train
+1232.mat,1232,110993,110993,3,pituitary tumor,train
+1233.mat,1233,111075,111075,3,pituitary tumor,train
+1234.mat,1234,111075,111075,3,pituitary tumor,train
+1235.mat,1235,111075,111075,3,pituitary tumor,train
+1236.mat,1236,111075,111075,3,pituitary tumor,train
+1237.mat,1237,111075,111075,3,pituitary tumor,train
+1238.mat,1238,111125,111125,3,pituitary tumor,val
+1239.mat,1239,111125,111125,3,pituitary tumor,val
+1240.mat,1240,111125,111125,3,pituitary tumor,val
+1241.mat,1241,111125,111125,3,pituitary tumor,val
+1242.mat,1242,111785,111785,3,pituitary tumor,train
+1243.mat,1243,111785,111785,3,pituitary tumor,train
+1244.mat,1244,111785,111785,3,pituitary tumor,train
+1245.mat,1245,111785,111785,3,pituitary tumor,train
+1246.mat,1246,112074,112074,3,pituitary tumor,test
+1247.mat,1247,112074,112074,3,pituitary tumor,test
+1248.mat,1248,112074,112074,3,pituitary tumor,test
+1249.mat,1249,112074,112074,3,pituitary tumor,test
+1250.mat,1250,112074,112074,3,pituitary tumor,test
+1251.mat,1251,112649,112649,3,pituitary tumor,train
+1252.mat,1252,112649,112649,3,pituitary tumor,train
+1253.mat,1253,112649,112649,3,pituitary tumor,train
+1254.mat,1254,112649,112649,3,pituitary tumor,train
+1255.mat,1255,112649,112649,3,pituitary tumor,train
+1256.mat,1256,112746,112746,3,pituitary tumor,train
+1257.mat,1257,112746,112746,3,pituitary tumor,train
+1258.mat,1258,112746,112746,3,pituitary tumor,train
+1259.mat,1259,112746,112746,3,pituitary tumor,train
+1260.mat,1260,112746,112746,3,pituitary tumor,train
+1261.mat,1261,112847,112847,3,pituitary tumor,train
+1262.mat,1262,112847,112847,3,pituitary tumor,train
+1263.mat,1263,112847,112847,3,pituitary tumor,train
+1264.mat,1264,112847,112847,3,pituitary tumor,train
+1265.mat,1265,112847,112847,3,pituitary tumor,train
+1266.mat,1266,113274,113274,3,pituitary tumor,train
+1267.mat,1267,113274,113274,3,pituitary tumor,train
+1268.mat,1268,113274,113274,3,pituitary tumor,train
+1269.mat,1269,113274,113274,3,pituitary tumor,train
+1270.mat,1270,113741,113741,3,pituitary tumor,train
+1271.mat,1271,113741,113741,3,pituitary tumor,train
+1272.mat,1272,113741,113741,3,pituitary tumor,train
+1273.mat,1273,114040,114040,3,pituitary tumor,train
+1274.mat,1274,114040,114040,3,pituitary tumor,train
+1275.mat,1275,114040,114040,3,pituitary tumor,train
+1276.mat,1276,114361,114361,3,pituitary tumor,test
+1277.mat,1277,114361,114361,3,pituitary tumor,test
+1278.mat,1278,114361,114361,3,pituitary tumor,test
+1279.mat,1279,114094,114094,3,pituitary tumor,train
+1280.mat,1280,114094,114094,3,pituitary tumor,train
+1281.mat,1281,114094,114094,3,pituitary tumor,train
+1282.mat,1282,114094,114094,3,pituitary tumor,train
+1283.mat,1283,101029,101029,3,pituitary tumor,val
+1284.mat,1284,101029,101029,3,pituitary tumor,val
+1285.mat,1285,101145,101145,3,pituitary tumor,train
+1286.mat,1286,101145,101145,3,pituitary tumor,train
+1287.mat,1287,101145,101145,3,pituitary tumor,train
+1288.mat,1288,101145,101145,3,pituitary tumor,train
+1289.mat,1289,101305,101305,3,pituitary tumor,train
+1290.mat,1290,101305,101305,3,pituitary tumor,train
+1291.mat,1291,101305,101305,3,pituitary tumor,train
+1292.mat,1292,101305,101305,3,pituitary tumor,train
+1293.mat,1293,101724,101724,3,pituitary tumor,train
+1294.mat,1294,101724,101724,3,pituitary tumor,train
+1295.mat,1295,102648,102648,3,pituitary tumor,train
+1296.mat,1296,102648,102648,3,pituitary tumor,train
+1297.mat,1297,102648,102648,3,pituitary tumor,train
+1298.mat,1298,102648,102648,3,pituitary tumor,train
+1299.mat,1299,102648,102648,3,pituitary tumor,train
+1300.mat,1300,102648,102648,3,pituitary tumor,train
+1301.mat,1301,103046,103046,3,pituitary tumor,train
+1302.mat,1302,103046,103046,3,pituitary tumor,train
+1303.mat,1303,103046,103046,3,pituitary tumor,train
+1304.mat,1304,103257,103257,3,pituitary tumor,train
+1305.mat,1305,103257,103257,3,pituitary tumor,train
+1306.mat,1306,103257,103257,3,pituitary tumor,train
+1307.mat,1307,103257,103257,3,pituitary tumor,train
+1308.mat,1308,103257,103257,3,pituitary tumor,train
+1309.mat,1309,103257,103257,3,pituitary tumor,train
+1310.mat,1310,103478,103478,3,pituitary tumor,train
+1311.mat,1311,103478,103478,3,pituitary tumor,train
+1312.mat,1312,103478,103478,3,pituitary tumor,train
+1313.mat,1313,103478,103478,3,pituitary tumor,train
+1314.mat,1314,103478,103478,3,pituitary tumor,train
+1315.mat,1315,103478,103478,3,pituitary tumor,train
+1316.mat,1316,103478,103478,3,pituitary tumor,train
+1317.mat,1317,103582,103582,3,pituitary tumor,train
+1318.mat,1318,103582,103582,3,pituitary tumor,train
+1319.mat,1319,103582,103582,3,pituitary tumor,train
+1320.mat,1320,103582,103582,3,pituitary tumor,train
+1321.mat,1321,103582,103582,3,pituitary tumor,train
+1322.mat,1322,103582,103582,3,pituitary tumor,train
+1323.mat,1323,103670,103670,3,pituitary tumor,val
+1324.mat,1324,103670,103670,3,pituitary tumor,val
+1325.mat,1325,103670,103670,3,pituitary tumor,val
+1326.mat,1326,103671,103671,3,pituitary tumor,test
+1327.mat,1327,103671,103671,3,pituitary tumor,test
+1328.mat,1328,103671,103671,3,pituitary tumor,test
+1329.mat,1329,103671,103671,3,pituitary tumor,test
+1330.mat,1330,103731,103731,3,pituitary tumor,train
+1331.mat,1331,103731,103731,3,pituitary tumor,train
+1332.mat,1332,103731,103731,3,pituitary tumor,train
+1333.mat,1333,103731,103731,3,pituitary tumor,train
+1334.mat,1334,103731,103731,3,pituitary tumor,train
+1335.mat,1335,103731,103731,3,pituitary tumor,train
+1336.mat,1336,103731,103731,3,pituitary tumor,train
+1337.mat,1337,103731,103731,3,pituitary tumor,train
+1338.mat,1338,103731,103731,3,pituitary tumor,train
+1339.mat,1339,103731,103731,3,pituitary tumor,train
+1340.mat,1340,103837,103837,3,pituitary tumor,train
+1341.mat,1341,103837,103837,3,pituitary tumor,train
+1342.mat,1342,103837,103837,3,pituitary tumor,train
+1343.mat,1343,103837,103837,3,pituitary tumor,train
+1344.mat,1344,103837,103837,3,pituitary tumor,train
+1345.mat,1345,103837,103837,3,pituitary tumor,train
+1346.mat,1346,103837,103837,3,pituitary tumor,train
+1347.mat,1347,103837,103837,3,pituitary tumor,train
+1348.mat,1348,104019,104019,3,pituitary tumor,train
+1349.mat,1349,104019,104019,3,pituitary tumor,train
+1350.mat,1350,104019,104019,3,pituitary tumor,train
+1351.mat,1351,104019,104019,3,pituitary tumor,train
+1352.mat,1352,104558,104558,3,pituitary tumor,val
+1353.mat,1353,104558,104558,3,pituitary tumor,val
+1354.mat,1354,104558,104558,3,pituitary tumor,val
+1355.mat,1355,104558,104558,3,pituitary tumor,val
+1356.mat,1356,104558,104558,3,pituitary tumor,val
+1357.mat,1357,104558,104558,3,pituitary tumor,val
+1358.mat,1358,104558,104558,3,pituitary tumor,val
+1359.mat,1359,104558,104558,3,pituitary tumor,val
+1360.mat,1360,104684,104684,3,pituitary tumor,train
+1361.mat,1361,104684,104684,3,pituitary tumor,train
+1362.mat,1362,104684,104684,3,pituitary tumor,train
+1363.mat,1363,104684,104684,3,pituitary tumor,train
+1364.mat,1364,104684,104684,3,pituitary tumor,train
+1365.mat,1365,104684,104684,3,pituitary tumor,train
+1366.mat,1366,104684,104684,3,pituitary tumor,train
+1367.mat,1367,104684,104684,3,pituitary tumor,train
+1368.mat,1368,104684,104684,3,pituitary tumor,train
+1369.mat,1369,104912,104912,3,pituitary tumor,train
+1370.mat,1370,104912,104912,3,pituitary tumor,train
+1371.mat,1371,104912,104912,3,pituitary tumor,train
+1372.mat,1372,104912,104912,3,pituitary tumor,train
+1373.mat,1373,104912,104912,3,pituitary tumor,train
+1374.mat,1374,105187,105187,3,pituitary tumor,val
+1375.mat,1375,105187,105187,3,pituitary tumor,val
+1376.mat,1376,105187,105187,3,pituitary tumor,val
+1377.mat,1377,105187,105187,3,pituitary tumor,val
+1378.mat,1378,105475,105475,3,pituitary tumor,train
+1379.mat,1379,105475,105475,3,pituitary tumor,train
+1380.mat,1380,105538,105538,3,pituitary tumor,train
+1381.mat,1381,105538,105538,3,pituitary tumor,train
+1382.mat,1382,105538,105538,3,pituitary tumor,train
+1383.mat,1383,105638,105638,3,pituitary tumor,train
+1384.mat,1384,105638,105638,3,pituitary tumor,train
+1385.mat,1385,105638,105638,3,pituitary tumor,train
+1386.mat,1386,97416,97416,3,pituitary tumor,train
+1387.mat,1387,97416,97416,3,pituitary tumor,train
+1388.mat,1388,97416,97416,3,pituitary tumor,train
+1389.mat,1389,97416,97416,3,pituitary tumor,train
+1390.mat,1390,97416,97416,3,pituitary tumor,train
+1391.mat,1391,97416,97416,3,pituitary tumor,train
+1392.mat,1392,97416,97416,3,pituitary tumor,train
+1393.mat,1393,97416,97416,3,pituitary tumor,train
+1394.mat,1394,97416,97416,3,pituitary tumor,train
+1395.mat,1395,97461,97461,3,pituitary tumor,train
+1396.mat,1396,97461,97461,3,pituitary tumor,train
+1397.mat,1397,97461,97461,3,pituitary tumor,train
+1398.mat,1398,97461,97461,3,pituitary tumor,train
+1399.mat,1399,97461,97461,3,pituitary tumor,train
+1400.mat,1400,97461,97461,3,pituitary tumor,train
+1401.mat,1401,97461,97461,3,pituitary tumor,train
+1402.mat,1402,97461,97461,3,pituitary tumor,train
+1403.mat,1403,97461,97461,3,pituitary tumor,train
+1404.mat,1404,97481,97481,3,pituitary tumor,test
+1405.mat,1405,97481,97481,3,pituitary tumor,test
+1406.mat,1406,97481,97481,3,pituitary tumor,test
+1407.mat,1407,97481,97481,3,pituitary tumor,test
+1408.mat,1408,97599,97599,3,pituitary tumor,train
+1409.mat,1409,97599,97599,3,pituitary tumor,train
+1410.mat,1410,97890,97890,3,pituitary tumor,train
+1411.mat,1411,97890,97890,3,pituitary tumor,train
+1412.mat,1412,97890,97890,3,pituitary tumor,train
+1413.mat,1413,97890,97890,3,pituitary tumor,train
+1414.mat,1414,98472,98472,3,pituitary tumor,train
+1415.mat,1415,98472,98472,3,pituitary tumor,train
+1416.mat,1416,98472,98472,3,pituitary tumor,train
+1417.mat,1417,98472,98472,3,pituitary tumor,train
+1418.mat,1418,98472,98472,3,pituitary tumor,train
+1419.mat,1419,98472,98472,3,pituitary tumor,train
+1420.mat,1420,98472,98472,3,pituitary tumor,train
+1421.mat,1421,98652,98652,3,pituitary tumor,train
+1422.mat,1422,98652,98652,3,pituitary tumor,train
+1423.mat,1423,98652,98652,3,pituitary tumor,train
+1424.mat,1424,98871,98871,3,pituitary tumor,test
+1425.mat,1425,98871,98871,3,pituitary tumor,test
+1426.mat,1426,98871,98871,3,pituitary tumor,test
+1427.mat,1427,98871,98871,3,pituitary tumor,test
+1428.mat,1428,98871,98871,3,pituitary tumor,test
+1429.mat,1429,98871,98871,3,pituitary tumor,test
+1430.mat,1430,98874,98874,3,pituitary tumor,test
+1431.mat,1431,98874,98874,3,pituitary tumor,test
+1432.mat,1432,98874,98874,3,pituitary tumor,test
+1433.mat,1433,98874,98874,3,pituitary tumor,test
+1434.mat,1434,98874,98874,3,pituitary tumor,test
+1435.mat,1435,98992,98992,3,pituitary tumor,train
+1436.mat,1436,98992,98992,3,pituitary tumor,train
+1437.mat,1437,98992,98992,3,pituitary tumor,train
+1438.mat,1438,98992,98992,3,pituitary tumor,train
+1439.mat,1439,98992,98992,3,pituitary tumor,train
+1440.mat,1440,98992,98992,3,pituitary tumor,train
+1441.mat,1441,98992,98992,3,pituitary tumor,train
+1442.mat,1442,98995,98995,3,pituitary tumor,val
+1443.mat,1443,98995,98995,3,pituitary tumor,val
+1444.mat,1444,98995,98995,3,pituitary tumor,val
+1445.mat,1445,98995,98995,3,pituitary tumor,val
+1446.mat,1446,98995,98995,3,pituitary tumor,val
+1447.mat,1447,99223,99223,3,pituitary tumor,train
+1448.mat,1448,99223,99223,3,pituitary tumor,train
+1449.mat,1449,99223,99223,3,pituitary tumor,train
+1450.mat,1450,99223,99223,3,pituitary tumor,train
+1451.mat,1451,99223,99223,3,pituitary tumor,train
+1452.mat,1452,99223,99223,3,pituitary tumor,train
+1453.mat,1453,99223,99223,3,pituitary tumor,train
+1454.mat,1454,99223,99223,3,pituitary tumor,train
+1455.mat,1455,99223,99223,3,pituitary tumor,train
+1456.mat,1456,101017,101017,3,pituitary tumor,val
+1457.mat,1457,101017,101017,3,pituitary tumor,val
+1458.mat,1458,101017,101017,3,pituitary tumor,val
+1459.mat,1459,101017,101017,3,pituitary tumor,val
+1460.mat,1460,101017,101017,3,pituitary tumor,val
+1461.mat,1461,101017,101017,3,pituitary tumor,val
+1462.mat,1462,101029,101029,3,pituitary tumor,val
+1463.mat,1463,101029,101029,3,pituitary tumor,val
+1464.mat,1464,101029,101029,3,pituitary tumor,val
+1465.mat,1465,101029,101029,3,pituitary tumor,val
+1466.mat,1466,101029,101029,3,pituitary tumor,val
+1467.mat,1467,101029,101029,3,pituitary tumor,val
+1468.mat,1468,101145,101145,3,pituitary tumor,train
+1469.mat,1469,101145,101145,3,pituitary tumor,train
+1470.mat,1470,101145,101145,3,pituitary tumor,train
+1471.mat,1471,101145,101145,3,pituitary tumor,train
+1472.mat,1472,101305,101305,3,pituitary tumor,train
+1473.mat,1473,101305,101305,3,pituitary tumor,train
+1474.mat,1474,101305,101305,3,pituitary tumor,train
+1475.mat,1475,101305,101305,3,pituitary tumor,train
+1476.mat,1476,101305,101305,3,pituitary tumor,train
+1477.mat,1477,101305,101305,3,pituitary tumor,train
+1478.mat,1478,101305,101305,3,pituitary tumor,train
+1479.mat,1479,101305,101305,3,pituitary tumor,train
+1480.mat,1480,101724,101724,3,pituitary tumor,train
+1481.mat,1481,101724,101724,3,pituitary tumor,train
+1482.mat,1482,101724,101724,3,pituitary tumor,train
+1483.mat,1483,102648,102648,3,pituitary tumor,train
+1484.mat,1484,102648,102648,3,pituitary tumor,train
+1485.mat,1485,102648,102648,3,pituitary tumor,train
+1486.mat,1486,102648,102648,3,pituitary tumor,train
+1487.mat,1487,102669,102669,3,pituitary tumor,val
+1488.mat,1488,102669,102669,3,pituitary tumor,val
+1489.mat,1489,103046,103046,3,pituitary tumor,train
+1490.mat,1490,103046,103046,3,pituitary tumor,train
+1491.mat,1491,103046,103046,3,pituitary tumor,train
+1492.mat,1492,103046,103046,3,pituitary tumor,train
+1493.mat,1493,103257,103257,3,pituitary tumor,train
+1494.mat,1494,103257,103257,3,pituitary tumor,train
+1495.mat,1495,103257,103257,3,pituitary tumor,train
+1496.mat,1496,103257,103257,3,pituitary tumor,train
+1497.mat,1497,103257,103257,3,pituitary tumor,train
+1498.mat,1498,103478,103478,3,pituitary tumor,train
+1499.mat,1499,103478,103478,3,pituitary tumor,train
+1500.mat,1500,103478,103478,3,pituitary tumor,train
+1501.mat,1501,103478,103478,3,pituitary tumor,train
+1502.mat,1502,103478,103478,3,pituitary tumor,train
+1503.mat,1503,103478,103478,3,pituitary tumor,train
+1504.mat,1504,103478,103478,3,pituitary tumor,train
+1505.mat,1505,103478,103478,3,pituitary tumor,train
+1506.mat,1506,103582,103582,3,pituitary tumor,train
+1507.mat,1507,103582,103582,3,pituitary tumor,train
+1508.mat,1508,103582,103582,3,pituitary tumor,train
+1509.mat,1509,103582,103582,3,pituitary tumor,train
+1510.mat,1510,103582,103582,3,pituitary tumor,train
+1511.mat,1511,103670,103670,3,pituitary tumor,val
+1512.mat,1512,103670,103670,3,pituitary tumor,val
+1513.mat,1513,103670,103670,3,pituitary tumor,val
+1514.mat,1514,103670,103670,3,pituitary tumor,val
+1515.mat,1515,103671,103671,3,pituitary tumor,test
+1516.mat,1516,103671,103671,3,pituitary tumor,test
+1517.mat,1517,103671,103671,3,pituitary tumor,test
+1518.mat,1518,103671,103671,3,pituitary tumor,test
+1519.mat,1519,103671,103671,3,pituitary tumor,test
+1520.mat,1520,103671,103671,3,pituitary tumor,test
+1521.mat,1521,103731,103731,3,pituitary tumor,train
+1522.mat,1522,103731,103731,3,pituitary tumor,train
+1523.mat,1523,103731,103731,3,pituitary tumor,train
+1524.mat,1524,103731,103731,3,pituitary tumor,train
+1525.mat,1525,103731,103731,3,pituitary tumor,train
+1526.mat,1526,103731,103731,3,pituitary tumor,train
+1527.mat,1527,103731,103731,3,pituitary tumor,train
+1528.mat,1528,103837,103837,3,pituitary tumor,train
+1529.mat,1529,103837,103837,3,pituitary tumor,train
+1530.mat,1530,103837,103837,3,pituitary tumor,train
+1531.mat,1531,103837,103837,3,pituitary tumor,train
+1532.mat,1532,103837,103837,3,pituitary tumor,train
+1533.mat,1533,104019,104019,3,pituitary tumor,train
+1534.mat,1534,104019,104019,3,pituitary tumor,train
+1535.mat,1535,104019,104019,3,pituitary tumor,train
+1536.mat,1536,104019,104019,3,pituitary tumor,train
+1537.mat,1537,104019,104019,3,pituitary tumor,train
+1538.mat,1538,104558,104558,3,pituitary tumor,val
+1539.mat,1539,104558,104558,3,pituitary tumor,val
+1540.mat,1540,104558,104558,3,pituitary tumor,val
+1541.mat,1541,104558,104558,3,pituitary tumor,val
+1542.mat,1542,104558,104558,3,pituitary tumor,val
+1543.mat,1543,104558,104558,3,pituitary tumor,val
+1544.mat,1544,104558,104558,3,pituitary tumor,val
+1545.mat,1545,104684,104684,3,pituitary tumor,train
+1546.mat,1546,104684,104684,3,pituitary tumor,train
+1547.mat,1547,104684,104684,3,pituitary tumor,train
+1548.mat,1548,104684,104684,3,pituitary tumor,train
+1549.mat,1549,104684,104684,3,pituitary tumor,train
+1550.mat,1550,104684,104684,3,pituitary tumor,train
+1551.mat,1551,104684,104684,3,pituitary tumor,train
+1552.mat,1552,104912,104912,3,pituitary tumor,train
+1553.mat,1553,104912,104912,3,pituitary tumor,train
+1554.mat,1554,104912,104912,3,pituitary tumor,train
+1555.mat,1555,104912,104912,3,pituitary tumor,train
+1556.mat,1556,104912,104912,3,pituitary tumor,train
+1557.mat,1557,105187,105187,3,pituitary tumor,val
+1558.mat,1558,105187,105187,3,pituitary tumor,val
+1559.mat,1559,105187,105187,3,pituitary tumor,val
+1560.mat,1560,105187,105187,3,pituitary tumor,val
+1561.mat,1561,105187,105187,3,pituitary tumor,val
+1562.mat,1562,105187,105187,3,pituitary tumor,val
+1563.mat,1563,105475,105475,3,pituitary tumor,train
+1564.mat,1564,105475,105475,3,pituitary tumor,train
+1565.mat,1565,105475,105475,3,pituitary tumor,train
+1566.mat,1566,105538,105538,3,pituitary tumor,train
+1567.mat,1567,105538,105538,3,pituitary tumor,train
+1568.mat,1568,105638,105638,3,pituitary tumor,train
+1569.mat,1569,105638,105638,3,pituitary tumor,train
+1570.mat,1570,105638,105638,3,pituitary tumor,train
+1571.mat,1571,105638,105638,3,pituitary tumor,train
+1572.mat,1572,105638,105638,3,pituitary tumor,train
+1573.mat,1573,97416,97416,3,pituitary tumor,train
+1574.mat,1574,97416,97416,3,pituitary tumor,train
+1575.mat,1575,97416,97416,3,pituitary tumor,train
+1576.mat,1576,97416,97416,3,pituitary tumor,train
+1577.mat,1577,97416,97416,3,pituitary tumor,train
+1578.mat,1578,97416,97416,3,pituitary tumor,train
+1579.mat,1579,97416,97416,3,pituitary tumor,train
+1580.mat,1580,97416,97416,3,pituitary tumor,train
+1581.mat,1581,97461,97461,3,pituitary tumor,train
+1582.mat,1582,97461,97461,3,pituitary tumor,train
+1583.mat,1583,97461,97461,3,pituitary tumor,train
+1584.mat,1584,97461,97461,3,pituitary tumor,train
+1585.mat,1585,97461,97461,3,pituitary tumor,train
+1586.mat,1586,97461,97461,3,pituitary tumor,train
+1587.mat,1587,97461,97461,3,pituitary tumor,train
+1588.mat,1588,97461,97461,3,pituitary tumor,train
+1589.mat,1589,97481,97481,3,pituitary tumor,test
+1590.mat,1590,97481,97481,3,pituitary tumor,test
+1591.mat,1591,97481,97481,3,pituitary tumor,test
+1592.mat,1592,97481,97481,3,pituitary tumor,test
+1593.mat,1593,97481,97481,3,pituitary tumor,test
+1594.mat,1594,97599,97599,3,pituitary tumor,train
+1595.mat,1595,97599,97599,3,pituitary tumor,train
+1596.mat,1596,97890,97890,3,pituitary tumor,train
+1597.mat,1597,97890,97890,3,pituitary tumor,train
+1598.mat,1598,97890,97890,3,pituitary tumor,train
+1599.mat,1599,97890,97890,3,pituitary tumor,train
+1600.mat,1600,98472,98472,3,pituitary tumor,train
+1601.mat,1601,98472,98472,3,pituitary tumor,train
+1602.mat,1602,98472,98472,3,pituitary tumor,train
+1603.mat,1603,98472,98472,3,pituitary tumor,train
+1604.mat,1604,98472,98472,3,pituitary tumor,train
+1605.mat,1605,98652,98652,3,pituitary tumor,train
+1606.mat,1606,98652,98652,3,pituitary tumor,train
+1607.mat,1607,98652,98652,3,pituitary tumor,train
+1608.mat,1608,98652,98652,3,pituitary tumor,train
+1609.mat,1609,98871,98871,3,pituitary tumor,test
+1610.mat,1610,98871,98871,3,pituitary tumor,test
+1611.mat,1611,98871,98871,3,pituitary tumor,test
+1612.mat,1612,98871,98871,3,pituitary tumor,test
+1613.mat,1613,98871,98871,3,pituitary tumor,test
+1614.mat,1614,98871,98871,3,pituitary tumor,test
+1615.mat,1615,98871,98871,3,pituitary tumor,test
+1616.mat,1616,98874,98874,3,pituitary tumor,test
+1617.mat,1617,98874,98874,3,pituitary tumor,test
+1618.mat,1618,98874,98874,3,pituitary tumor,test
+1619.mat,1619,98874,98874,3,pituitary tumor,test
+1620.mat,1620,98874,98874,3,pituitary tumor,test
+1621.mat,1621,98992,98992,3,pituitary tumor,train
+1622.mat,1622,98992,98992,3,pituitary tumor,train
+1623.mat,1623,98992,98992,3,pituitary tumor,train
+1624.mat,1624,98992,98992,3,pituitary tumor,train
+1625.mat,1625,98992,98992,3,pituitary tumor,train
+1626.mat,1626,98992,98992,3,pituitary tumor,train
+1627.mat,1627,98992,98992,3,pituitary tumor,train
+1628.mat,1628,98995,98995,3,pituitary tumor,val
+1629.mat,1629,98995,98995,3,pituitary tumor,val
+1630.mat,1630,98995,98995,3,pituitary tumor,val
+1631.mat,1631,98995,98995,3,pituitary tumor,val
+1632.mat,1632,98995,98995,3,pituitary tumor,val
+1633.mat,1633,98995,98995,3,pituitary tumor,val
+1634.mat,1634,99223,99223,3,pituitary tumor,train
+1635.mat,1635,99223,99223,3,pituitary tumor,train
+1636.mat,1636,99223,99223,3,pituitary tumor,train
+1637.mat,1637,99223,99223,3,pituitary tumor,train
+1638.mat,1638,99223,99223,3,pituitary tumor,train
+1639.mat,1639,99223,99223,3,pituitary tumor,train
+1640.mat,1640,101017,101017,3,pituitary tumor,val
+1641.mat,1641,101017,101017,3,pituitary tumor,val
+1642.mat,1642,101017,101017,3,pituitary tumor,val
+1643.mat,1643,101017,101017,3,pituitary tumor,val
+1644.mat,1644,101029,101029,3,pituitary tumor,val
+1645.mat,1645,101029,101029,3,pituitary tumor,val
+1646.mat,1646,101029,101029,3,pituitary tumor,val
+1647.mat,1647,101029,101029,3,pituitary tumor,val
+1648.mat,1648,101029,101029,3,pituitary tumor,val
+1649.mat,1649,101029,101029,3,pituitary tumor,val
+1650.mat,1650,101029,101029,3,pituitary tumor,val
+1651.mat,1651,101145,101145,3,pituitary tumor,train
+1652.mat,1652,101145,101145,3,pituitary tumor,train
+1653.mat,1653,101145,101145,3,pituitary tumor,train
+1654.mat,1654,101145,101145,3,pituitary tumor,train
+1655.mat,1655,101305,101305,3,pituitary tumor,train
+1656.mat,1656,101305,101305,3,pituitary tumor,train
+1657.mat,1657,101305,101305,3,pituitary tumor,train
+1658.mat,1658,101305,101305,3,pituitary tumor,train
+1659.mat,1659,101724,101724,3,pituitary tumor,train
+1660.mat,1660,101724,101724,3,pituitary tumor,train
+1661.mat,1661,101724,101724,3,pituitary tumor,train
+1662.mat,1662,101724,101724,3,pituitary tumor,train
+1663.mat,1663,101724,101724,3,pituitary tumor,train
+1664.mat,1664,101724,101724,3,pituitary tumor,train
+1665.mat,1665,102648,102648,3,pituitary tumor,train
+1666.mat,1666,102648,102648,3,pituitary tumor,train
+1667.mat,1667,102648,102648,3,pituitary tumor,train
+1668.mat,1668,102648,102648,3,pituitary tumor,train
+1669.mat,1669,102648,102648,3,pituitary tumor,train
+1670.mat,1670,102648,102648,3,pituitary tumor,train
+1671.mat,1671,102648,102648,3,pituitary tumor,train
+1672.mat,1672,102669,102669,3,pituitary tumor,val
+1673.mat,1673,103046,103046,3,pituitary tumor,train
+1674.mat,1674,103046,103046,3,pituitary tumor,train
+1675.mat,1675,103046,103046,3,pituitary tumor,train
+1676.mat,1676,103046,103046,3,pituitary tumor,train
+1677.mat,1677,103257,103257,3,pituitary tumor,train
+1678.mat,1678,103257,103257,3,pituitary tumor,train
+1679.mat,1679,103257,103257,3,pituitary tumor,train
+1680.mat,1680,103257,103257,3,pituitary tumor,train
+1681.mat,1681,103257,103257,3,pituitary tumor,train
+1682.mat,1682,103257,103257,3,pituitary tumor,train
+1683.mat,1683,103257,103257,3,pituitary tumor,train
+1684.mat,1684,103478,103478,3,pituitary tumor,train
+1685.mat,1685,103478,103478,3,pituitary tumor,train
+1686.mat,1686,103478,103478,3,pituitary tumor,train
+1687.mat,1687,103478,103478,3,pituitary tumor,train
+1688.mat,1688,103478,103478,3,pituitary tumor,train
+1689.mat,1689,103478,103478,3,pituitary tumor,train
+1690.mat,1690,103478,103478,3,pituitary tumor,train
+1691.mat,1691,103478,103478,3,pituitary tumor,train
+1692.mat,1692,103582,103582,3,pituitary tumor,train
+1693.mat,1693,103582,103582,3,pituitary tumor,train
+1694.mat,1694,103582,103582,3,pituitary tumor,train
+1695.mat,1695,103582,103582,3,pituitary tumor,train
+1696.mat,1696,103582,103582,3,pituitary tumor,train
+1697.mat,1697,103582,103582,3,pituitary tumor,train
+1698.mat,1698,103582,103582,3,pituitary tumor,train
+1699.mat,1699,103582,103582,3,pituitary tumor,train
+1700.mat,1700,103670,103670,3,pituitary tumor,val
+1701.mat,1701,103670,103670,3,pituitary tumor,val
+1702.mat,1702,103670,103670,3,pituitary tumor,val
+1703.mat,1703,103670,103670,3,pituitary tumor,val
+1704.mat,1704,103671,103671,3,pituitary tumor,test
+1705.mat,1705,103671,103671,3,pituitary tumor,test
+1706.mat,1706,103671,103671,3,pituitary tumor,test
+1707.mat,1707,103671,103671,3,pituitary tumor,test
+1708.mat,1708,103671,103671,3,pituitary tumor,test
+1709.mat,1709,103731,103731,3,pituitary tumor,train
+1710.mat,1710,103731,103731,3,pituitary tumor,train
+1711.mat,1711,103731,103731,3,pituitary tumor,train
+1712.mat,1712,103731,103731,3,pituitary tumor,train
+1713.mat,1713,103731,103731,3,pituitary tumor,train
+1714.mat,1714,103837,103837,3,pituitary tumor,train
+1715.mat,1715,103837,103837,3,pituitary tumor,train
+1716.mat,1716,103837,103837,3,pituitary tumor,train
+1717.mat,1717,103837,103837,3,pituitary tumor,train
+1718.mat,1718,103837,103837,3,pituitary tumor,train
+1719.mat,1719,103837,103837,3,pituitary tumor,train
+1720.mat,1720,103837,103837,3,pituitary tumor,train
+1721.mat,1721,104019,104019,3,pituitary tumor,train
+1722.mat,1722,104019,104019,3,pituitary tumor,train
+1723.mat,1723,104019,104019,3,pituitary tumor,train
+1724.mat,1724,104019,104019,3,pituitary tumor,train
+1725.mat,1725,104558,104558,3,pituitary tumor,val
+1726.mat,1726,104558,104558,3,pituitary tumor,val
+1727.mat,1727,104558,104558,3,pituitary tumor,val
+1728.mat,1728,104558,104558,3,pituitary tumor,val
+1729.mat,1729,104558,104558,3,pituitary tumor,val
+1730.mat,1730,104558,104558,3,pituitary tumor,val
+1731.mat,1731,104558,104558,3,pituitary tumor,val
+1732.mat,1732,104558,104558,3,pituitary tumor,val
+1733.mat,1733,104558,104558,3,pituitary tumor,val
+1734.mat,1734,104684,104684,3,pituitary tumor,train
+1735.mat,1735,104684,104684,3,pituitary tumor,train
+1736.mat,1736,104684,104684,3,pituitary tumor,train
+1737.mat,1737,104684,104684,3,pituitary tumor,train
+1738.mat,1738,104684,104684,3,pituitary tumor,train
+1739.mat,1739,104684,104684,3,pituitary tumor,train
+1740.mat,1740,104684,104684,3,pituitary tumor,train
+1741.mat,1741,104912,104912,3,pituitary tumor,train
+1742.mat,1742,104912,104912,3,pituitary tumor,train
+1743.mat,1743,104912,104912,3,pituitary tumor,train
+1744.mat,1744,104912,104912,3,pituitary tumor,train
+1745.mat,1745,104912,104912,3,pituitary tumor,train
+1746.mat,1746,104912,104912,3,pituitary tumor,train
+1747.mat,1747,104912,104912,3,pituitary tumor,train
+1748.mat,1748,105187,105187,3,pituitary tumor,val
+1749.mat,1749,105187,105187,3,pituitary tumor,val
+1750.mat,1750,105187,105187,3,pituitary tumor,val
+1751.mat,1751,105187,105187,3,pituitary tumor,val
+1752.mat,1752,105187,105187,3,pituitary tumor,val
+1753.mat,1753,105187,105187,3,pituitary tumor,val
+1754.mat,1754,105475,105475,3,pituitary tumor,train
+1755.mat,1755,105475,105475,3,pituitary tumor,train
+1756.mat,1756,105475,105475,3,pituitary tumor,train
+1757.mat,1757,105475,105475,3,pituitary tumor,train
+1758.mat,1758,105475,105475,3,pituitary tumor,train
+1759.mat,1759,105538,105538,3,pituitary tumor,train
+1760.mat,1760,105538,105538,3,pituitary tumor,train
+1761.mat,1761,105638,105638,3,pituitary tumor,train
+1762.mat,1762,105638,105638,3,pituitary tumor,train
+1763.mat,1763,105638,105638,3,pituitary tumor,train
+1764.mat,1764,105638,105638,3,pituitary tumor,train
+1765.mat,1765,105638,105638,3,pituitary tumor,train
+1766.mat,1766,97416,97416,3,pituitary tumor,train
+1767.mat,1767,97416,97416,3,pituitary tumor,train
+1768.mat,1768,97416,97416,3,pituitary tumor,train
+1769.mat,1769,97416,97416,3,pituitary tumor,train
+1770.mat,1770,97416,97416,3,pituitary tumor,train
+1771.mat,1771,97416,97416,3,pituitary tumor,train
+1772.mat,1772,97416,97416,3,pituitary tumor,train
+1773.mat,1773,97461,97461,3,pituitary tumor,train
+1774.mat,1774,97461,97461,3,pituitary tumor,train
+1775.mat,1775,97461,97461,3,pituitary tumor,train
+1776.mat,1776,97461,97461,3,pituitary tumor,train
+1777.mat,1777,97461,97461,3,pituitary tumor,train
+1778.mat,1778,97461,97461,3,pituitary tumor,train
+1779.mat,1779,97461,97461,3,pituitary tumor,train
+1780.mat,1780,97461,97461,3,pituitary tumor,train
+1781.mat,1781,97481,97481,3,pituitary tumor,test
+1782.mat,1782,97481,97481,3,pituitary tumor,test
+1783.mat,1783,97481,97481,3,pituitary tumor,test
+1784.mat,1784,97481,97481,3,pituitary tumor,test
+1785.mat,1785,97481,97481,3,pituitary tumor,test
+1786.mat,1786,97599,97599,3,pituitary tumor,train
+1787.mat,1787,97599,97599,3,pituitary tumor,train
+1788.mat,1788,97599,97599,3,pituitary tumor,train
+1789.mat,1789,97890,97890,3,pituitary tumor,train
+1790.mat,1790,97890,97890,3,pituitary tumor,train
+1791.mat,1791,97890,97890,3,pituitary tumor,train
+1792.mat,1792,97890,97890,3,pituitary tumor,train
+1793.mat,1793,97890,97890,3,pituitary tumor,train
+1794.mat,1794,97890,97890,3,pituitary tumor,train
+1795.mat,1795,98472,98472,3,pituitary tumor,train
+1796.mat,1796,98472,98472,3,pituitary tumor,train
+1797.mat,1797,98472,98472,3,pituitary tumor,train
+1798.mat,1798,98472,98472,3,pituitary tumor,train
+1799.mat,1799,98472,98472,3,pituitary tumor,train
+1800.mat,1800,98472,98472,3,pituitary tumor,train
+1801.mat,1801,98652,98652,3,pituitary tumor,train
+1802.mat,1802,98652,98652,3,pituitary tumor,train
+1803.mat,1803,98652,98652,3,pituitary tumor,train
+1804.mat,1804,98652,98652,3,pituitary tumor,train
+1805.mat,1805,98652,98652,3,pituitary tumor,train
+1806.mat,1806,98871,98871,3,pituitary tumor,test
+1807.mat,1807,98871,98871,3,pituitary tumor,test
+1808.mat,1808,98871,98871,3,pituitary tumor,test
+1809.mat,1809,98871,98871,3,pituitary tumor,test
+1810.mat,1810,98871,98871,3,pituitary tumor,test
+1811.mat,1811,98871,98871,3,pituitary tumor,test
+1812.mat,1812,98871,98871,3,pituitary tumor,test
+1813.mat,1813,98874,98874,3,pituitary tumor,test
+1814.mat,1814,98874,98874,3,pituitary tumor,test
+1815.mat,1815,98874,98874,3,pituitary tumor,test
+1816.mat,1816,98874,98874,3,pituitary tumor,test
+1817.mat,1817,98874,98874,3,pituitary tumor,test
+1818.mat,1818,98874,98874,3,pituitary tumor,test
+1819.mat,1819,98992,98992,3,pituitary tumor,train
+1820.mat,1820,98992,98992,3,pituitary tumor,train
+1821.mat,1821,98992,98992,3,pituitary tumor,train
+1822.mat,1822,98992,98992,3,pituitary tumor,train
+1823.mat,1823,98992,98992,3,pituitary tumor,train
+1824.mat,1824,98992,98992,3,pituitary tumor,train
+1825.mat,1825,98992,98992,3,pituitary tumor,train
+1826.mat,1826,98992,98992,3,pituitary tumor,train
+1827.mat,1827,98992,98992,3,pituitary tumor,train
+1828.mat,1828,98992,98992,3,pituitary tumor,train
+1829.mat,1829,98992,98992,3,pituitary tumor,train
+1830.mat,1830,98995,98995,3,pituitary tumor,val
+1831.mat,1831,98995,98995,3,pituitary tumor,val
+1832.mat,1832,98995,98995,3,pituitary tumor,val
+1833.mat,1833,98995,98995,3,pituitary tumor,val
+1834.mat,1834,98995,98995,3,pituitary tumor,val
+1835.mat,1835,99223,99223,3,pituitary tumor,train
+1836.mat,1836,99223,99223,3,pituitary tumor,train
+1837.mat,1837,99223,99223,3,pituitary tumor,train
+1838.mat,1838,99223,99223,3,pituitary tumor,train
+1839.mat,1839,99223,99223,3,pituitary tumor,train
+1840.mat,1840,99223,99223,3,pituitary tumor,train
+1841.mat,1841,MR048294,MR048294,2,glioma,train
+1842.mat,1842,MR048294,MR048294,2,glioma,train
+1843.mat,1843,MR048294,MR048294,2,glioma,train
+1844.mat,1844,MR048294,MR048294,2,glioma,train
+1845.mat,1845,MR048294,MR048294,2,glioma,train
+1846.mat,1846,MR048294,MR048294,2,glioma,train
+1847.mat,1847,MR048294,MR048294,2,glioma,train
+1848.mat,1848,MR048294,MR048294,2,glioma,train
+1849.mat,1849,MR048297,MR048297,2,glioma,train
+1850.mat,1850,MR048297,MR048297,2,glioma,train
+1851.mat,1851,MR048297,MR048297,2,glioma,train
+1852.mat,1852,MR048297,MR048297,2,glioma,train
+1853.mat,1853,MR048294B,MR048294,2,glioma,train
+1854.mat,1854,MR048621B,MR048621,2,glioma,val
+1855.mat,1855,MR048621B,MR048621,2,glioma,val
+1856.mat,1856,MR048621B,MR048621,2,glioma,val
+1857.mat,1857,MR048621B,MR048621,2,glioma,val
+1858.mat,1858,MR048621B,MR048621,2,glioma,val
+1859.mat,1859,MR048621B,MR048621,2,glioma,val
+1860.mat,1860,MR048621B,MR048621,2,glioma,val
+1861.mat,1861,MR048621B,MR048621,2,glioma,val
+1862.mat,1862,MR048944,MR048944,2,glioma,train
+1863.mat,1863,MR048944,MR048944,2,glioma,train
+1864.mat,1864,MR048944,MR048944,2,glioma,train
+1865.mat,1865,MR048944,MR048944,2,glioma,train
+1866.mat,1866,MR048944,MR048944,2,glioma,train
+1867.mat,1867,MR048944,MR048944,2,glioma,train
+1868.mat,1868,MR048944,MR048944,2,glioma,train
+1869.mat,1869,MR048944,MR048944,2,glioma,train
+1870.mat,1870,MR048994,MR048994,2,glioma,train
+1871.mat,1871,MR048994,MR048994,2,glioma,train
+1872.mat,1872,MR048994,MR048994,2,glioma,train
+1873.mat,1873,MR048994,MR048994,2,glioma,train
+1874.mat,1874,MR048994,MR048994,2,glioma,train
+1875.mat,1875,MR048994,MR048994,2,glioma,train
+1876.mat,1876,MR048994,MR048994,2,glioma,train
+1877.mat,1877,MR048994,MR048994,2,glioma,train
+1878.mat,1878,MR048994,MR048994,2,glioma,train
+1879.mat,1879,MR049104,MR049104,2,glioma,val
+1880.mat,1880,MR049104,MR049104,2,glioma,val
+1881.mat,1881,MR049142,MR049142,2,glioma,train
+1882.mat,1882,MR049142,MR049142,2,glioma,train
+1883.mat,1883,MR049142,MR049142,2,glioma,train
+1884.mat,1884,MR049142,MR049142,2,glioma,train
+1885.mat,1885,MR048994B,MR048994,2,glioma,train
+1886.mat,1886,MR048994B,MR048994,2,glioma,train
+1887.mat,1887,MR048994B,MR048994,2,glioma,train
+1888.mat,1888,MR048994B,MR048994,2,glioma,train
+1889.mat,1889,MR048994B,MR048994,2,glioma,train
+1890.mat,1890,MR048994B,MR048994,2,glioma,train
+1891.mat,1891,MR048994B,MR048994,2,glioma,train
+1892.mat,1892,MR048994B,MR048994,2,glioma,train
+1893.mat,1893,MR048944B,MR048944,2,glioma,train
+1894.mat,1894,MR048944B,MR048944,2,glioma,train
+1895.mat,1895,MR048944B,MR048944,2,glioma,train
+1896.mat,1896,MR048944B,MR048944,2,glioma,train
+1897.mat,1897,MR048944B,MR048944,2,glioma,train
+1898.mat,1898,MR048944B,MR048944,2,glioma,train
+1899.mat,1899,MR049358,MR049358,2,glioma,train
+1900.mat,1900,MR049358,MR049358,2,glioma,train
+1901.mat,1901,MR049358,MR049358,2,glioma,train
+1902.mat,1902,MR049358,MR049358,2,glioma,train
+1903.mat,1903,MR049358,MR049358,2,glioma,train
+1904.mat,1904,MR049358,MR049358,2,glioma,train
+1905.mat,1905,MR049358,MR049358,2,glioma,train
+1906.mat,1906,MR049358,MR049358,2,glioma,train
+1907.mat,1907,MR049358,MR049358,2,glioma,train
+1908.mat,1908,MR049358,MR049358,2,glioma,train
+1909.mat,1909,MR049104B,MR049104,2,glioma,val
+1910.mat,1910,MR049104B,MR049104,2,glioma,val
+1911.mat,1911,MR049104B,MR049104,2,glioma,val
+1912.mat,1912,MR049104B,MR049104,2,glioma,val
+1913.mat,1913,MR049104B,MR049104,2,glioma,val
+1914.mat,1914,MR049453,MR049453,2,glioma,train
+1915.mat,1915,MR049453,MR049453,2,glioma,train
+1916.mat,1916,MR049453,MR049453,2,glioma,train
+1917.mat,1917,MR049453,MR049453,2,glioma,train
+1918.mat,1918,MR049453,MR049453,2,glioma,train
+1919.mat,1919,MR049453,MR049453,2,glioma,train
+1920.mat,1920,MR049453,MR049453,2,glioma,train
+1921.mat,1921,MR024780G,MR024780,2,glioma,train
+1922.mat,1922,MR024780G,MR024780,2,glioma,train
+1923.mat,1923,MR024780G,MR024780,2,glioma,train
+1924.mat,1924,MR024780G,MR024780,2,glioma,train
+1925.mat,1925,MR024780G,MR024780,2,glioma,train
+1926.mat,1926,MR024780G,MR024780,2,glioma,train
+1927.mat,1927,MR024780G,MR024780,2,glioma,train
+1928.mat,1928,MR024780G,MR024780,2,glioma,train
+1929.mat,1929,MR024780G,MR024780,2,glioma,train
+1930.mat,1930,MR024780G,MR024780,2,glioma,train
+1931.mat,1931,MR024780G,MR024780,2,glioma,train
+1932.mat,1932,MR024780G,MR024780,2,glioma,train
+1933.mat,1933,MR024780G,MR024780,2,glioma,train
+1934.mat,1934,MR024780G,MR024780,2,glioma,train
+1935.mat,1935,MR024780G,MR024780,2,glioma,train
+1936.mat,1936,MR024780G,MR024780,2,glioma,train
+1937.mat,1937,MR049453B,MR049453,2,glioma,train
+1938.mat,1938,MR049453B,MR049453,2,glioma,train
+1939.mat,1939,MR049453B,MR049453,2,glioma,train
+1940.mat,1940,MR049453B,MR049453,2,glioma,train
+1941.mat,1941,MR049453B,MR049453,2,glioma,train
+1942.mat,1942,MR049453B,MR049453,2,glioma,train
+1943.mat,1943,MR049453B,MR049453,2,glioma,train
+1944.mat,1944,MR049453B,MR049453,2,glioma,train
+1945.mat,1945,MR048294B,MR048294,2,glioma,train
+1946.mat,1946,MR048294B,MR048294,2,glioma,train
+1947.mat,1947,MR048294B,MR048294,2,glioma,train
+1948.mat,1948,MR048621B,MR048621,2,glioma,val
+1949.mat,1949,MR048621B,MR048621,2,glioma,val
+1950.mat,1950,MR050135B,MR050135,2,glioma,train
+1951.mat,1951,MR050135B,MR050135,2,glioma,train
+1952.mat,1952,MR050135B,MR050135,2,glioma,train
+1953.mat,1953,MR050135B,MR050135,2,glioma,train
+1954.mat,1954,MR050135B,MR050135,2,glioma,train
+1955.mat,1955,MR050135B,MR050135,2,glioma,train
+1956.mat,1956,MR050135B,MR050135,2,glioma,train
+1957.mat,1957,MR050135B,MR050135,2,glioma,train
+1958.mat,1958,MR050135B,MR050135,2,glioma,train
+1959.mat,1959,MR050135B,MR050135,2,glioma,train
+1960.mat,1960,MR050135B,MR050135,2,glioma,train
+1961.mat,1961,MR050135B,MR050135,2,glioma,train
+1962.mat,1962,MR050135B,MR050135,2,glioma,train
+1963.mat,1963,MR050135B,MR050135,2,glioma,train
+1964.mat,1964,MR050687,MR050687,2,glioma,train
+1965.mat,1965,MR050687,MR050687,2,glioma,train
+1966.mat,1966,MR050687,MR050687,2,glioma,train
+1967.mat,1967,MR050687,MR050687,2,glioma,train
+1968.mat,1968,MR050687,MR050687,2,glioma,train
+1969.mat,1969,MR050687,MR050687,2,glioma,train
+1970.mat,1970,MR050687,MR050687,2,glioma,train
+1971.mat,1971,MR050687,MR050687,2,glioma,train
+1972.mat,1972,MR050687,MR050687,2,glioma,train
+1973.mat,1973,MR050687,MR050687,2,glioma,train
+1974.mat,1974,MR050791B,MR050791,2,glioma,val
+1975.mat,1975,MR050791B,MR050791,2,glioma,val
+1976.mat,1976,MR050791B,MR050791,2,glioma,val
+1977.mat,1977,MR050791B,MR050791,2,glioma,val
+1978.mat,1978,MR050791B,MR050791,2,glioma,val
+1979.mat,1979,MR050791B,MR050791,2,glioma,val
+1980.mat,1980,MR050791B,MR050791,2,glioma,val
+1981.mat,1981,MR050791B,MR050791,2,glioma,val
+1982.mat,1982,MR050791B,MR050791,2,glioma,val
+1983.mat,1983,MR050791B,MR050791,2,glioma,val
+1984.mat,1984,MR049019C,MR049019,2,glioma,val
+1985.mat,1985,MR049019C,MR049019,2,glioma,val
+1986.mat,1986,MR049019C,MR049019,2,glioma,val
+1987.mat,1987,MR026175C,MR026175,2,glioma,train
+1988.mat,1988,MR026175C,MR026175,2,glioma,train
+1989.mat,1989,MR026175C,MR026175,2,glioma,train
+1990.mat,1990,MR026175C,MR026175,2,glioma,train
+1991.mat,1991,MR026175C,MR026175,2,glioma,train
+1992.mat,1992,MR026175C,MR026175,2,glioma,train
+1993.mat,1993,MR026175C,MR026175,2,glioma,train
+1994.mat,1994,MR026175C,MR026175,2,glioma,train
+1995.mat,1995,MR026175C,MR026175,2,glioma,train
+1996.mat,1996,MR026175C,MR026175,2,glioma,train
+1997.mat,1997,MR026175C,MR026175,2,glioma,train
+1998.mat,1998,MR051461,MR051461,2,glioma,test
+1999.mat,1999,MR051461,MR051461,2,glioma,test
+2000.mat,2000,MR051461,MR051461,2,glioma,test
+2001.mat,2001,MR051461,MR051461,2,glioma,test
+2002.mat,2002,MR051461,MR051461,2,glioma,test
+2003.mat,2003,MR051461,MR051461,2,glioma,test
+2004.mat,2004,MR051461,MR051461,2,glioma,test
+2005.mat,2005,MR051586,MR051586,2,glioma,train
+2006.mat,2006,MR051586,MR051586,2,glioma,train
+2007.mat,2007,MR051586,MR051586,2,glioma,train
+2008.mat,2008,MR051586,MR051586,2,glioma,train
+2009.mat,2009,MR051586,MR051586,2,glioma,train
+2010.mat,2010,MR051586,MR051586,2,glioma,train
+2011.mat,2011,MR051586,MR051586,2,glioma,train
+2012.mat,2012,MR051461B,MR051461,2,glioma,test
+2013.mat,2013,MR051461B,MR051461,2,glioma,test
+2014.mat,2014,MR051461B,MR051461,2,glioma,test
+2015.mat,2015,MR051461B,MR051461,2,glioma,test
+2016.mat,2016,MR051461B,MR051461,2,glioma,test
+2017.mat,2017,MR051644,MR051644,2,glioma,test
+2018.mat,2018,MR051644,MR051644,2,glioma,test
+2019.mat,2019,MR051644,MR051644,2,glioma,test
+2020.mat,2020,MR051644,MR051644,2,glioma,test
+2021.mat,2021,MR051644,MR051644,2,glioma,test
+2022.mat,2022,MR051644,MR051644,2,glioma,test
+2023.mat,2023,MR051644,MR051644,2,glioma,test
+2024.mat,2024,MR051644,MR051644,2,glioma,test
+2025.mat,2025,MR051644,MR051644,2,glioma,test
+2026.mat,2026,MR051644,MR051644,2,glioma,test
+2027.mat,2027,MR051644,MR051644,2,glioma,test
+2028.mat,2028,MR051644,MR051644,2,glioma,test
+2029.mat,2029,MR051644,MR051644,2,glioma,test
+2030.mat,2030,MR051644,MR051644,2,glioma,test
+2031.mat,2031,MR051644,MR051644,2,glioma,test
+2032.mat,2032,MR051651,MR051651,2,glioma,train
+2033.mat,2033,MR051651,MR051651,2,glioma,train
+2034.mat,2034,MR051651,MR051651,2,glioma,train
+2035.mat,2035,MR051651,MR051651,2,glioma,train
+2036.mat,2036,MR051651,MR051651,2,glioma,train
+2037.mat,2037,MR051651,MR051651,2,glioma,train
+2038.mat,2038,MR051796,MR051796,2,glioma,train
+2039.mat,2039,MR051796,MR051796,2,glioma,train
+2040.mat,2040,MR051796,MR051796,2,glioma,train
+2041.mat,2041,MR051796,MR051796,2,glioma,train
+2042.mat,2042,MR051796,MR051796,2,glioma,train
+2043.mat,2043,MR051796,MR051796,2,glioma,train
+2044.mat,2044,MR051796,MR051796,2,glioma,train
+2045.mat,2045,MR051651B,MR051651,2,glioma,train
+2046.mat,2046,MR051651B,MR051651,2,glioma,train
+2047.mat,2047,MR051651B,MR051651,2,glioma,train
+2048.mat,2048,MR051651B,MR051651,2,glioma,train
+2049.mat,2049,MR051651B,MR051651,2,glioma,train
+2050.mat,2050,MR051651B,MR051651,2,glioma,train
+2051.mat,2051,MR051644B,MR051644,2,glioma,test
+2052.mat,2052,MR051644B,MR051644,2,glioma,test
+2053.mat,2053,MR051644B,MR051644,2,glioma,test
+2054.mat,2054,MR051644B,MR051644,2,glioma,test
+2055.mat,2055,MR051644B,MR051644,2,glioma,test
+2056.mat,2056,MR051644B,MR051644,2,glioma,test
+2057.mat,2057,MR051644B,MR051644,2,glioma,test
+2058.mat,2058,MR051796B,MR051796,2,glioma,train
+2059.mat,2059,MR051796B,MR051796,2,glioma,train
+2060.mat,2060,MR051796B,MR051796,2,glioma,train
+2061.mat,2061,MR052550,MR052550,2,glioma,train
+2062.mat,2062,MR052550,MR052550,2,glioma,train
+2063.mat,2063,MR052550,MR052550,2,glioma,train
+2064.mat,2064,MR052550,MR052550,2,glioma,train
+2065.mat,2065,MR051644C,MR051644,2,glioma,test
+2066.mat,2066,MR051644C,MR051644,2,glioma,test
+2067.mat,2067,MR051644C,MR051644,2,glioma,test
+2068.mat,2068,MR051644C,MR051644,2,glioma,test
+2069.mat,2069,MR051644C,MR051644,2,glioma,test
+2070.mat,2070,MR051644C,MR051644,2,glioma,test
+2071.mat,2071,MR051644C,MR051644,2,glioma,test
+2072.mat,2072,MR051644C,MR051644,2,glioma,test
+2073.mat,2073,MR051644C,MR051644,2,glioma,test
+2074.mat,2074,MR051644C,MR051644,2,glioma,test
+2075.mat,2075,MR051644C,MR051644,2,glioma,test
+2076.mat,2076,MR051644C,MR051644,2,glioma,test
+2077.mat,2077,MR049942B,MR049942,2,glioma,train
+2078.mat,2078,MR049942B,MR049942,2,glioma,train
+2079.mat,2079,MR049942B,MR049942,2,glioma,train
+2080.mat,2080,MR052585B,MR052585,2,glioma,train
+2081.mat,2081,MR052585B,MR052585,2,glioma,train
+2082.mat,2082,MR052585B,MR052585,2,glioma,train
+2083.mat,2083,MR047953C,MR047953,2,glioma,train
+2084.mat,2084,MR047953C,MR047953,2,glioma,train
+2085.mat,2085,MR047953C,MR047953,2,glioma,train
+2086.mat,2086,MR047953C,MR047953,2,glioma,train
+2087.mat,2087,MR053110B,MR053110,2,glioma,test
+2088.mat,2088,MR053110B,MR053110,2,glioma,test
+2089.mat,2089,MR053110B,MR053110,2,glioma,test
+2090.mat,2090,MR053110B,MR053110,2,glioma,test
+2091.mat,2091,MR053110B,MR053110,2,glioma,test
+2092.mat,2092,MR053110B,MR053110,2,glioma,test
+2093.mat,2093,MR034694,MR034694,2,glioma,train
+2094.mat,2094,MR034694,MR034694,2,glioma,train
+2095.mat,2095,MR034694,MR034694,2,glioma,train
+2096.mat,2096,MR034694,MR034694,2,glioma,train
+2097.mat,2097,MR054683,MR054683,2,glioma,train
+2098.mat,2098,MR054683,MR054683,2,glioma,train
+2099.mat,2099,MR054683,MR054683,2,glioma,train
+2100.mat,2100,MR054875,MR054875,2,glioma,train
+2101.mat,2101,MR054875,MR054875,2,glioma,train
+2102.mat,2102,MR054875,MR054875,2,glioma,train
+2103.mat,2103,MR054875,MR054875,2,glioma,train
+2104.mat,2104,MR050687C,MR050687,2,glioma,train
+2105.mat,2105,MR050687C,MR050687,2,glioma,train
+2106.mat,2106,MR050687C,MR050687,2,glioma,train
+2107.mat,2107,MR050687C,MR050687,2,glioma,train
+2108.mat,2108,MR050687C,MR050687,2,glioma,train
+2109.mat,2109,MR056144,MR056144,2,glioma,train
+2110.mat,2110,MR056144,MR056144,2,glioma,train
+2111.mat,2111,MR056144,MR056144,2,glioma,train
+2112.mat,2112,MR034997,MR034997,2,glioma,val
+2113.mat,2113,MR034997,MR034997,2,glioma,val
+2114.mat,2114,MR034997,MR034997,2,glioma,val
+2115.mat,2115,MR034997,MR034997,2,glioma,val
+2116.mat,2116,MR034997,MR034997,2,glioma,val
+2117.mat,2117,MR034997,MR034997,2,glioma,val
+2118.mat,2118,MR034997,MR034997,2,glioma,val
+2119.mat,2119,MR029209E,MR029209,2,glioma,train
+2120.mat,2120,MR029209E,MR029209,2,glioma,train
+2121.mat,2121,MR029209E,MR029209,2,glioma,train
+2122.mat,2122,MR029209E,MR029209,2,glioma,train
+2123.mat,2123,MR029209E,MR029209,2,glioma,train
+2124.mat,2124,MR029209E,MR029209,2,glioma,train
+2125.mat,2125,MR029209E,MR029209,2,glioma,train
+2126.mat,2126,MR029209E,MR029209,2,glioma,train
+2127.mat,2127,MR029209E,MR029209,2,glioma,train
+2128.mat,2128,MR053110E,MR053110,2,glioma,test
+2129.mat,2129,MR053110E,MR053110,2,glioma,test
+2130.mat,2130,MR053110E,MR053110,2,glioma,test
+2131.mat,2131,MR053110E,MR053110,2,glioma,test
+2132.mat,2132,MR053110E,MR053110,2,glioma,test
+2133.mat,2133,MR053110E,MR053110,2,glioma,test
+2134.mat,2134,MR049019G,MR049019,2,glioma,val
+2135.mat,2135,MR049019G,MR049019,2,glioma,val
+2136.mat,2136,MR049019G,MR049019,2,glioma,val
+2137.mat,2137,MR049019G,MR049019,2,glioma,val
+2138.mat,2138,MR049019G,MR049019,2,glioma,val
+2139.mat,2139,MR049019G,MR049019,2,glioma,val
+2140.mat,2140,MR049019G,MR049019,2,glioma,val
+2141.mat,2141,MR031409B,MR031409,2,glioma,train
+2142.mat,2142,MR031409B,MR031409,2,glioma,train
+2143.mat,2143,MR031409B,MR031409,2,glioma,train
+2144.mat,2144,MR024780D,MR024780,2,glioma,train
+2145.mat,2145,MR024780D,MR024780,2,glioma,train
+2146.mat,2146,MR038469,MR038469,2,glioma,train
+2147.mat,2147,MR038469,MR038469,2,glioma,train
+2148.mat,2148,MR038469,MR038469,2,glioma,train
+2149.mat,2149,MR038469,MR038469,2,glioma,train
+2150.mat,2150,MR038469,MR038469,2,glioma,train
+2151.mat,2151,MR038469,MR038469,2,glioma,train
+2152.mat,2152,MR038469,MR038469,2,glioma,train
+2153.mat,2153,MR032322C,MR032322,2,glioma,train
+2154.mat,2154,MR032322C,MR032322,2,glioma,train
+2155.mat,2155,MR032322C,MR032322,2,glioma,train
+2156.mat,2156,MR032322C,MR032322,2,glioma,train
+2157.mat,2157,MR032322C,MR032322,2,glioma,train
+2158.mat,2158,MR032322C,MR032322,2,glioma,train
+2159.mat,2159,MR032322C,MR032322,2,glioma,train
+2160.mat,2160,MR032322C,MR032322,2,glioma,train
+2161.mat,2161,MR032322C,MR032322,2,glioma,train
+2162.mat,2162,MR032322C,MR032322,2,glioma,train
+2163.mat,2163,MR032322C,MR032322,2,glioma,train
+2164.mat,2164,MR032322C,MR032322,2,glioma,train
+2165.mat,2165,MR032322C,MR032322,2,glioma,train
+2166.mat,2166,MR037458B,MR037458,2,glioma,train
+2167.mat,2167,MR037458B,MR037458,2,glioma,train
+2168.mat,2168,MR037458B,MR037458,2,glioma,train
+2169.mat,2169,MR037458B,MR037458,2,glioma,train
+2170.mat,2170,MR037458B,MR037458,2,glioma,train
+2171.mat,2171,MR037458B,MR037458,2,glioma,train
+2172.mat,2172,MR037458B,MR037458,2,glioma,train
+2173.mat,2173,MR037458B,MR037458,2,glioma,train
+2174.mat,2174,MR039473,MR039473,2,glioma,train
+2175.mat,2175,MR039473,MR039473,2,glioma,train
+2176.mat,2176,MR039473,MR039473,2,glioma,train
+2177.mat,2177,MR039473,MR039473,2,glioma,train
+2178.mat,2178,MR039473,MR039473,2,glioma,train
+2179.mat,2179,MR039473B,MR039473,2,glioma,train
+2180.mat,2180,MR039473B,MR039473,2,glioma,train
+2181.mat,2181,MR039473B,MR039473,2,glioma,train
+2182.mat,2182,MR039473B,MR039473,2,glioma,train
+2183.mat,2183,MR039473B,MR039473,2,glioma,train
+2184.mat,2184,MR039473B,MR039473,2,glioma,train
+2185.mat,2185,MR039473B,MR039473,2,glioma,train
+2186.mat,2186,MR037458C,MR037458,2,glioma,train
+2187.mat,2187,MR037458C,MR037458,2,glioma,train
+2188.mat,2188,MR037458C,MR037458,2,glioma,train
+2189.mat,2189,MR037458C,MR037458,2,glioma,train
+2190.mat,2190,MR037458C,MR037458,2,glioma,train
+2191.mat,2191,MR037458C,MR037458,2,glioma,train
+2192.mat,2192,MR037458C,MR037458,2,glioma,train
+2193.mat,2193,MR037458C,MR037458,2,glioma,train
+2194.mat,2194,MR037458C,MR037458,2,glioma,train
+2195.mat,2195,MR037458C,MR037458,2,glioma,train
+2196.mat,2196,MR040240,MR040240,2,glioma,val
+2197.mat,2197,MR040240,MR040240,2,glioma,val
+2198.mat,2198,MR040240,MR040240,2,glioma,val
+2199.mat,2199,MR040240,MR040240,2,glioma,val
+2200.mat,2200,MR040240,MR040240,2,glioma,val
+2201.mat,2201,MR040240,MR040240,2,glioma,val
+2202.mat,2202,MR040240,MR040240,2,glioma,val
+2203.mat,2203,MR040240,MR040240,2,glioma,val
+2204.mat,2204,MR040240,MR040240,2,glioma,val
+2205.mat,2205,MR040240,MR040240,2,glioma,val
+2206.mat,2206,MR040240B,MR040240,2,glioma,val
+2207.mat,2207,MR040240B,MR040240,2,glioma,val
+2208.mat,2208,MR040240B,MR040240,2,glioma,val
+2209.mat,2209,MR040240B,MR040240,2,glioma,val
+2210.mat,2210,MR040240B,MR040240,2,glioma,val
+2211.mat,2211,MR040240B,MR040240,2,glioma,val
+2212.mat,2212,MR040240B,MR040240,2,glioma,val
+2213.mat,2213,MR040240B,MR040240,2,glioma,val
+2214.mat,2214,MR040240B,MR040240,2,glioma,val
+2215.mat,2215,MR040240B,MR040240,2,glioma,val
+2216.mat,2216,MR029209G,MR029209,2,glioma,train
+2217.mat,2217,MR029209G,MR029209,2,glioma,train
+2218.mat,2218,MR029209G,MR029209,2,glioma,train
+2219.mat,2219,MR029209G,MR029209,2,glioma,train
+2220.mat,2220,MR029209G,MR029209,2,glioma,train
+2221.mat,2221,MR029209G,MR029209,2,glioma,train
+2222.mat,2222,MR029209G,MR029209,2,glioma,train
+2223.mat,2223,MR029209G,MR029209,2,glioma,train
+2224.mat,2224,MR036496B,MR036496,2,glioma,train
+2225.mat,2225,MR036496B,MR036496,2,glioma,train
+2226.mat,2226,MR036496B,MR036496,2,glioma,train
+2227.mat,2227,MR036496B,MR036496,2,glioma,train
+2228.mat,2228,MR036496B,MR036496,2,glioma,train
+2229.mat,2229,MR036496B,MR036496,2,glioma,train
+2230.mat,2230,MR033420,MR033420,2,glioma,test
+2231.mat,2231,MR033420,MR033420,2,glioma,test
+2232.mat,2232,MR033420,MR033420,2,glioma,test
+2233.mat,2233,MR033420,MR033420,2,glioma,test
+2234.mat,2234,MR033420,MR033420,2,glioma,test
+2235.mat,2235,MR033420,MR033420,2,glioma,test
+2236.mat,2236,MR033420,MR033420,2,glioma,test
+2237.mat,2237,MR024780B,MR024780,2,glioma,train
+2238.mat,2238,MR024780B,MR024780,2,glioma,train
+2239.mat,2239,MR024780B,MR024780,2,glioma,train
+2240.mat,2240,MR024780B,MR024780,2,glioma,train
+2241.mat,2241,MR033389B,MR033389,2,glioma,train
+2242.mat,2242,MR048994,MR048994,2,glioma,train
+2243.mat,2243,MR048994,MR048994,2,glioma,train
+2244.mat,2244,MR049104,MR049104,2,glioma,val
+2245.mat,2245,MR049104,MR049104,2,glioma,val
+2246.mat,2246,MR049104,MR049104,2,glioma,val
+2247.mat,2247,MR049142,MR049142,2,glioma,train
+2248.mat,2248,MR049142,MR049142,2,glioma,train
+2249.mat,2249,MR049142,MR049142,2,glioma,train
+2250.mat,2250,MR048994B,MR048994,2,glioma,train
+2251.mat,2251,MR048994B,MR048994,2,glioma,train
+2252.mat,2252,MR048994B,MR048994,2,glioma,train
+2253.mat,2253,MR048994B,MR048994,2,glioma,train
+2254.mat,2254,MR048944B,MR048944,2,glioma,train
+2255.mat,2255,MR048944B,MR048944,2,glioma,train
+2256.mat,2256,MR048944B,MR048944,2,glioma,train
+2257.mat,2257,MR048944B,MR048944,2,glioma,train
+2258.mat,2258,MR048944B,MR048944,2,glioma,train
+2259.mat,2259,MR048944B,MR048944,2,glioma,train
+2260.mat,2260,MR048944B,MR048944,2,glioma,train
+2261.mat,2261,MR049358,MR049358,2,glioma,train
+2262.mat,2262,MR049358,MR049358,2,glioma,train
+2263.mat,2263,MR049358,MR049358,2,glioma,train
+2264.mat,2264,MR049358,MR049358,2,glioma,train
+2265.mat,2265,MR049358,MR049358,2,glioma,train
+2266.mat,2266,MR049358,MR049358,2,glioma,train
+2267.mat,2267,MR049358,MR049358,2,glioma,train
+2268.mat,2268,MR049358,MR049358,2,glioma,train
+2269.mat,2269,MR049358,MR049358,2,glioma,train
+2270.mat,2270,MR049453,MR049453,2,glioma,train
+2271.mat,2271,MR049453,MR049453,2,glioma,train
+2272.mat,2272,MR049453,MR049453,2,glioma,train
+2273.mat,2273,MR049453,MR049453,2,glioma,train
+2274.mat,2274,MR049453,MR049453,2,glioma,train
+2275.mat,2275,MR049453,MR049453,2,glioma,train
+2276.mat,2276,MR049453,MR049453,2,glioma,train
+2277.mat,2277,MR049453,MR049453,2,glioma,train
+2278.mat,2278,MR049453,MR049453,2,glioma,train
+2279.mat,2279,MR024780G,MR024780,2,glioma,train
+2280.mat,2280,MR024780G,MR024780,2,glioma,train
+2281.mat,2281,MR024780G,MR024780,2,glioma,train
+2282.mat,2282,MR024780G,MR024780,2,glioma,train
+2283.mat,2283,MR024780G,MR024780,2,glioma,train
+2284.mat,2284,MR024780G,MR024780,2,glioma,train
+2285.mat,2285,MR024780G,MR024780,2,glioma,train
+2286.mat,2286,MR049453B,MR049453,2,glioma,train
+2287.mat,2287,MR049453B,MR049453,2,glioma,train
+2288.mat,2288,MR049453B,MR049453,2,glioma,train
+2289.mat,2289,MR049453B,MR049453,2,glioma,train
+2290.mat,2290,MR049453B,MR049453,2,glioma,train
+2291.mat,2291,MR049453B,MR049453,2,glioma,train
+2292.mat,2292,MR049453B,MR049453,2,glioma,train
+2293.mat,2293,MR049453B,MR049453,2,glioma,train
+2294.mat,2294,MR049453B,MR049453,2,glioma,train
+2295.mat,2295,MR049453B,MR049453,2,glioma,train
+2296.mat,2296,MR049453B,MR049453,2,glioma,train
+2297.mat,2297,MR049453B,MR049453,2,glioma,train
+2298.mat,2298,MR049453B,MR049453,2,glioma,train
+2299.mat,2299,MR049453B,MR049453,2,glioma,train
+2300.mat,2300,MR050135B,MR050135,2,glioma,train
+2301.mat,2301,MR050135B,MR050135,2,glioma,train
+2302.mat,2302,MR050135B,MR050135,2,glioma,train
+2303.mat,2303,MR050135B,MR050135,2,glioma,train
+2304.mat,2304,MR050135B,MR050135,2,glioma,train
+2305.mat,2305,MR050135B,MR050135,2,glioma,train
+2306.mat,2306,MR050135B,MR050135,2,glioma,train
+2307.mat,2307,MR050135B,MR050135,2,glioma,train
+2308.mat,2308,MR050135B,MR050135,2,glioma,train
+2309.mat,2309,MR050135B,MR050135,2,glioma,train
+2310.mat,2310,MR050135B,MR050135,2,glioma,train
+2311.mat,2311,MR050687,MR050687,2,glioma,train
+2312.mat,2312,MR050687,MR050687,2,glioma,train
+2313.mat,2313,MR050687,MR050687,2,glioma,train
+2314.mat,2314,MR050687,MR050687,2,glioma,train
+2315.mat,2315,MR050687,MR050687,2,glioma,train
+2316.mat,2316,MR050687,MR050687,2,glioma,train
+2317.mat,2317,MR050791B,MR050791,2,glioma,val
+2318.mat,2318,MR050791B,MR050791,2,glioma,val
+2319.mat,2319,MR050791B,MR050791,2,glioma,val
+2320.mat,2320,MR050791B,MR050791,2,glioma,val
+2321.mat,2321,MR049019C,MR049019,2,glioma,val
+2322.mat,2322,MR049019C,MR049019,2,glioma,val
+2323.mat,2323,MR049019C,MR049019,2,glioma,val
+2324.mat,2324,MR049019C,MR049019,2,glioma,val
+2325.mat,2325,MR049019C,MR049019,2,glioma,val
+2326.mat,2326,MR026175C,MR026175,2,glioma,train
+2327.mat,2327,MR026175C,MR026175,2,glioma,train
+2328.mat,2328,MR026175C,MR026175,2,glioma,train
+2329.mat,2329,MR026175C,MR026175,2,glioma,train
+2330.mat,2330,MR026175C,MR026175,2,glioma,train
+2331.mat,2331,MR026175C,MR026175,2,glioma,train
+2332.mat,2332,MR026175C,MR026175,2,glioma,train
+2333.mat,2333,MR051461,MR051461,2,glioma,test
+2334.mat,2334,MR051461,MR051461,2,glioma,test
+2335.mat,2335,MR051461,MR051461,2,glioma,test
+2336.mat,2336,MR051461,MR051461,2,glioma,test
+2337.mat,2337,MR051461,MR051461,2,glioma,test
+2338.mat,2338,MR051461,MR051461,2,glioma,test
+2339.mat,2339,MR051461,MR051461,2,glioma,test
+2340.mat,2340,MR051461,MR051461,2,glioma,test
+2341.mat,2341,MR051461,MR051461,2,glioma,test
+2342.mat,2342,MR051586,MR051586,2,glioma,train
+2343.mat,2343,MR051586,MR051586,2,glioma,train
+2344.mat,2344,MR033389B,MR033389,2,glioma,train
+2345.mat,2345,MR033389B,MR033389,2,glioma,train
+2346.mat,2346,MR033389B,MR033389,2,glioma,train
+2347.mat,2347,MR033389B,MR033389,2,glioma,train
+2348.mat,2348,MR033389B,MR033389,2,glioma,train
+2349.mat,2349,MR024780E,MR024780,2,glioma,train
+2350.mat,2350,MR026175E,MR026175,2,glioma,train
+2351.mat,2351,MR026175E,MR026175,2,glioma,train
+2352.mat,2352,MR026175E,MR026175,2,glioma,train
+2353.mat,2353,MR026175E,MR026175,2,glioma,train
+2354.mat,2354,MR026175E,MR026175,2,glioma,train
+2355.mat,2355,MR026175E,MR026175,2,glioma,train
+2356.mat,2356,MR026175E,MR026175,2,glioma,train
+2357.mat,2357,MR026175E,MR026175,2,glioma,train
+2358.mat,2358,MR026175E,MR026175,2,glioma,train
+2359.mat,2359,MR026175E,MR026175,2,glioma,train
+2360.mat,2360,MR026175E,MR026175,2,glioma,train
+2361.mat,2361,MR026175E,MR026175,2,glioma,train
+2362.mat,2362,MR040240C,MR040240,2,glioma,val
+2363.mat,2363,MR040240C,MR040240,2,glioma,val
+2364.mat,2364,MR040240C,MR040240,2,glioma,val
+2365.mat,2365,MR040240C,MR040240,2,glioma,val
+2366.mat,2366,MR040240C,MR040240,2,glioma,val
+2367.mat,2367,MR040240C,MR040240,2,glioma,val
+2368.mat,2368,MR040240C,MR040240,2,glioma,val
+2369.mat,2369,MR040240C,MR040240,2,glioma,val
+2370.mat,2370,MR040240C,MR040240,2,glioma,val
+2371.mat,2371,MR040240C,MR040240,2,glioma,val
+2372.mat,2372,MR040240C,MR040240,2,glioma,val
+2373.mat,2373,MR040240D,MR040240,2,glioma,val
+2374.mat,2374,MR040240D,MR040240,2,glioma,val
+2375.mat,2375,MR040240D,MR040240,2,glioma,val
+2376.mat,2376,MR040240D,MR040240,2,glioma,val
+2377.mat,2377,MR040240D,MR040240,2,glioma,val
+2378.mat,2378,MR040240D,MR040240,2,glioma,val
+2379.mat,2379,MR040240D,MR040240,2,glioma,val
+2380.mat,2380,MR040240D,MR040240,2,glioma,val
+2381.mat,2381,MR040240D,MR040240,2,glioma,val
+2382.mat,2382,MR040240D,MR040240,2,glioma,val
+2383.mat,2383,MR040240D,MR040240,2,glioma,val
+2384.mat,2384,MR017260F,MR017260,2,glioma,train
+2385.mat,2385,MR017260F,MR017260,2,glioma,train
+2386.mat,2386,MR017260F,MR017260,2,glioma,train
+2387.mat,2387,MR017260F,MR017260,2,glioma,train
+2388.mat,2388,MR017260F,MR017260,2,glioma,train
+2389.mat,2389,MR017260F,MR017260,2,glioma,train
+2390.mat,2390,MR017260F,MR017260,2,glioma,train
+2391.mat,2391,MR017260F,MR017260,2,glioma,train
+2392.mat,2392,MR017260F,MR017260,2,glioma,train
+2393.mat,2393,MR017260F,MR017260,2,glioma,train
+2394.mat,2394,MR029209I,MR029209,2,glioma,train
+2395.mat,2395,MR029209I,MR029209,2,glioma,train
+2396.mat,2396,MR029209I,MR029209,2,glioma,train
+2397.mat,2397,MR029209I,MR029209,2,glioma,train
+2398.mat,2398,MR029209I,MR029209,2,glioma,train
+2399.mat,2399,MR029209I,MR029209,2,glioma,train
+2400.mat,2400,MR029209I,MR029209,2,glioma,train
+2401.mat,2401,MR029209I,MR029209,2,glioma,train
+2402.mat,2402,MR029209I,MR029209,2,glioma,train
+2403.mat,2403,MR048294,MR048294,2,glioma,train
+2404.mat,2404,MR048294,MR048294,2,glioma,train
+2405.mat,2405,MR048294,MR048294,2,glioma,train
+2406.mat,2406,MR048294,MR048294,2,glioma,train
+2407.mat,2407,MR048294,MR048294,2,glioma,train
+2408.mat,2408,MR048294,MR048294,2,glioma,train
+2409.mat,2409,MR048294,MR048294,2,glioma,train
+2410.mat,2410,MR048297,MR048297,2,glioma,train
+2411.mat,2411,MR048297,MR048297,2,glioma,train
+2412.mat,2412,MR048297,MR048297,2,glioma,train
+2413.mat,2413,MR048297,MR048297,2,glioma,train
+2414.mat,2414,MR048297,MR048297,2,glioma,train
+2415.mat,2415,MR048294B,MR048294,2,glioma,train
+2416.mat,2416,MR048294B,MR048294,2,glioma,train
+2417.mat,2417,MR048294B,MR048294,2,glioma,train
+2418.mat,2418,MR048294B,MR048294,2,glioma,train
+2419.mat,2419,MR048294B,MR048294,2,glioma,train
+2420.mat,2420,MR048621B,MR048621,2,glioma,val
+2421.mat,2421,MR048621B,MR048621,2,glioma,val
+2422.mat,2422,MR048621B,MR048621,2,glioma,val
+2423.mat,2423,MR048621B,MR048621,2,glioma,val
+2424.mat,2424,MR048621B,MR048621,2,glioma,val
+2425.mat,2425,MR048621B,MR048621,2,glioma,val
+2426.mat,2426,MR048944,MR048944,2,glioma,train
+2427.mat,2427,MR048944,MR048944,2,glioma,train
+2428.mat,2428,MR048944,MR048944,2,glioma,train
+2429.mat,2429,MR048944,MR048944,2,glioma,train
+2430.mat,2430,MR048944,MR048944,2,glioma,train
+2431.mat,2431,MR048944,MR048944,2,glioma,train
+2432.mat,2432,MR048944,MR048944,2,glioma,train
+2433.mat,2433,MR048944,MR048944,2,glioma,train
+2434.mat,2434,MR048944,MR048944,2,glioma,train
+2435.mat,2435,MR048994,MR048994,2,glioma,train
+2436.mat,2436,MR048994,MR048994,2,glioma,train
+2437.mat,2437,MR048994,MR048994,2,glioma,train
+2438.mat,2438,MR048994,MR048994,2,glioma,train
+2439.mat,2439,MR048994,MR048994,2,glioma,train
+2440.mat,2440,MR048994,MR048994,2,glioma,train
+2441.mat,2441,MR048994,MR048994,2,glioma,train
+2442.mat,2442,MR037458C,MR037458,2,glioma,train
+2443.mat,2443,MR040240,MR040240,2,glioma,val
+2444.mat,2444,MR040240,MR040240,2,glioma,val
+2445.mat,2445,MR040240,MR040240,2,glioma,val
+2446.mat,2446,MR040240,MR040240,2,glioma,val
+2447.mat,2447,MR040240,MR040240,2,glioma,val
+2448.mat,2448,MR040240,MR040240,2,glioma,val
+2449.mat,2449,MR040240,MR040240,2,glioma,val
+2450.mat,2450,MR040240,MR040240,2,glioma,val
+2451.mat,2451,MR040240,MR040240,2,glioma,val
+2452.mat,2452,MR040240,MR040240,2,glioma,val
+2453.mat,2453,MR040240B,MR040240,2,glioma,val
+2454.mat,2454,MR040240B,MR040240,2,glioma,val
+2455.mat,2455,MR040240B,MR040240,2,glioma,val
+2456.mat,2456,MR040240B,MR040240,2,glioma,val
+2457.mat,2457,MR040240B,MR040240,2,glioma,val
+2458.mat,2458,MR040240B,MR040240,2,glioma,val
+2459.mat,2459,MR040240B,MR040240,2,glioma,val
+2460.mat,2460,MR040240B,MR040240,2,glioma,val
+2461.mat,2461,MR040240B,MR040240,2,glioma,val
+2462.mat,2462,MR040240B,MR040240,2,glioma,val
+2463.mat,2463,MR029209G,MR029209,2,glioma,train
+2464.mat,2464,MR029209G,MR029209,2,glioma,train
+2465.mat,2465,MR029209G,MR029209,2,glioma,train
+2466.mat,2466,MR029209G,MR029209,2,glioma,train
+2467.mat,2467,MR029209G,MR029209,2,glioma,train
+2468.mat,2468,MR029209G,MR029209,2,glioma,train
+2469.mat,2469,MR029209G,MR029209,2,glioma,train
+2470.mat,2470,MR036496B,MR036496,2,glioma,train
+2471.mat,2471,MR036496B,MR036496,2,glioma,train
+2472.mat,2472,MR036496B,MR036496,2,glioma,train
+2473.mat,2473,MR036496B,MR036496,2,glioma,train
+2474.mat,2474,MR036496B,MR036496,2,glioma,train
+2475.mat,2475,MR036496B,MR036496,2,glioma,train
+2476.mat,2476,MR033420,MR033420,2,glioma,test
+2477.mat,2477,MR033420,MR033420,2,glioma,test
+2478.mat,2478,MR033420,MR033420,2,glioma,test
+2479.mat,2479,MR033420,MR033420,2,glioma,test
+2480.mat,2480,MR033420,MR033420,2,glioma,test
+2481.mat,2481,MR033420,MR033420,2,glioma,test
+2482.mat,2482,MR033420,MR033420,2,glioma,test
+2483.mat,2483,MR033420,MR033420,2,glioma,test
+2484.mat,2484,MR033420,MR033420,2,glioma,test
+2485.mat,2485,MR033420,MR033420,2,glioma,test
+2486.mat,2486,MR033420,MR033420,2,glioma,test
+2487.mat,2487,MR033389B,MR033389,2,glioma,train
+2488.mat,2488,MR033389B,MR033389,2,glioma,train
+2489.mat,2489,MR033389B,MR033389,2,glioma,train
+2490.mat,2490,MR033389B,MR033389,2,glioma,train
+2491.mat,2491,MR033389B,MR033389,2,glioma,train
+2492.mat,2492,MR033389B,MR033389,2,glioma,train
+2493.mat,2493,MR033389B,MR033389,2,glioma,train
+2494.mat,2494,MR033389B,MR033389,2,glioma,train
+2495.mat,2495,MR033389B,MR033389,2,glioma,train
+2496.mat,2496,MR024780E,MR024780,2,glioma,train
+2497.mat,2497,MR024780E,MR024780,2,glioma,train
+2498.mat,2498,MR024780E,MR024780,2,glioma,train
+2499.mat,2499,MR026175E,MR026175,2,glioma,train
+2500.mat,2500,MR026175E,MR026175,2,glioma,train
+2501.mat,2501,MR026175E,MR026175,2,glioma,train
+2502.mat,2502,MR026175E,MR026175,2,glioma,train
+2503.mat,2503,MR026175E,MR026175,2,glioma,train
+2504.mat,2504,MR026175E,MR026175,2,glioma,train
+2505.mat,2505,MR026175E,MR026175,2,glioma,train
+2506.mat,2506,MR026175E,MR026175,2,glioma,train
+2507.mat,2507,MR026175E,MR026175,2,glioma,train
+2508.mat,2508,MR026175E,MR026175,2,glioma,train
+2509.mat,2509,MR040240C,MR040240,2,glioma,val
+2510.mat,2510,MR040240C,MR040240,2,glioma,val
+2511.mat,2511,MR040240C,MR040240,2,glioma,val
+2512.mat,2512,MR040240C,MR040240,2,glioma,val
+2513.mat,2513,MR040240C,MR040240,2,glioma,val
+2514.mat,2514,MR040240C,MR040240,2,glioma,val
+2515.mat,2515,MR040240C,MR040240,2,glioma,val
+2516.mat,2516,MR040240C,MR040240,2,glioma,val
+2517.mat,2517,MR040240C,MR040240,2,glioma,val
+2518.mat,2518,MR040240C,MR040240,2,glioma,val
+2519.mat,2519,MR040240C,MR040240,2,glioma,val
+2520.mat,2520,MR040240C,MR040240,2,glioma,val
+2521.mat,2521,MR040240C,MR040240,2,glioma,val
+2522.mat,2522,MR040240C,MR040240,2,glioma,val
+2523.mat,2523,MR040240C,MR040240,2,glioma,val
+2524.mat,2524,MR017260F,MR017260,2,glioma,train
+2525.mat,2525,MR017260F,MR017260,2,glioma,train
+2526.mat,2526,MR017260F,MR017260,2,glioma,train
+2527.mat,2527,MR017260F,MR017260,2,glioma,train
+2528.mat,2528,MR017260F,MR017260,2,glioma,train
+2529.mat,2529,MR017260F,MR017260,2,glioma,train
+2530.mat,2530,MR029209I,MR029209,2,glioma,train
+2531.mat,2531,MR029209I,MR029209,2,glioma,train
+2532.mat,2532,MR029209I,MR029209,2,glioma,train
+2533.mat,2533,MR029209I,MR029209,2,glioma,train
+2534.mat,2534,MR029209I,MR029209,2,glioma,train
+2535.mat,2535,MR029209I,MR029209,2,glioma,train
+2536.mat,2536,MR029209I,MR029209,2,glioma,train
+2537.mat,2537,MR029209I,MR029209,2,glioma,train
+2538.mat,2538,MR029209I,MR029209,2,glioma,train
+2539.mat,2539,MR029209I,MR029209,2,glioma,train
+2540.mat,2540,MR048294,MR048294,2,glioma,train
+2541.mat,2541,MR048294,MR048294,2,glioma,train
+2542.mat,2542,MR048294,MR048294,2,glioma,train
+2543.mat,2543,MR048294,MR048294,2,glioma,train
+2544.mat,2544,MR048294,MR048294,2,glioma,train
+2545.mat,2545,MR048294,MR048294,2,glioma,train
+2546.mat,2546,MR051586,MR051586,2,glioma,train
+2547.mat,2547,MR051586,MR051586,2,glioma,train
+2548.mat,2548,MR051586,MR051586,2,glioma,train
+2549.mat,2549,MR051586,MR051586,2,glioma,train
+2550.mat,2550,MR051461B,MR051461,2,glioma,test
+2551.mat,2551,MR051461B,MR051461,2,glioma,test
+2552.mat,2552,MR051461B,MR051461,2,glioma,test
+2553.mat,2553,MR051461B,MR051461,2,glioma,test
+2554.mat,2554,MR051644,MR051644,2,glioma,test
+2555.mat,2555,MR051644,MR051644,2,glioma,test
+2556.mat,2556,MR051644,MR051644,2,glioma,test
+2557.mat,2557,MR051644,MR051644,2,glioma,test
+2558.mat,2558,MR051644,MR051644,2,glioma,test
+2559.mat,2559,MR051644,MR051644,2,glioma,test
+2560.mat,2560,MR051644,MR051644,2,glioma,test
+2561.mat,2561,MR051644,MR051644,2,glioma,test
+2562.mat,2562,MR051644,MR051644,2,glioma,test
+2563.mat,2563,MR051644,MR051644,2,glioma,test
+2564.mat,2564,MR051644,MR051644,2,glioma,test
+2565.mat,2565,MR051644,MR051644,2,glioma,test
+2566.mat,2566,MR051651,MR051651,2,glioma,train
+2567.mat,2567,MR051651,MR051651,2,glioma,train
+2568.mat,2568,MR051651,MR051651,2,glioma,train
+2569.mat,2569,MR051651,MR051651,2,glioma,train
+2570.mat,2570,MR051651,MR051651,2,glioma,train
+2571.mat,2571,MR051651,MR051651,2,glioma,train
+2572.mat,2572,MR051651,MR051651,2,glioma,train
+2573.mat,2573,MR051796,MR051796,2,glioma,train
+2574.mat,2574,MR051796,MR051796,2,glioma,train
+2575.mat,2575,MR051796,MR051796,2,glioma,train
+2576.mat,2576,MR051796,MR051796,2,glioma,train
+2577.mat,2577,MR051796,MR051796,2,glioma,train
+2578.mat,2578,MR051796,MR051796,2,glioma,train
+2579.mat,2579,MR051651B,MR051651,2,glioma,train
+2580.mat,2580,MR051651B,MR051651,2,glioma,train
+2581.mat,2581,MR051651B,MR051651,2,glioma,train
+2582.mat,2582,MR051651B,MR051651,2,glioma,train
+2583.mat,2583,MR051651B,MR051651,2,glioma,train
+2584.mat,2584,MR051651B,MR051651,2,glioma,train
+2585.mat,2585,MR051651B,MR051651,2,glioma,train
+2586.mat,2586,MR051796B,MR051796,2,glioma,train
+2587.mat,2587,MR051796B,MR051796,2,glioma,train
+2588.mat,2588,MR051796B,MR051796,2,glioma,train
+2589.mat,2589,MR052550,MR052550,2,glioma,train
+2590.mat,2590,MR052550,MR052550,2,glioma,train
+2591.mat,2591,MR052550,MR052550,2,glioma,train
+2592.mat,2592,MR052550,MR052550,2,glioma,train
+2593.mat,2593,MR052550,MR052550,2,glioma,train
+2594.mat,2594,MR052550,MR052550,2,glioma,train
+2595.mat,2595,MR051644C,MR051644,2,glioma,test
+2596.mat,2596,MR051644C,MR051644,2,glioma,test
+2597.mat,2597,MR051644C,MR051644,2,glioma,test
+2598.mat,2598,MR051644C,MR051644,2,glioma,test
+2599.mat,2599,MR051644C,MR051644,2,glioma,test
+2600.mat,2600,MR051644C,MR051644,2,glioma,test
+2601.mat,2601,MR051644C,MR051644,2,glioma,test
+2602.mat,2602,MR051644C,MR051644,2,glioma,test
+2603.mat,2603,MR051644C,MR051644,2,glioma,test
+2604.mat,2604,MR051644C,MR051644,2,glioma,test
+2605.mat,2605,MR051644C,MR051644,2,glioma,test
+2606.mat,2606,MR051644C,MR051644,2,glioma,test
+2607.mat,2607,MR051644C,MR051644,2,glioma,test
+2608.mat,2608,MR049942B,MR049942,2,glioma,train
+2609.mat,2609,MR049942B,MR049942,2,glioma,train
+2610.mat,2610,MR049942B,MR049942,2,glioma,train
+2611.mat,2611,MR049942B,MR049942,2,glioma,train
+2612.mat,2612,MR047953C,MR047953,2,glioma,train
+2613.mat,2613,MR047953C,MR047953,2,glioma,train
+2614.mat,2614,MR047953C,MR047953,2,glioma,train
+2615.mat,2615,MR047953C,MR047953,2,glioma,train
+2616.mat,2616,MR047953C,MR047953,2,glioma,train
+2617.mat,2617,MR053110B,MR053110,2,glioma,test
+2618.mat,2618,MR053110B,MR053110,2,glioma,test
+2619.mat,2619,MR053110B,MR053110,2,glioma,test
+2620.mat,2620,MR053110B,MR053110,2,glioma,test
+2621.mat,2621,MR053110B,MR053110,2,glioma,test
+2622.mat,2622,MR053110B,MR053110,2,glioma,test
+2623.mat,2623,MR053110B,MR053110,2,glioma,test
+2624.mat,2624,MR034694,MR034694,2,glioma,train
+2625.mat,2625,MR034694,MR034694,2,glioma,train
+2626.mat,2626,MR034694,MR034694,2,glioma,train
+2627.mat,2627,MR034694,MR034694,2,glioma,train
+2628.mat,2628,MR034694,MR034694,2,glioma,train
+2629.mat,2629,MR034694,MR034694,2,glioma,train
+2630.mat,2630,MR034694,MR034694,2,glioma,train
+2631.mat,2631,MR054683,MR054683,2,glioma,train
+2632.mat,2632,MR054683,MR054683,2,glioma,train
+2633.mat,2633,MR054683,MR054683,2,glioma,train
+2634.mat,2634,MR050687C,MR050687,2,glioma,train
+2635.mat,2635,MR050687C,MR050687,2,glioma,train
+2636.mat,2636,MR050687C,MR050687,2,glioma,train
+2637.mat,2637,MR050687C,MR050687,2,glioma,train
+2638.mat,2638,MR050687C,MR050687,2,glioma,train
+2639.mat,2639,MR050687C,MR050687,2,glioma,train
+2640.mat,2640,MR050687C,MR050687,2,glioma,train
+2641.mat,2641,MR049242C,MR049242,2,glioma,train
+2642.mat,2642,MR049242C,MR049242,2,glioma,train
+2643.mat,2643,MR049242C,MR049242,2,glioma,train
+2644.mat,2644,MR049242C,MR049242,2,glioma,train
+2645.mat,2645,MR049242C,MR049242,2,glioma,train
+2646.mat,2646,MR053241C,MR053241,2,glioma,train
+2647.mat,2647,MR053241C,MR053241,2,glioma,train
+2648.mat,2648,MR053241C,MR053241,2,glioma,train
+2649.mat,2649,MR053241C,MR053241,2,glioma,train
+2650.mat,2650,MR034997,MR034997,2,glioma,val
+2651.mat,2651,MR034997,MR034997,2,glioma,val
+2652.mat,2652,MR034997,MR034997,2,glioma,val
+2653.mat,2653,MR034997,MR034997,2,glioma,val
+2654.mat,2654,MR034997,MR034997,2,glioma,val
+2655.mat,2655,MR034997,MR034997,2,glioma,val
+2656.mat,2656,MR034997,MR034997,2,glioma,val
+2657.mat,2657,MR029209E,MR029209,2,glioma,train
+2658.mat,2658,MR029209E,MR029209,2,glioma,train
+2659.mat,2659,MR029209E,MR029209,2,glioma,train
+2660.mat,2660,MR029209E,MR029209,2,glioma,train
+2661.mat,2661,MR029209E,MR029209,2,glioma,train
+2662.mat,2662,MR029209E,MR029209,2,glioma,train
+2663.mat,2663,MR029209E,MR029209,2,glioma,train
+2664.mat,2664,MR053110E,MR053110,2,glioma,test
+2665.mat,2665,MR053110E,MR053110,2,glioma,test
+2666.mat,2666,MR053110E,MR053110,2,glioma,test
+2667.mat,2667,MR053110E,MR053110,2,glioma,test
+2668.mat,2668,MR053110E,MR053110,2,glioma,test
+2669.mat,2669,MR053110E,MR053110,2,glioma,test
+2670.mat,2670,MR053110E,MR053110,2,glioma,test
+2671.mat,2671,MR053110E,MR053110,2,glioma,test
+2672.mat,2672,MR053110E,MR053110,2,glioma,test
+2673.mat,2673,MR053110E,MR053110,2,glioma,test
+2674.mat,2674,MR053110E,MR053110,2,glioma,test
+2675.mat,2675,MR049019G,MR049019,2,glioma,val
+2676.mat,2676,MR049019G,MR049019,2,glioma,val
+2677.mat,2677,MR049019G,MR049019,2,glioma,val
+2678.mat,2678,MR031409B,MR031409,2,glioma,train
+2679.mat,2679,MR031409B,MR031409,2,glioma,train
+2680.mat,2680,MR024780D,MR024780,2,glioma,train
+2681.mat,2681,MR024780D,MR024780,2,glioma,train
+2682.mat,2682,MR038469,MR038469,2,glioma,train
+2683.mat,2683,MR038469,MR038469,2,glioma,train
+2684.mat,2684,MR038469,MR038469,2,glioma,train
+2685.mat,2685,MR038469,MR038469,2,glioma,train
+2686.mat,2686,MR038469,MR038469,2,glioma,train
+2687.mat,2687,MR038469,MR038469,2,glioma,train
+2688.mat,2688,MR032322C,MR032322,2,glioma,train
+2689.mat,2689,MR032322C,MR032322,2,glioma,train
+2690.mat,2690,MR032322C,MR032322,2,glioma,train
+2691.mat,2691,MR032322C,MR032322,2,glioma,train
+2692.mat,2692,MR032322C,MR032322,2,glioma,train
+2693.mat,2693,MR032322C,MR032322,2,glioma,train
+2694.mat,2694,MR032322C,MR032322,2,glioma,train
+2695.mat,2695,MR032322C,MR032322,2,glioma,train
+2696.mat,2696,MR032322C,MR032322,2,glioma,train
+2697.mat,2697,MR032322C,MR032322,2,glioma,train
+2698.mat,2698,MR032322C,MR032322,2,glioma,train
+2699.mat,2699,MR032322C,MR032322,2,glioma,train
+2700.mat,2700,MR032322C,MR032322,2,glioma,train
+2701.mat,2701,MR032322C,MR032322,2,glioma,train
+2702.mat,2702,MR037458B,MR037458,2,glioma,train
+2703.mat,2703,MR037458B,MR037458,2,glioma,train
+2704.mat,2704,MR037458B,MR037458,2,glioma,train
+2705.mat,2705,MR037458B,MR037458,2,glioma,train
+2706.mat,2706,MR037458B,MR037458,2,glioma,train
+2707.mat,2707,MR037458B,MR037458,2,glioma,train
+2708.mat,2708,MR037458B,MR037458,2,glioma,train
+2709.mat,2709,MR037458B,MR037458,2,glioma,train
+2710.mat,2710,MR039473,MR039473,2,glioma,train
+2711.mat,2711,MR039473,MR039473,2,glioma,train
+2712.mat,2712,MR039473,MR039473,2,glioma,train
+2713.mat,2713,MR039473,MR039473,2,glioma,train
+2714.mat,2714,MR039473B,MR039473,2,glioma,train
+2715.mat,2715,MR039473B,MR039473,2,glioma,train
+2716.mat,2716,MR039473B,MR039473,2,glioma,train
+2717.mat,2717,MR039473B,MR039473,2,glioma,train
+2718.mat,2718,MR039473B,MR039473,2,glioma,train
+2719.mat,2719,MR039473B,MR039473,2,glioma,train
+2720.mat,2720,MR039473B,MR039473,2,glioma,train
+2721.mat,2721,MR039473B,MR039473,2,glioma,train
+2722.mat,2722,MR039473B,MR039473,2,glioma,train
+2723.mat,2723,MR037458C,MR037458,2,glioma,train
+2724.mat,2724,MR037458C,MR037458,2,glioma,train
+2725.mat,2725,MR037458C,MR037458,2,glioma,train
+2726.mat,2726,MR037458C,MR037458,2,glioma,train
+2727.mat,2727,MR037458C,MR037458,2,glioma,train
+2728.mat,2728,MR037458C,MR037458,2,glioma,train
+2729.mat,2729,MR037458C,MR037458,2,glioma,train
+2730.mat,2730,MR037458C,MR037458,2,glioma,train
+2731.mat,2731,MR029209E,MR029209,2,glioma,train
+2732.mat,2732,MR029209E,MR029209,2,glioma,train
+2733.mat,2733,MR029209E,MR029209,2,glioma,train
+2734.mat,2734,MR029209E,MR029209,2,glioma,train
+2735.mat,2735,MR029209E,MR029209,2,glioma,train
+2736.mat,2736,MR029209E,MR029209,2,glioma,train
+2737.mat,2737,MR029209E,MR029209,2,glioma,train
+2738.mat,2738,MR053110E,MR053110,2,glioma,test
+2739.mat,2739,MR053110E,MR053110,2,glioma,test
+2740.mat,2740,MR053110E,MR053110,2,glioma,test
+2741.mat,2741,MR053110E,MR053110,2,glioma,test
+2742.mat,2742,MR053110E,MR053110,2,glioma,test
+2743.mat,2743,MR049019G,MR049019,2,glioma,val
+2744.mat,2744,MR049019G,MR049019,2,glioma,val
+2745.mat,2745,MR049019G,MR049019,2,glioma,val
+2746.mat,2746,MR049019G,MR049019,2,glioma,val
+2747.mat,2747,MR049019G,MR049019,2,glioma,val
+2748.mat,2748,MR031409B,MR031409,2,glioma,train
+2749.mat,2749,MR031409B,MR031409,2,glioma,train
+2750.mat,2750,MR024780D,MR024780,2,glioma,train
+2751.mat,2751,MR024780D,MR024780,2,glioma,train
+2752.mat,2752,MR024780D,MR024780,2,glioma,train
+2753.mat,2753,MR038469,MR038469,2,glioma,train
+2754.mat,2754,MR038469,MR038469,2,glioma,train
+2755.mat,2755,MR038469,MR038469,2,glioma,train
+2756.mat,2756,MR038469,MR038469,2,glioma,train
+2757.mat,2757,MR038469,MR038469,2,glioma,train
+2758.mat,2758,MR032322C,MR032322,2,glioma,train
+2759.mat,2759,MR032322C,MR032322,2,glioma,train
+2760.mat,2760,MR032322C,MR032322,2,glioma,train
+2761.mat,2761,MR032322C,MR032322,2,glioma,train
+2762.mat,2762,MR032322C,MR032322,2,glioma,train
+2763.mat,2763,MR032322C,MR032322,2,glioma,train
+2764.mat,2764,MR032322C,MR032322,2,glioma,train
+2765.mat,2765,MR032322C,MR032322,2,glioma,train
+2766.mat,2766,MR032322C,MR032322,2,glioma,train
+2767.mat,2767,MR032322C,MR032322,2,glioma,train
+2768.mat,2768,MR032322C,MR032322,2,glioma,train
+2769.mat,2769,MR037458B,MR037458,2,glioma,train
+2770.mat,2770,MR037458B,MR037458,2,glioma,train
+2771.mat,2771,MR037458B,MR037458,2,glioma,train
+2772.mat,2772,MR037458B,MR037458,2,glioma,train
+2773.mat,2773,MR037458B,MR037458,2,glioma,train
+2774.mat,2774,MR039473,MR039473,2,glioma,train
+2775.mat,2775,MR039473,MR039473,2,glioma,train
+2776.mat,2776,MR039473,MR039473,2,glioma,train
+2777.mat,2777,MR039473,MR039473,2,glioma,train
+2778.mat,2778,MR039473,MR039473,2,glioma,train
+2779.mat,2779,MR039473,MR039473,2,glioma,train
+2780.mat,2780,MR039473B,MR039473,2,glioma,train
+2781.mat,2781,MR039473B,MR039473,2,glioma,train
+2782.mat,2782,MR039473B,MR039473,2,glioma,train
+2783.mat,2783,MR039473B,MR039473,2,glioma,train
+2784.mat,2784,MR039473B,MR039473,2,glioma,train
+2785.mat,2785,MR039473B,MR039473,2,glioma,train
+2786.mat,2786,MR039473B,MR039473,2,glioma,train
+2787.mat,2787,MR040240,MR040240,2,glioma,val
+2788.mat,2788,MR040240,MR040240,2,glioma,val
+2789.mat,2789,MR040240,MR040240,2,glioma,val
+2790.mat,2790,MR040240,MR040240,2,glioma,val
+2791.mat,2791,MR040240,MR040240,2,glioma,val
+2792.mat,2792,MR040240,MR040240,2,glioma,val
+2793.mat,2793,MR040240,MR040240,2,glioma,val
+2794.mat,2794,MR040240,MR040240,2,glioma,val
+2795.mat,2795,MR040240B,MR040240,2,glioma,val
+2796.mat,2796,MR040240B,MR040240,2,glioma,val
+2797.mat,2797,MR040240B,MR040240,2,glioma,val
+2798.mat,2798,MR040240B,MR040240,2,glioma,val
+2799.mat,2799,MR040240B,MR040240,2,glioma,val
+2800.mat,2800,MR029209G,MR029209,2,glioma,train
+2801.mat,2801,MR029209G,MR029209,2,glioma,train
+2802.mat,2802,MR029209G,MR029209,2,glioma,train
+2803.mat,2803,MR029209G,MR029209,2,glioma,train
+2804.mat,2804,MR029209G,MR029209,2,glioma,train
+2805.mat,2805,MR036496B,MR036496,2,glioma,train
+2806.mat,2806,MR036496B,MR036496,2,glioma,train
+2807.mat,2807,MR036496B,MR036496,2,glioma,train
+2808.mat,2808,MR036496B,MR036496,2,glioma,train
+2809.mat,2809,MR033420,MR033420,2,glioma,test
+2810.mat,2810,MR033420,MR033420,2,glioma,test
+2811.mat,2811,MR033420,MR033420,2,glioma,test
+2812.mat,2812,MR033420,MR033420,2,glioma,test
+2813.mat,2813,MR033420,MR033420,2,glioma,test
+2814.mat,2814,MR033420,MR033420,2,glioma,test
+2815.mat,2815,MR033420,MR033420,2,glioma,test
+2816.mat,2816,MR033420,MR033420,2,glioma,test
+2817.mat,2817,MR024780B,MR024780,2,glioma,train
+2818.mat,2818,MR024780B,MR024780,2,glioma,train
+2819.mat,2819,MR024780B,MR024780,2,glioma,train
+2820.mat,2820,MR024780B,MR024780,2,glioma,train
+2821.mat,2821,MR033389B,MR033389,2,glioma,train
+2822.mat,2822,MR048294,MR048294,2,glioma,train
+2823.mat,2823,MR048297,MR048297,2,glioma,train
+2824.mat,2824,MR048297,MR048297,2,glioma,train
+2825.mat,2825,MR048297,MR048297,2,glioma,train
+2826.mat,2826,MR048297,MR048297,2,glioma,train
+2827.mat,2827,MR048297,MR048297,2,glioma,train
+2828.mat,2828,MR048297,MR048297,2,glioma,train
+2829.mat,2829,MR048297,MR048297,2,glioma,train
+2830.mat,2830,MR048297,MR048297,2,glioma,train
+2831.mat,2831,MR048294B,MR048294,2,glioma,train
+2832.mat,2832,MR048294B,MR048294,2,glioma,train
+2833.mat,2833,MR048294B,MR048294,2,glioma,train
+2834.mat,2834,MR048294B,MR048294,2,glioma,train
+2835.mat,2835,MR048294B,MR048294,2,glioma,train
+2836.mat,2836,MR048294B,MR048294,2,glioma,train
+2837.mat,2837,MR048621B,MR048621,2,glioma,val
+2838.mat,2838,MR048621B,MR048621,2,glioma,val
+2839.mat,2839,MR048621B,MR048621,2,glioma,val
+2840.mat,2840,MR048944,MR048944,2,glioma,train
+2841.mat,2841,MR048944,MR048944,2,glioma,train
+2842.mat,2842,MR048944,MR048944,2,glioma,train
+2843.mat,2843,MR048944,MR048944,2,glioma,train
+2844.mat,2844,MR048944,MR048944,2,glioma,train
+2845.mat,2845,MR048944,MR048944,2,glioma,train
+2846.mat,2846,MR048994,MR048994,2,glioma,train
+2847.mat,2847,MR048994,MR048994,2,glioma,train
+2848.mat,2848,MR048994,MR048994,2,glioma,train
+2849.mat,2849,MR048994,MR048994,2,glioma,train
+2850.mat,2850,MR048994,MR048994,2,glioma,train
+2851.mat,2851,MR048994,MR048994,2,glioma,train
+2852.mat,2852,MR048994,MR048994,2,glioma,train
+2853.mat,2853,MR048994,MR048994,2,glioma,train
+2854.mat,2854,MR049104,MR049104,2,glioma,val
+2855.mat,2855,MR049104,MR049104,2,glioma,val
+2856.mat,2856,MR049104,MR049104,2,glioma,val
+2857.mat,2857,MR049104,MR049104,2,glioma,val
+2858.mat,2858,MR049142,MR049142,2,glioma,train
+2859.mat,2859,MR049142,MR049142,2,glioma,train
+2860.mat,2860,MR049142,MR049142,2,glioma,train
+2861.mat,2861,MR048994B,MR048994,2,glioma,train
+2862.mat,2862,MR048994B,MR048994,2,glioma,train
+2863.mat,2863,MR048994B,MR048994,2,glioma,train
+2864.mat,2864,MR048994B,MR048994,2,glioma,train
+2865.mat,2865,MR048994B,MR048994,2,glioma,train
+2866.mat,2866,MR049358,MR049358,2,glioma,train
+2867.mat,2867,MR049358,MR049358,2,glioma,train
+2868.mat,2868,MR049358,MR049358,2,glioma,train
+2869.mat,2869,MR049358,MR049358,2,glioma,train
+2870.mat,2870,MR049358,MR049358,2,glioma,train
+2871.mat,2871,MR049358,MR049358,2,glioma,train
+2872.mat,2872,MR049358,MR049358,2,glioma,train
+2873.mat,2873,MR049104B,MR049104,2,glioma,val
+2874.mat,2874,MR049104B,MR049104,2,glioma,val
+2875.mat,2875,MR049104B,MR049104,2,glioma,val
+2876.mat,2876,MR049453,MR049453,2,glioma,train
+2877.mat,2877,MR049453,MR049453,2,glioma,train
+2878.mat,2878,MR049453,MR049453,2,glioma,train
+2879.mat,2879,MR049453,MR049453,2,glioma,train
+2880.mat,2880,MR049453,MR049453,2,glioma,train
+2881.mat,2881,MR049453,MR049453,2,glioma,train
+2882.mat,2882,MR049453,MR049453,2,glioma,train
+2883.mat,2883,MR049453,MR049453,2,glioma,train
+2884.mat,2884,MR049453,MR049453,2,glioma,train
+2885.mat,2885,MR024780G,MR024780,2,glioma,train
+2886.mat,2886,MR024780G,MR024780,2,glioma,train
+2887.mat,2887,MR024780G,MR024780,2,glioma,train
+2888.mat,2888,MR024780G,MR024780,2,glioma,train
+2889.mat,2889,MR024780G,MR024780,2,glioma,train
+2890.mat,2890,MR024780G,MR024780,2,glioma,train
+2891.mat,2891,MR050135B,MR050135,2,glioma,train
+2892.mat,2892,MR050135B,MR050135,2,glioma,train
+2893.mat,2893,MR050135B,MR050135,2,glioma,train
+2894.mat,2894,MR050135B,MR050135,2,glioma,train
+2895.mat,2895,MR050135B,MR050135,2,glioma,train
+2896.mat,2896,MR050135B,MR050135,2,glioma,train
+2897.mat,2897,MR050135B,MR050135,2,glioma,train
+2898.mat,2898,MR050135B,MR050135,2,glioma,train
+2899.mat,2899,MR050135B,MR050135,2,glioma,train
+2900.mat,2900,MR050687,MR050687,2,glioma,train
+2901.mat,2901,MR050687,MR050687,2,glioma,train
+2902.mat,2902,MR050687,MR050687,2,glioma,train
+2903.mat,2903,MR050687,MR050687,2,glioma,train
+2904.mat,2904,MR050687,MR050687,2,glioma,train
+2905.mat,2905,MR050687,MR050687,2,glioma,train
+2906.mat,2906,MR050791B,MR050791,2,glioma,val
+2907.mat,2907,MR050791B,MR050791,2,glioma,val
+2908.mat,2908,MR050791B,MR050791,2,glioma,val
+2909.mat,2909,MR050791B,MR050791,2,glioma,val
+2910.mat,2910,MR050791B,MR050791,2,glioma,val
+2911.mat,2911,MR050791B,MR050791,2,glioma,val
+2912.mat,2912,MR050791B,MR050791,2,glioma,val
+2913.mat,2913,MR050791B,MR050791,2,glioma,val
+2914.mat,2914,MR049019C,MR049019,2,glioma,val
+2915.mat,2915,MR049019C,MR049019,2,glioma,val
+2916.mat,2916,MR049019C,MR049019,2,glioma,val
+2917.mat,2917,MR049019C,MR049019,2,glioma,val
+2918.mat,2918,MR051461,MR051461,2,glioma,test
+2919.mat,2919,MR051461,MR051461,2,glioma,test
+2920.mat,2920,MR051461,MR051461,2,glioma,test
+2921.mat,2921,MR051461,MR051461,2,glioma,test
+2922.mat,2922,MR051461,MR051461,2,glioma,test
+2923.mat,2923,MR051461,MR051461,2,glioma,test
+2924.mat,2924,MR051461,MR051461,2,glioma,test
+2925.mat,2925,MR051586,MR051586,2,glioma,train
+2926.mat,2926,MR051586,MR051586,2,glioma,train
+2927.mat,2927,MR051586,MR051586,2,glioma,train
+2928.mat,2928,MR051586,MR051586,2,glioma,train
+2929.mat,2929,MR051586,MR051586,2,glioma,train
+2930.mat,2930,MR051586,MR051586,2,glioma,train
+2931.mat,2931,MR051586,MR051586,2,glioma,train
+2932.mat,2932,MR051586,MR051586,2,glioma,train
+2933.mat,2933,MR051586,MR051586,2,glioma,train
+2934.mat,2934,MR051644,MR051644,2,glioma,test
+2935.mat,2935,MR051644,MR051644,2,glioma,test
+2936.mat,2936,MR051644,MR051644,2,glioma,test
+2937.mat,2937,MR051644,MR051644,2,glioma,test
+2938.mat,2938,MR051644,MR051644,2,glioma,test
+2939.mat,2939,MR051644,MR051644,2,glioma,test
+2940.mat,2940,MR051644,MR051644,2,glioma,test
+2941.mat,2941,MR051644,MR051644,2,glioma,test
+2942.mat,2942,MR051644,MR051644,2,glioma,test
+2943.mat,2943,MR051644,MR051644,2,glioma,test
+2944.mat,2944,MR051651,MR051651,2,glioma,train
+2945.mat,2945,MR051651,MR051651,2,glioma,train
+2946.mat,2946,MR051651,MR051651,2,glioma,train
+2947.mat,2947,MR051651,MR051651,2,glioma,train
+2948.mat,2948,MR051796,MR051796,2,glioma,train
+2949.mat,2949,MR051796,MR051796,2,glioma,train
+2950.mat,2950,MR051796,MR051796,2,glioma,train
+2951.mat,2951,MR051796,MR051796,2,glioma,train
+2952.mat,2952,MR051796,MR051796,2,glioma,train
+2953.mat,2953,MR051796,MR051796,2,glioma,train
+2954.mat,2954,MR051796,MR051796,2,glioma,train
+2955.mat,2955,MR051651B,MR051651,2,glioma,train
+2956.mat,2956,MR051651B,MR051651,2,glioma,train
+2957.mat,2957,MR051651B,MR051651,2,glioma,train
+2958.mat,2958,MR051651B,MR051651,2,glioma,train
+2959.mat,2959,MR051651B,MR051651,2,glioma,train
+2960.mat,2960,MR051651B,MR051651,2,glioma,train
+2961.mat,2961,MR051644B,MR051644,2,glioma,test
+2962.mat,2962,MR051644B,MR051644,2,glioma,test
+2963.mat,2963,MR051644B,MR051644,2,glioma,test
+2964.mat,2964,MR051644B,MR051644,2,glioma,test
+2965.mat,2965,MR051644B,MR051644,2,glioma,test
+2966.mat,2966,MR051644B,MR051644,2,glioma,test
+2967.mat,2967,MR051644B,MR051644,2,glioma,test
+2968.mat,2968,MR051644B,MR051644,2,glioma,test
+2969.mat,2969,MR051644B,MR051644,2,glioma,test
+2970.mat,2970,MR051796B,MR051796,2,glioma,train
+2971.mat,2971,MR051796B,MR051796,2,glioma,train
+2972.mat,2972,MR051796B,MR051796,2,glioma,train
+2973.mat,2973,MR051796B,MR051796,2,glioma,train
+2974.mat,2974,MR051796B,MR051796,2,glioma,train
+2975.mat,2975,MR052550,MR052550,2,glioma,train
+2976.mat,2976,MR052550,MR052550,2,glioma,train
+2977.mat,2977,MR052550,MR052550,2,glioma,train
+2978.mat,2978,MR052550,MR052550,2,glioma,train
+2979.mat,2979,MR052550,MR052550,2,glioma,train
+2980.mat,2980,MR052550,MR052550,2,glioma,train
+2981.mat,2981,MR052550,MR052550,2,glioma,train
+2982.mat,2982,MR052550,MR052550,2,glioma,train
+2983.mat,2983,MR051644C,MR051644,2,glioma,test
+2984.mat,2984,MR051644C,MR051644,2,glioma,test
+2985.mat,2985,MR051644C,MR051644,2,glioma,test
+2986.mat,2986,MR051644C,MR051644,2,glioma,test
+2987.mat,2987,MR051644C,MR051644,2,glioma,test
+2988.mat,2988,MR051644C,MR051644,2,glioma,test
+2989.mat,2989,MR051644C,MR051644,2,glioma,test
+2990.mat,2990,MR051644C,MR051644,2,glioma,test
+2991.mat,2991,MR051644C,MR051644,2,glioma,test
+2992.mat,2992,MR051644C,MR051644,2,glioma,test
+2993.mat,2993,MR049942B,MR049942,2,glioma,train
+2994.mat,2994,MR049942B,MR049942,2,glioma,train
+2995.mat,2995,MR049942B,MR049942,2,glioma,train
+2996.mat,2996,MR052585B,MR052585,2,glioma,train
+2997.mat,2997,MR052585B,MR052585,2,glioma,train
+2998.mat,2998,MR052585B,MR052585,2,glioma,train
+2999.mat,2999,MR053110B,MR053110,2,glioma,test
+3000.mat,3000,MR053110B,MR053110,2,glioma,test
+3001.mat,3001,MR053110B,MR053110,2,glioma,test
+3002.mat,3002,MR053110B,MR053110,2,glioma,test
+3003.mat,3003,MR053110B,MR053110,2,glioma,test
+3004.mat,3004,MR053110B,MR053110,2,glioma,test
+3005.mat,3005,MR034694,MR034694,2,glioma,train
+3006.mat,3006,MR034694,MR034694,2,glioma,train
+3007.mat,3007,MR034694,MR034694,2,glioma,train
+3008.mat,3008,MR034694,MR034694,2,glioma,train
+3009.mat,3009,MR054875,MR054875,2,glioma,train
+3010.mat,3010,MR054875,MR054875,2,glioma,train
+3011.mat,3011,MR054875,MR054875,2,glioma,train
+3012.mat,3012,MR054875,MR054875,2,glioma,train
+3013.mat,3013,MR054875,MR054875,2,glioma,train
+3014.mat,3014,MR050687C,MR050687,2,glioma,train
+3015.mat,3015,MR050687C,MR050687,2,glioma,train
+3016.mat,3016,MR050687C,MR050687,2,glioma,train
+3017.mat,3017,MR050687C,MR050687,2,glioma,train
+3018.mat,3018,MR050687C,MR050687,2,glioma,train
+3019.mat,3019,MR050687C,MR050687,2,glioma,train
+3020.mat,3020,MR056144,MR056144,2,glioma,train
+3021.mat,3021,MR056144,MR056144,2,glioma,train
+3022.mat,3022,MR034997,MR034997,2,glioma,val
+3023.mat,3023,MR034997,MR034997,2,glioma,val
+3024.mat,3024,MR034997,MR034997,2,glioma,val
+3025.mat,3025,MR034997,MR034997,2,glioma,val
+3026.mat,3026,MR034997,MR034997,2,glioma,val
+3027.mat,3027,MR034997,MR034997,2,glioma,val
+3028.mat,3028,MR034997,MR034997,2,glioma,val
+3029.mat,3029,MR029209E,MR029209,2,glioma,train
+3030.mat,3030,53669,53669,1,meningioma,train
+3031.mat,3031,MR033389B,MR033389,2,glioma,train
+3032.mat,3032,MR033389B,MR033389,2,glioma,train
+3033.mat,3033,MR033389B,MR033389,2,glioma,train
+3034.mat,3034,MR033389B,MR033389,2,glioma,train
+3035.mat,3035,MR033389B,MR033389,2,glioma,train
+3036.mat,3036,MR033389B,MR033389,2,glioma,train
+3037.mat,3037,MR033389B,MR033389,2,glioma,train
+3038.mat,3038,MR033389B,MR033389,2,glioma,train
+3039.mat,3039,MR024780E,MR024780,2,glioma,train
+3040.mat,3040,MR024780E,MR024780,2,glioma,train
+3041.mat,3041,MR024780E,MR024780,2,glioma,train
+3042.mat,3042,MR040240C,MR040240,2,glioma,val
+3043.mat,3043,MR040240C,MR040240,2,glioma,val
+3044.mat,3044,MR040240C,MR040240,2,glioma,val
+3045.mat,3045,MR040240C,MR040240,2,glioma,val
+3046.mat,3046,MR040240C,MR040240,2,glioma,val
+3047.mat,3047,MR040240D,MR040240,2,glioma,val
+3048.mat,3048,MR040240D,MR040240,2,glioma,val
+3049.mat,3049,MR017260F,MR017260,2,glioma,train
+3050.mat,3050,MR017260F,MR017260,2,glioma,train
+3051.mat,3051,MR017260F,MR017260,2,glioma,train
+3052.mat,3052,MR017260F,MR017260,2,glioma,train
+3053.mat,3053,MR017260F,MR017260,2,glioma,train
+3054.mat,3054,MR017260F,MR017260,2,glioma,train
+3055.mat,3055,MR017260F,MR017260,2,glioma,train
+3056.mat,3056,MR029209I,MR029209,2,glioma,train
+3057.mat,3057,MR029209I,MR029209,2,glioma,train
+3058.mat,3058,MR029209I,MR029209,2,glioma,train
+3059.mat,3059,MR029209I,MR029209,2,glioma,train
+3060.mat,3060,MR029209I,MR029209,2,glioma,train
+3061.mat,3061,MR029209I,MR029209,2,glioma,train
+3062.mat,3062,MR029209I,MR029209,2,glioma,train
+3063.mat,3063,95969,95969,1,meningioma,train
+3064.mat,3064,88510,88510,1,meningioma,val

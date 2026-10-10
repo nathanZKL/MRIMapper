@@ -53,3 +53,23 @@ to JPEG. JPEG compression is lossy, and rescaling to 8-bit throws away intensity
 4. **cvind.mat** keeps each exact ID in one fold, but 16 of those 18 groups are split
    across folds. We therefore plan to make our own patient-grouped split instead of
    using cvind.mat.
+
+## The patient-grouped split (milestone 2)
+
+Made by `src/make_split.py`, saved in `splits/split_v1.csv` + `splits/split_v1.json`,
+summarized in `reports/split_report.md`.
+
+- **Unit:** the patient group from `mat_loader.pid_base()` (209 groups). A group is never
+  divided, so no patient appears in two splits.
+- **Stratified by tumor type:** each type is split on its own. Groups are sorted, shuffled
+  with seed 42, and each goes to the split furthest below its target share of images.
+- **Result:** train 2151 / val 468 / test 445 images (70.2 / 15.3 / 14.5 %), 151 / 28 / 30
+  patient groups. Every tumor type is within 1 point of 70/15/15 in images.
+- **Caveat:** glioma patients have many images each, so test contains only 5 glioma patient
+  groups (val 8). Glioma scores on test will rest on few people.
+- **Reuse, not reshuffle:** the JSON stores SHA-256 fingerprints of the dataset metadata
+  (file, PID, label) and of the assignments. Later runs reuse the saved split and stop if the
+  file was edited or the dataset changed.
+- **Lone suffixed IDs:** besides the 18 groups, 13 more glioma IDs carry a letter suffix
+  but have no sibling ID (e.g. `MR017260F`). Each is its own patient; its
+  `patient_group` in the split CSV just drops the letter.

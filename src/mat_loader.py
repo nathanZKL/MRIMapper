@@ -33,16 +33,20 @@ def _decode_matlab_string(dataset):
     return "".join(chr(int(c)) for c in codes).strip()
 
 
+def _read_label(cj):
+    label_values = np.asarray(cj["label"][()]).ravel()
+    if label_values.size != 1:
+        raise ValueError(f"label has {label_values.size} values, expected 1")
+    label_float = float(label_values[0])
+    return int(label_float) if label_float.is_integer() else label_float  # keep weird values visible
+
+
 def load_slice(path):
     """Read one .mat file and return a TumorSlice. Raises on unreadable files."""
     path = Path(path)
     with h5py.File(path, "r") as f:
         cj = f["cjdata"]
-        label_values = np.asarray(cj["label"][()]).ravel()
-        if label_values.size != 1:
-            raise ValueError(f"label has {label_values.size} values, expected 1")
-        label_float = float(label_values[0])
-        label = int(label_float) if label_float.is_integer() else label_float  # keep weird values visible
+        label = _read_label(cj)
 
         image = np.asarray(cj["image"][()]).T
         mask_raw = np.asarray(cj["tumorMask"][()]).T
@@ -63,6 +67,13 @@ def load_slice(path):
         mask=mask_raw.astype(bool),
         border=border_flat.reshape(-1, 2),
     )
+
+
+def load_metadata(path):
+    """Return (label, pid) only. Much faster than load_slice: skips image and mask."""
+    with h5py.File(Path(path), "r") as f:
+        cj = f["cjdata"]
+        return _read_label(cj), _decode_matlab_string(cj["PID"])
 
 
 def pid_base(pid):

@@ -3,3 +3,4 @@
 numpy==2.5.3        # arrays (images and masks)
 h5py==3.16.0        # reads MATLAB v7.3 .mat files (they are HDF5 inside)
 matplotlib==3.11.2  # preview figures
+pytest==9.1.1       # runs the automated tests in tests/ (milestone 2)
